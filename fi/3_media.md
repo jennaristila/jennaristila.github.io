@@ -9,7 +9,7 @@ lang: fi
 
 
 ### Arvostelut
-
+<br/>
 "Pianisti Jenna Ristilä on keskeinen tekijä [kamarioopperan esityksessä]. Hän heittäytyy jopa näyttelemään ja tuo esille kaikki säveltäjän oivallukset ja antaa laulajille vankan taustan laulaa ja näytellä sydämen kyllyydestä."
 
 _Riitta-Leena Lempinen-Vesa, Itä-Savo 8.11.2014_
