@@ -24,14 +24,17 @@ Come and hear the songs live as well!
 <br/>
 
 
-### Telephone Opera
+### Folk for Lunch
 
-Soprano Päivi Pylvänäinen, baritone Joonas Asikainen and Jenna Ristilä are reinventing Menotti's Telephone Opera with the director Eljas Liinamaa. 
+Jenna Ristilä, Maria Clavel and Marielle Iivonen -trio serves folk-influenced repertoire: two movements of Paul Schoenfield's kletzmer-based trio and six Hungarian dances by Bartok. Welcome!
 
-Program 10€ at the door. Performed in Finnish. 
+- __11.12__ at 12 am __N-K55__, Nervanderinkatu 13, Helsinki
 
-Performances in Eastern Finland: 
+<br/>
 
-- __6.11__ at 7 pm in __Melartin hall__, Sotilaspojankatu 2, Savonlinna
-- __7.11__ at 7 pm in __Rantasalmen keskuskoulu__, Rantasalmi
+### Friday Brahms
+
+Friday is filled with piano music - Teppo Koivisto's students are performing. Jenna Ristilä plays the Handel Variations by Brahms.
+
+__28.11__ at 7.15 pm __Wegelius Hall__, Töölönkatu 28, Helsinki
 
