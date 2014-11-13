@@ -26,8 +26,6 @@ _Liisa Rousti, Itä-Savo 27.5.2012_
 
 ### Musiikkia
 <br/>
-
-
 __Matei Gheorghiu: Sonata no. 2 (2010)__  
 
 	Jenna Ristilä, piano  
