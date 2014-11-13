@@ -15,7 +15,7 @@ kylliksi, tulkintatahtoa ja eläytymistä samoin. (–) [Rachmaninoffin Corelli-
 vaativa ja laaja teos. Jenna Ristilä selvitti sen vaikeudet loisteliaasti ja vahvalla otteella. (–) Jenna vaikuttaa
 varmaotteiselta ja päämäärätietoisen vahvalta tulkitsijalta."
 
-	_Liisa Rousti, Itä-Savo 27.5.2012_
+_Liisa Rousti, Itä-Savo 27.5.2012_
 
 __Matei Gheorghiu: Sonata no. 2 (2010)__  
 
