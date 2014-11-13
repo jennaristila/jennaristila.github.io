@@ -13,7 +13,7 @@ lang: fi
 
 ### Joululevy & konsertteja
 
-Sopraano Johanna Lehesvuoren ja Jenna Ristilän joululevy 'Joulun valo' on nyt julkaistu. Tunnelmallinen levy sisältää perinteisiä suomalaisia joululauluja ja lauluja neitsyt Mariasta. Levy on myynnissä Stockmannilla ja Musiikkitalon Fuugassa.
+Sopraano Johanna Lehesvuoren ja Jenna Ristilän joululevy 'Joulun valo' on nyt julkaistu. Tunnelmallinen levy sisältää perinteisiä suomalaisia joululauluja ja lauluja neitsyt Mariasta. Levy on myynnissä Stockmannilla ja Musiikkitalon levykauppa Fugassa.
 
 Tervetuloa kuuntelemaan meitä myös livenä!
 
