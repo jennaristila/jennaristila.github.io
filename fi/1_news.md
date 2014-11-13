@@ -13,7 +13,7 @@ lang: fi
 
 ### Joululevy & konsertteja
 
-Sopraano Johanna Lehesvuoren ja Jenna Ristilän joululevy 'Joulun valo' ilmestyy marraskuussa. Tunnelmallinen levy sisältää perinteisiä suomalaisia joululauluja ja lauluja neitsyt Mariasta. Levyn voi varata ennakkoon sähköpostitse <j.ristilae@gmail.com>.
+Sopraano Johanna Lehesvuoren ja Jenna Ristilän joululevy 'Joulun valo' on nyt julkaistu. Tunnelmallinen levy sisältää perinteisiä suomalaisia joululauluja ja lauluja neitsyt Mariasta. Levy on myynnissä Stockmannilla ja Musiikkitalon Fuugassa.
 
 Tervetuloa kuuntelemaan meitä myös livenä!
 
@@ -25,14 +25,17 @@ Tervetuloa kuuntelemaan meitä myös livenä!
 
 <br/>
 
-### Puhelinooppera
+### Kansanmusiikkia lounaaksi
 
-Sopraano Päivi Pylvänäinen, baritoni Joonas Asikainen ja Jenna Ristilä uudistavat Menottin Puhelinoopperaa ohjaaja Eljas Liinamaan kanssa. 
+Jenna Ristilän, Maria Clavelin ja Marielle Iivosen trio tarjoilevat kansanmusiikkivaikutteista ohjelmistoa: Paul Schoenfieldin kletzmerpohjaisen trion 2 osaa sekä Bartokin kuusi unkarilaista tanssia. Tervetuloa!
 
-Käsiohjelma 10€ ovelta. Esityskieli suomi. 
+- __11.12__ klo 12 __N-K55__, Nervanderinkatu 13, Helsinki
 
-Esityksiä Itä-Suomessa: 
+<br/>
 
-- __6.11__ klo 19 __Melartin-sali__, Sotilaspojankatu 2, Savonlinna
-- __7.11__ klo 19 __Rantasalmen keskuskoulu__, Rantasalmi
+### Brahmsia perjantai-iltaan
+
+Perjantai on täynnä pianomusiikkia - Teppo Koiviston piano-oppilaat esiintyvät. Jenna Ristilä soittaa Brahmsin Händel-variaatiot.
+
+__28.11__ klo 19.15 __Wegelius-sali__, Töölönkatu 28, Helsinki
 
