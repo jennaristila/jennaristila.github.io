@@ -7,6 +7,16 @@ lang: fi
 
 <h1>{{ page.title }}</h1>
 
+
+### Arvostelut
+
+"Jenna Ristilä on päässyt soitossaan ammattilaistasolle. Voimaa ja teknistä taitoa sekä musikaalisuutta on
+kylliksi, tulkintatahtoa ja eläytymistä samoin. (–) [Rachmaninoffin Corelli-muunnelmat] on teknisesti erittäin
+vaativa ja laaja teos. Jenna Ristilä selvitti sen vaikeudet loisteliaasti ja vahvalla otteella. (–) Jenna vaikuttaa
+varmaotteiselta ja päämäärätietoisen vahvalta tulkitsijalta."
+
+	_Liisa Rousti, Itä-Savo 27.5.2012_
+
 __Matei Gheorghiu: Sonata no. 2 (2010)__  
 
 	Jenna Ristilä, piano  
