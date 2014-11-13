@@ -28,7 +28,7 @@ Come and hear the songs live as well!
 
 Jenna Ristilä, Maria Clavel and Marielle Iivonen -trio serves folk-influenced repertoire: two movements of Paul Schoenfield's kletzmer-based trio and six Hungarian dances by Bartok. Welcome!
 
-- __11.12__ at 12 am __N-K55__, Nervanderinkatu 13, Helsinki
+- __11.12__ at 12 pm __N-K55__, Nervanderinkatu 13, Helsinki
 
 <br/>
 
