@@ -7,6 +7,21 @@ lang: en
 
 <h1>{{ page.title }}</h1>
 
+### Reviews
+<br/>
+"Pianist Jenna Ristilä plays an important role [in the chamber opera performance]. She even acts and brings out all the composer's ideas and gives the singers a solid background so that they're free to sing and act to their hearts' content."
+
+_Riitta-Leena Lempinen-Vesa, Itä-Savo 8.11.2014_
+
+
+"Jenna Ristilä has reached a professional level in her playing. She's got plenty of strength, technical skill and musicality as well as emotional depth. (-) [The Corelli Variations by Rachmaninoff] is technically extremely demanding, large-scale work. Jenna Ristilä overcame the challenge with brilliance. (-) Jenna seems like a determined and strong interpreter."
+
+_Liisa Rousti, Itä-Savo 27.5.2012_
+
+<br/>
+
+### Music
+<br/>
 __Matei Gheorghiu: Sonata no. 2 (2010)__  
 
 	Jenna Ristilä, piano  
