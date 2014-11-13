@@ -11,7 +11,7 @@ lang: en
 
 ### Christmas cd & concerts
 
-Soprano Johanna Lehesvuori and Jenna Ristilä's Christmas cd 'Joulun valo' is coming out in November. The cd includes traditional Finnish Christmas songs and songs about Virgin Mary. You can order the cd in advance by email <j.ristilae@gmail.com>.
+Soprano Johanna Lehesvuori and Jenna Ristilä's Christmas cd 'Joulun valo' is out now. The cd includes traditional Finnish Christmas songs and songs about Virgin Mary. It is sold in Stockmann and in the Fuga record store in Helsinki Music Center.
 
 Come and hear the songs live as well!
 
