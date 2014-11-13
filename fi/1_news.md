@@ -27,7 +27,7 @@ Tervetuloa kuuntelemaan meitä myös livenä!
 
 ### Kansanmusiikkia lounaaksi
 
-Jenna Ristilän, Maria Clavelin ja Marielle Iivosen trio tarjoilevat kansanmusiikkivaikutteista ohjelmistoa: Paul Schoenfieldin kletzmerpohjaisen trion 2 osaa sekä Bartokin kuusi unkarilaista tanssia. Tervetuloa!
+Jenna Ristilän, Maria Clavelin ja Marielle Iivosen trio tarjoilee kansanmusiikkivaikutteista ohjelmistoa: Paul Schoenfieldin kletzmerpohjaisen trion 2 osaa sekä Bartokin kuusi unkarilaista tanssia. Tervetuloa!
 
 - __11.12__ klo 12 __N-K55__, Nervanderinkatu 13, Helsinki
 
