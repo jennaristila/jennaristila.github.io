@@ -10,12 +10,17 @@ lang: fi
 
 ### Arvostelut
 
+"Pianisti Jenna Ristilä on keskeinen tekijä [kamarioopperan esityksessä]. Hän heittäytyy jopa näyttelemään ja tuo esille kaikki säveltäjän oivallukset ja antaa laulajille vankan taustan laulaa ja näytellä sydämen kyllyydestä."
+
+_Riitta-Leena Lempinen-Vesa, Itä-Savo 8.11.2014_
+
+
 "Jenna Ristilä on päässyt soitossaan ammattilaistasolle. Voimaa ja teknistä taitoa sekä musikaalisuutta on
 kylliksi, tulkintatahtoa ja eläytymistä samoin. (–) [Rachmaninoffin Corelli-muunnelmat] on teknisesti erittäin
 vaativa ja laaja teos. Jenna Ristilä selvitti sen vaikeudet loisteliaasti ja vahvalla otteella. (–) Jenna vaikuttaa
 varmaotteiselta ja päämäärätietoisen vahvalta tulkitsijalta."
 
-_Liisa Rousti, Itä-Savo 27.5.2012_
+- _Liisa Rousti, Itä-Savo 27.5.2012_
 
 __Matei Gheorghiu: Sonata no. 2 (2010)__  
 
