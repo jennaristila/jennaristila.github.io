@@ -18,7 +18,7 @@ Sopraano Johanna Lehesvuoren ja Jenna Ristilän joululevy 'Joulun valo' on nyt j
 Tervetuloa kuuntelemaan meitä myös livenä!
 
 - __9.12__ klo 18 __Finska Kyrkan__, Slottsbacken 2b-2c, Tukholma
-- __11.12__ klo 18 __Jokelan kirkko__, Kouluraitti 11, Jokela
+- __11.12__ klo 19 __Jokelan kirkko__, Kouluraitti 11, Jokela
 - __13.12__ klo 18 __Taidekappeli__, Seiskarinkatu 35, Turku 
 <!--<http://www.taidekappeli.fi>-->
 
@@ -27,15 +27,17 @@ Tervetuloa kuuntelemaan meitä myös livenä!
 
 ### Kansanmusiikkia lounaaksi
 
-Jenna Ristilän, Maria Clavelin ja Marielle Iivosen trio tarjoilee kansanmusiikkivaikutteista ohjelmistoa: Paul Schoenfieldin kletzmerpohjaisen trion 2 osaa sekä Bartokin kuusi unkarilaista tanssia. Tervetuloa!
+Jenna Ristilän, Maria Clavelin ja Marielle Iivosen trio tarjoilee kansanmusiikkivaikutteista ohjelmistoa: Paul Schoenfieldin kletzmerpohjaisen trion 2 osaa sekä Bartokin kuusi unkarilaista tanssia. Jos et pääse torstaina paikalle, trio esiintyy myös sunnuntaina Harri Mäen oppilaskonsertissa. Tervetuloa!
 
 - __11.12__ klo 12 __N-K55__, Nervanderinkatu 13, Helsinki
+- __14.12__ klo 16 __Wegelius-sali__, Töölönkatu 28, Helsinki
 
 <br/>
 
 ### Brahmsia perjantai-iltaan
 
-Perjantai on täynnä pianomusiikkia - Teppo Koiviston piano-oppilaat esiintyvät. Jenna Ristilä soittaa Brahmsin Händel-variaatiot.
+Perjantait ovat täynnä pianomusiikkia - Teppo Koiviston piano-oppilaat esiintyvät. Jenna Ristilä soittaa Brahmsin Händel-variaatiot.
 
 __28.11__ klo 19.15 __Wegelius-sali__, Töölönkatu 28, Helsinki
+__19.12__ klo 18.30 __Sonore__, Musiikkitalo, Helsinki
 
