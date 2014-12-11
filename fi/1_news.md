@@ -38,6 +38,6 @@ Jenna Ristilän, Maria Clavelin ja Marielle Iivosen trio tarjoilee kansanmusiikk
 
 Perjantait ovat täynnä pianomusiikkia - Teppo Koiviston piano-oppilaat esiintyvät. Jenna Ristilä soittaa Brahmsin Händel-variaatiot.
 
-__28.11__ klo 19.15 __Wegelius-sali__, Töölönkatu 28, Helsinki
-__19.12__ klo 18.30 __Sonore__, Musiikkitalo, Helsinki
+- __28.11__ klo 19.15 __Wegelius-sali__, Töölönkatu 28, Helsinki
+- __19.12__ klo 18.30 __Sonore__, Musiikkitalo, Helsinki
 
