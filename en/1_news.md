@@ -16,7 +16,7 @@ Soprano Johanna Lehesvuori and Jenna Ristilä's Christmas cd 'Joulun valo' is ou
 Come and hear the songs live as well!
 
 - __9.12__ at 6 pm in __Finska Kyrkan__, Slottsbacken 2b-2c, Stockholm
-- __11.12__ at 6 pm in __Jokela church__, Kouluraitti 11, Jokela
+- __11.12__ at 7 pm in __Jokela church__, Kouluraitti 11, Jokela
 - __13.12__ at 6 pm in the __Art Chapel__, Seiskarinkatu 35, Turku 
 <!--<http://www.taidekappeli.fi>-->
 <!--[www.taidekappeli.fi](http://www.taidekappeli.fi){:target="_blank"}  foo-->
@@ -26,15 +26,17 @@ Come and hear the songs live as well!
 
 ### Folk for Lunch
 
-Jenna Ristilä, Maria Clavel and Marielle Iivonen -trio serves folk-influenced repertoire: two movements of Paul Schoenfield's kletzmer-based trio and six Hungarian dances by Bartok. Welcome!
+Jenna Ristilä, Maria Clavel and Marielle Iivonen -trio serves folk-influenced repertoire: two movements of Paul Schoenfield's kletzmer-based trio and six Hungarian dances by Bartok. If you can't make it on Thursday, come listen on Sunday, when the trio plays in Harri Mäki's class concert. Welcome!
 
 - __11.12__ at 12 pm __N-K55__, Nervanderinkatu 13, Helsinki
+- __14.12__ at 4 pm __Wegelius Hall__, Töölönkatu 28, Helsinki
 
 <br/>
 
 ### Friday Brahms
 
-Friday is filled with piano music - Teppo Koivisto's students are performing. Jenna Ristilä plays the Handel Variations by Brahms.
+Fridays are filled with piano music - Teppo Koivisto's students are performing. Jenna Ristilä plays the Handel Variations by Brahms.
 
 __28.11__ at 7.15 pm __Wegelius Hall__, Töölönkatu 28, Helsinki
+__19.12__ at 6.30 pm __Sonore Hall__, Musiikkitalo, Helsinki
 
