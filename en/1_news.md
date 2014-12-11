@@ -37,6 +37,6 @@ Jenna Ristilä, Maria Clavel and Marielle Iivonen -trio serves folk-influenced r
 
 Fridays are filled with piano music - Teppo Koivisto's students are performing. Jenna Ristilä plays the Handel Variations by Brahms.
 
-__28.11__ at 7.15 pm __Wegelius Hall__, Töölönkatu 28, Helsinki
-__19.12__ at 6.30 pm __Sonore Hall__, Musiikkitalo, Helsinki
+- __28.11__ at 7.15 pm __Wegelius Hall__, Töölönkatu 28, Helsinki
+- __19.12__ at 6.30 pm __Sonore Hall__, Musiikkitalo, Helsinki
 
