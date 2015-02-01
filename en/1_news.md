@@ -33,10 +33,7 @@ Jenna Ristilä, Maria Clavel and Marielle Iivonen -trio serves folk-influenced r
 
 <br/>
 
-### Friday Brahms
+### Those who look back: Brahms, Schönberg and Szymanowski and baroque forms
 
-Fridays are filled with piano music - Teppo Koivisto's students are performing. Jenna Ristilä plays the Handel Variations by Brahms.
-
-- __28.11__ at 7.15 pm __Wegelius Hall__, Töölönkatu 28, Helsinki 
-- __19.12__ at 6.30 pm __Sonore Hall__, Musiikkitalo, Helsinki
+Baroque music from the modern piano's point of view. Ristilä is currently rehearsing a solo concert program that she'll perform in August and September. Details about the locations and times will be updated during Spring.
 
