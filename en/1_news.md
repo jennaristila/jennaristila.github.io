@@ -9,27 +9,19 @@ lang: en
 <!--<img src="/images/jenna3.jpg" width="300px" alt="Jenna Ristilä" style="float: right; margin-left: 50px; margin-top: 25px;  ">-->
 
 
-### Christmas cd & concerts
+### Telephone Opera, again
 
-Soprano Johanna Lehesvuori and Jenna Ristilä's Christmas cd 'Joulun valo' is out now. The cd includes traditional Finnish Christmas songs and songs about Virgin Mary. It is sold in Stockmann and in the Fuga record store in Helsinki Music Center.
+In November Menotti's Telephone-opera charmed audiences in Eastern Finland, and now it's coming to the Music Center. Come experience a half-an-hour of hilariousness - there'll be yoga, flirting with the pianist and plenty of talking on the phone. On stage Päivi Pylvänäinen, soprano, Joonas Asikainen, baritone, and Jenna Ristilä, piano. Direction: Eljas Liinamaa. The performance is in Finnish. Free entrance.
 
-Come and hear the songs live as well!
-
-- __9.12__ at 6 pm in __Finska Kyrkan__, Slottsbacken 2b-2c, Stockholm
-- __11.12__ at 7 pm in __Jokela church__, Kouluraitti 11, Jokela
-- __13.12__ at 6 pm in the __Art Chapel__, Seiskarinkatu 35, Turku 
-<!--<http://www.taidekappeli.fi>-->
-<!--[www.taidekappeli.fi](http://www.taidekappeli.fi){:target="_blank"}  foo-->
+- __17.2__ at 4 pm in __Camerata Hall, Music Center__, Helsinki
 
 <br/>
 
+### Lied for lunch
 
-### Folk for Lunch
+Iida Antola and Jenna Ristilä are performing in Sibelius-Academy's lunchtime concert series. There'll be songs by Debussy and Schubert and some bel canto arias. Welcome!
 
-Jenna Ristilä, Maria Clavel and Marielle Iivonen -trio serves folk-influenced repertoire: two movements of Paul Schoenfield's kletzmer-based trio and six Hungarian dances by Bartok. If you can't make it on Thursday, come listen on Sunday, when the trio plays in Harri Mäki's class concert. Welcome!
-
-- __11.12__ at 12 pm __N-K55__, Nervanderinkatu 13, Helsinki
-- __14.12__ at 4 pm __Wegelius Hall__, Töölönkatu 28, Helsinki
+- __16.2__ at 12.00 in __Camerata Hall, Music Center__, Helsinki
 
 <br/>
 
@@ -37,3 +29,8 @@ Jenna Ristilä, Maria Clavel and Marielle Iivonen -trio serves folk-influenced r
 
 Baroque music from the modern piano's point of view. Ristilä is currently rehearsing a solo concert program that she'll perform in August and September. Details about the locations and times will be updated during Spring.
 
+<br/>
+
+### Christmas cd
+
+Soprano Johanna Lehesvuori and Jenna Ristilä's Christmas cd 'Joulun valo' was released in November 2014. The cd includes traditional Finnish Christmas songs and songs about Virgin Mary. You can buy it online from bluemusicgroup.com.
