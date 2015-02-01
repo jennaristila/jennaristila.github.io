@@ -10,27 +10,19 @@ lang: fi
 <h1>{{ page.title }}</h1>
 -->
 
+### Puhelinoopperan paluu
 
-### Joululevy & konsertteja
+Marraskuista Itä-Suomea sulostuttanut Menottin Puhelin-ooppera iskee nyt Musiikkitaloon! Tule seuraamaan hervotonta puolen tunnin musiikkipläjäystä jossa mm. joogataan, isketään pianisti ja puhutaan paljon puhelimessa. Lavalla Päivi Pylvänäinen, sopraano, Joonas Asikainen, baritoni ja Jenna Ristilä, piano. Ohjaus: Eljas Liinamaa. Ooppera esitetään suomeksi. Vapaa pääsy.
 
-Sopraano Johanna Lehesvuoren ja Jenna Ristilän joululevy 'Joulun valo' on nyt julkaistu. Tunnelmallinen levy sisältää perinteisiä suomalaisia joululauluja ja lauluja neitsyt Mariasta. Levy on myynnissä Stockmannilla ja Musiikkitalon levykauppa Fugassa.
-
-Tervetuloa kuuntelemaan meitä myös livenä!
-
-- __9.12__ klo 18 __Finska Kyrkan__, Slottsbacken 2b-2c, Tukholma
-- __11.12__ klo 19 __Jokelan kirkko__, Kouluraitti 11, Jokela
-- __13.12__ klo 18 __Taidekappeli__, Seiskarinkatu 35, Turku 
-<!--<http://www.taidekappeli.fi>-->
-
+- __17.2__ klo 16 __Camerata-sali, Musiikkitalo__, Helsinki
 
 <br/>
 
-### Kansanmusiikkia lounaaksi
+### Liediä lounaaksi
 
-Jenna Ristilän, Maria Clavelin ja Marielle Iivosen trio tarjoilee kansanmusiikkivaikutteista ohjelmistoa: Paul Schoenfieldin kletzmerpohjaisen trion 2 osaa sekä Bartokin kuusi unkarilaista tanssia. Jos et pääse torstaina paikalle, trio esiintyy myös sunnuntaina Harri Mäen oppilaskonsertissa. Tervetuloa!
+Iida Antola ja Jenna Ristilä esiintyvät Sibelius-Akatemian lounasmatineassa. Luvassa on Debussyn ja Schubertin musiikkia sekä bel canto -aarioita. Tervetuloa!
 
-- __11.12__ klo 12 __N-K55__, Nervanderinkatu 13, Helsinki
-- __14.12__ klo 16 __Wegelius-sali__, Töölönkatu 28, Helsinki
+- __16.2__ klo 12 __Camerata-sali, Musiikkitalo__, Helsinki
 
 <br/>
 
@@ -38,3 +30,8 @@ Jenna Ristilän, Maria Clavelin ja Marielle Iivosen trio tarjoilee kansanmusiikk
 
 Barokkimusiikkia modernin pianon näkökulmasta. Ristilä valmistaa parhaillaan soolo-ohjelmaa, jota hän tulee esittämään loppukesästä. Esityspaikat ja -ajat tarkentuvat kevään mittaan.
 
+<br/>
+
+### Joululevy
+
+Sopraano Johanna Lehesvuoren ja Jenna Ristilän joululevy 'Joulun valo' julkaistiin marraskuussa 2014. Tunnelmallinen levy sisältää perinteisiä suomalaisia joululauluja ja lauluja neitsyt Mariasta. Levy on tilattavissa osoitteesta bluemusicgroup.com. 
