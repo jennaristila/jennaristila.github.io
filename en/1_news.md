@@ -33,4 +33,6 @@ Baroque music from the modern piano's point of view. Ristilä is currently rehea
 
 ### Christmas cd
 
-Soprano Johanna Lehesvuori and Jenna Ristilä's Christmas cd 'Joulun valo' was released in November 2014. The cd includes traditional Finnish Christmas songs and songs about Virgin Mary. You can buy it online from bluemusicgroup.com.
+![Christmas cd](/images/christmas_cd.jpg)
+
+Soprano Johanna Lehesvuori and Jenna Ristilä's Christmas cd 'Joulun valo' was released in November 2014. The cd includes traditional Finnish Christmas songs and songs about Virgin Mary. You can buy it online from [bluemusicgroup.com](http://lightofchristmas.bluemusicgroup.com/).
