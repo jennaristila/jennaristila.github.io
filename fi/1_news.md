@@ -34,4 +34,6 @@ Barokkimusiikkia modernin pianon näkökulmasta. Ristilä valmistaa parhaillaan 
 
 ### Joululevy
 
-Sopraano Johanna Lehesvuoren ja Jenna Ristilän joululevy 'Joulun valo' julkaistiin marraskuussa 2014. Tunnelmallinen levy sisältää perinteisiä suomalaisia joululauluja ja lauluja neitsyt Mariasta. Levy on tilattavissa osoitteesta bluemusicgroup.com. 
+![Christmas cd](/images/christmas_cd.jpg)
+
+Sopraano Johanna Lehesvuoren ja Jenna Ristilän joululevy 'Joulun valo' julkaistiin marraskuussa 2014. Tunnelmallinen levy sisältää perinteisiä suomalaisia joululauluja ja lauluja neitsyt Mariasta. Levy on tilattavissa osoitteesta [bluemusicgroup.com](http://lightofchristmas.bluemusicgroup.com/). 
