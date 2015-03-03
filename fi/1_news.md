@@ -28,6 +28,8 @@ Tule kuuntelemaan Sibelius-Akatemian kamarimusiikki-viikkoa! Luvassa on Paul Sch
 
 Kolme täysin erilaista säveltäjää, joiden teoksia barokki on inspiroinut. Ristilä valmistaa parhaillaan soolo-ohjelmaa, jota hän tulee esittämään loppukesästä. Esityspaikat ja -ajat tarkentuvat kevään mittaan.
 
+- __12.8.__ klo 18.30 __Hakavuoren kirkko__, Tolarintie 1, Helsinki
+
 <br/>
 
 ### Joululevy
