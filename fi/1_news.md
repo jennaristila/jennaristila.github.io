@@ -10,25 +10,23 @@ lang: fi
 <h1>{{ page.title }}</h1>
 -->
 
-### Puhelinoopperan paluu
+### Start-up Ooppera
 
-Marraskuista Itä-Suomea sulostuttanut Menottin Puhelin-ooppera iskee nyt Musiikkitaloon! Tule seuraamaan hervotonta puolen tunnin musiikkipläjäystä jossa mm. joogataan, isketään pianisti ja puhutaan paljon puhelimessa. Lavalla Päivi Pylvänäinen, sopraano, Joonas Asikainen, baritoni ja Jenna Ristilä, piano. Ohjaus: Eljas Liinamaa. Ooppera esitetään suomeksi. Vapaa pääsy.
-
-- __17.2__ klo 16 __Camerata-sali, Musiikkitalo__, Helsinki
+Nyt voit seurata oopperan syntymistä aivan alusta saakka! Ristilä on perustanut säveltäjä Itzam Zapatan kanssa Start-up Ooppera -työryhmän, joka luo ja esittää uuden oopperateoksen. Tällä hetkellä kirjoitetaan librettoa. Ryhmän edistymistä voi seurata Ristilän kirjoittamasta blogista osoitteesta [startupopera.blogspot.fi] (http://startupopera.blogspot.fi/).
 
 <br/>
 
-### Liediä lounaaksi
+### Kamarimusiikkiviikko
 
-Iida Antola ja Jenna Ristilä esiintyvät Sibelius-Akatemian lounasmatineassa. Luvassa on Debussyn ja Schubertin musiikkia sekä bel canto -aarioita. Tervetuloa!
+Tule kuuntelemaan Sibelius-Akatemian kamarimusiikkiviikkoa! Luvassa on Paul Schoenfieldin kletzmer-vaikutteinen trio klarinetille, viululle ja pianolle María Clavelin ja Marielle Iivosen kanssa, sekä Joaquin Turinan laulusarja sopraano Iida Antolan kanssa. Esitysajat tarkentuvat myöhemmin.
 
-- __16.2__ klo 12 __Camerata-sali, Musiikkitalo__, Helsinki
+- Konsertteja joka päivä __25-20.4, Musiikkitalo__, Helsinki
 
 <br/>
 
-### Taakseenkatsojat: Brahms, Schönberg ja Szymanowski ja barokin muodot
+### Taakseenkatsojat: Villa-Lobos, Shostakovich ja Brahms
 
-Barokkimusiikkia modernin pianon näkökulmasta. Ristilä valmistaa parhaillaan soolo-ohjelmaa, jota hän tulee esittämään loppukesästä. Esityspaikat ja -ajat tarkentuvat kevään mittaan.
+Kolme täysin erilaista säveltäjää, joiden teoksia barokki on inspiroinut. Ristilä valmistaa parhaillaan soolo-ohjelmaa, jota hän tulee esittämään loppukesästä. Esityspaikat ja -ajat tarkentuvat kevään mittaan.
 
 <br/>
 
