@@ -11,7 +11,7 @@ lang: en
 
 ### Start-up Opera
 
-Have you ever wanted to know how an opera is made from the very beginning? Ristilä and Itzam Zapata have founded the Start-up Opera group, who'se creating and performing a new operatic work. At the moment the group is working on the libretto. You can follow the group's progress from [startupopera.blogspot.fi](http://startupopera.blogspot.fi/).
+Have you ever wanted to know how an opera is made from scratch? Ristilä and Itzam Zapata have founded the Start-up Opera group, who'se creating and performing a new operatic work. At the moment the group is working on the libretto. You can follow the group's progress from [startupopera.blogspot.fi](http://startupopera.blogspot.fi/).
 
 <br/>
 
