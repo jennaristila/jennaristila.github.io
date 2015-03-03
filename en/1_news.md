@@ -9,25 +9,25 @@ lang: en
 <!--<img src="/images/jenna3.jpg" width="300px" alt="Jenna Ristilä" style="float: right; margin-left: 50px; margin-top: 25px;  ">-->
 
 
-### Telephone Opera, again
+### Start-up Opera
 
-In November Menotti's Telephone-opera charmed audiences in Eastern Finland, and now it's coming to the Music Center. Come experience a half-an-hour of hilariousness - there'll be yoga, flirting with the pianist and plenty of talking on the phone. On stage Päivi Pylvänäinen, soprano, Joonas Asikainen, baritone, and Jenna Ristilä, piano. Direction: Eljas Liinamaa. The performance is in Finnish. Free entrance.
-
-- __17.2__ at 4 pm in __Camerata Hall, Music Center__, Helsinki
+Have you ever wanted to know how an opera is made from the very beginning? Ristilä and Itzam Zapata have founded the Start-up Opera group, who'se creating and performing a new operatic work. At the moment the group is working on the libretto. You can follow the group's progress from [startupopera.blogspot.fi](http://startupopera.blogspot.fi/).
 
 <br/>
 
-### Lied for lunch
+### Chamber music week
 
-Iida Antola and Jenna Ristilä are performing in Sibelius-Academy's lunchtime concert series. There'll be songs by Debussy and Schubert and some bel canto arias. Welcome!
+Come hear the Sibelius-Academy's Chamber music week! Ristilä will be performing Paul Schoenfield's kletzmer-influenced trio with Marielle Iivonen and María Clavel; and Joaquin Turina's cycle of songs with soprano Iida Antola. The performance times will be announced later.
 
-- __16.2__ at 12.00 in __Camerata Hall, Music Center__, Helsinki
+- Concerts every day __20-25.4, Musiikkitalo__, Helsinki
 
 <br/>
 
-### Those who look back: Brahms, Schönberg and Szymanowski and baroque forms
+### Those who look back: Villa-Lobos, Shostakovich and Brahms
 
-Baroque music from the modern piano's point of view. Ristilä is currently rehearsing a solo concert program that she'll perform in August and September. Details about the locations and times will be updated during Spring.
+Three entirely different composers who have been inspired by Baroque. Ristilä is currently rehearsing a solo concert program that she'll perform in August and September. Details about the locations and times will be updated during Spring.
+
+- __12.8__ klo 18.30 __Hakavuori church__, Tolarintie 1, Helsinki
 
 <br/>
 
