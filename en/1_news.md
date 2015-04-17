@@ -24,6 +24,13 @@ Come hear the Sibelius-Academy's Chamber music week! Ristilä will be performing
 
 <br/>
 
+### Songs and Spring
+
+Jenna Ristilä performs with soprano Leena Kanninen in two concerts. The first is a fundraising event for a choir Leena is conducting. The program includes songs and piano music by Sibelius, of course, to celebrate his 150th anniversary. The second concert is in preparation for Leena's master's recital. She will sing some fascinatingly strange, rarely performed Melartin songs, and some ever-glorious Strauss. Come hear!
+
+- __7.5__ at 7 pm __Kallio-Kuninkala__, Järvenpää
+- __12.5__ at 7pm __Tuusula church__, Kirkkotie 34, Tuusula
+
 ### Those who look back: Villa-Lobos, Shostakovich and Brahms
 
 Three entirely different composers who have been inspired by Baroque. Ristilä is currently rehearsing a solo concert program that she'll perform in August and September. Details about the locations and times will be updated during Spring.
