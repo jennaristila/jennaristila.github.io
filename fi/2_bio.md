@@ -11,6 +11,6 @@ Ristilä on tehnyt monenlaista musiikin parissa: mm. kilpaillut Suomessa ja Tans
 
 Lukuvuoden 2010-2011 Ristilä oli vaihto-opiskelijana Royal Welsh College of Music & Drama'ssa Cardiffissa. Soolopianismi jäi hetkeksi syrjään Ristilän tehdessä tiivistä yhteistyötä laulumusiikin osaston kanssa. Hän opiskeli liediä Michael Pollockin johdolla, toimi avustavana korrepetiittorina kahdessa oopperassa, sekä säesti lukuisia konsertteja, koelauluja ja mestarikursseja.
 
-Tällä hetkellä Ristilä täydentää opintojaan Sibelius-Akatemian korrepetitiokoulutuksessa ja opettaa [Keski-Vantaan Musiikkiopistossa](http://kevamo.com/) sekä Tuusulan Kansalaisopistossa. Hänellä on suunnitteilla useita projekteja eri laulajien kanssa, ja talven aikana hän aikoo neuloa ainakin yhdet villasukat.
+Tällä hetkellä Ristilä täydentää opintojaan Sibelius-Akatemian korrepetitiokoulutuksessa ja opettaa [Keski-Vantaan Musiikkiopistossa](http://kevamo.com/) sekä Tuusulan Kansalaisopistossa. Ristilä on monessa mukana kevään ja kesän mittaan: häntä voi kuulla mm. Savonlinnassa Hannu ja Kerttu -oopperan parissa ja säestäjänä Merikanto-kilpailuissa. Lisäksi suunnitteilla on kaikenlaista soolokonserteista uuteen oopperateokseen. Uutissivuilta löydät tarkempia tietoja lähikuukausien konserteista - tervetuloa kuuntelemaan!
 
 <br/>
