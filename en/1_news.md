@@ -31,6 +31,8 @@ Jenna Ristilä performs with soprano Leena Kanninen in two concerts. The first i
 - __7.5__ at 7 pm __Kallio-Kuninkala__, Järvenpää
 - __12.5__ at 7pm __Tuusula church__, Kirkkotie 34, Tuusula
 
+<br/>
+
 ### Those who look back: Villa-Lobos, Shostakovich and Brahms
 
 Three entirely different composers who have been inspired by Baroque. Ristilä is currently rehearsing a solo concert program that she'll perform in August and September. Details about the locations and times will be updated during Spring.
