@@ -17,7 +17,7 @@ Have you ever wanted to know how an opera is made from scratch? Ristilä and Itz
 
 ### Chamber music week
 
-Come hear the Sibelius-Academy's Chamber music week! Ristilä will be performing Paul Schoenfield's kletzmer-influenced trio with Marielle Iivonen and María Clavel; and Joaquin Turina's cycle of songs with soprano Iida Antola. The performance times will be announced later.
+Come hear the Sibelius-Academy's Chamber music week! Ristilä will be performing Paul Schoenfield's kletzmer-influenced trio with Marielle Iivonen and María Clavel; and Joaquin Turina's cycle of songs with soprano Iida Antola.
 
 - __25.4__ at 7 pm __Harjoitussali Paavo, Music Center__, Helsinki (trio)
 - __30.4__ at 1 pm __Camerata, Music Center__, Helsinki (lied-duo)
