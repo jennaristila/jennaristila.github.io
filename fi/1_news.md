@@ -18,9 +18,10 @@ Nyt voit seurata oopperan syntymistä aivan alusta saakka! Ristilä on perustanu
 
 ### Kamarimusiikkiviikko
 
-Tule kuuntelemaan Sibelius-Akatemian kamarimusiikki-viikkoa! Luvassa on Paul Schoenfieldin kletzmer-vaikutteinen trio klarinetille, viululle ja pianolle María Clavelin ja Marielle Iivosen kanssa, sekä Joaquin Turinan laulusarja sopraano Iida Antolan kanssa. Esitysajat tarkentuvat myöhemmin.
+Tule kuuntelemaan Sibelius-Akatemian kamarimusiikki-viikkoa! Luvassa on Paul Schoenfieldin kletzmer-vaikutteinen trio klarinetille, viululle ja pianolle María Clavelin ja Marielle Iivosen kanssa, sekä Joaquin Turinan laulusarja sopraano Iida Antolan kanssa.
 
-- Konsertteja joka päivä __25-20.4, Musiikkitalo__, Helsinki
+- __25.4__ klo 19 __Harjoitussali Paavo, Musiikkitalo__, Helsinki (trio)
+- __30.4__ klo 13 __Camerata, Musiikkitalo__, Helsinki (lied-duo)
 
 <br/>
 
@@ -28,7 +29,7 @@ Tule kuuntelemaan Sibelius-Akatemian kamarimusiikki-viikkoa! Luvassa on Paul Sch
 
 Kolme täysin erilaista säveltäjää, joiden teoksia barokki on inspiroinut. Ristilä valmistaa parhaillaan soolo-ohjelmaa, jota hän tulee esittämään loppukesästä. Esityspaikat ja -ajat tarkentuvat kevään mittaan.
 
-- __12.8.__ klo 18.30 __Hakavuoren kirkko__, Tolarintie 1, Helsinki
+- __12.8__ klo 18.30 __Hakavuoren kirkko__, Tolarintie 1, Helsinki
 
 <br/>
 
