@@ -10,18 +10,25 @@ lang: fi
 <h1>{{ page.title }}</h1>
 -->
 
-### Start-up Ooppera
+### Sumukin unelmoi
 
-Nyt voit seurata oopperan syntymistä aivan alusta saakka! Ristilä on perustanut säveltäjä Itzam Zapatan kanssa Start-up Ooppera -työryhmän, joka luo ja esittää uuden oopperateoksen. Tällä hetkellä kirjoitetaan librettoa. Ryhmän edistymistä voi seurata Ristilän kirjoittamasta blogista osoitteesta [startupopera.blogspot.fi](http://startupopera.blogspot.fi/).
+Itzam Zapatan pianoteos 'The fog also dreams' Ristilän esittämänä. Tule kuuntelemaan muitakin Korvat Auki -säveltäjien töitä! ja lue lisää Itzam Zapatasta hänen nettisivuiltaan [itzamzapata.com](http://itzamzapata.com/).
+
+- __25.5__ klo 18 __Ackté-sali__, Töölönkatu 28, Helsinki
 
 <br/>
 
-### Kamarimusiikkiviikko
+### Perjantaikleztmer ja muita tarinoita
 
-Tule kuuntelemaan Sibelius-Akatemian kamarimusiikki-viikkoa! Luvassa on Paul Schoenfieldin kletzmer-vaikutteinen trio klarinetille, viululle ja pianolle María Clavelin ja Marielle Iivosen kanssa, sekä Joaquin Turinan laulusarja sopraano Iida Antolan kanssa.
+Ristilän trio kokoontuu viimeistä kertaa soittamaan Paul Schoenfieldin menevää teosta. Lavalla myös trion viulistin jousikvartetti. Tervetuloa! 
 
-- __25.4__ klo 19 __Harjoitussali Paavo, Musiikkitalo__, Helsinki (trio)
-- __30.4__ klo 13 __Camerata, Musiikkitalo__, Helsinki (lied-duo)
+- __29.5__ klo 18 __studio N-K55__, Nervanderinkatu 13, Helsinki
+
+<br/>
+
+### Start-up Ooppera
+
+Nyt voit seurata oopperan syntymistä aivan alusta saakka! Ristilä on perustanut säveltäjä Itzam Zapatan kanssa Start-up Ooppera -työryhmän, joka luo ja esittää uuden oopperateoksen. Tällä hetkellä kirjoitetaan librettoa. Ryhmän edistymistä voi seurata Ristilän kirjoittamasta blogista osoitteesta [startupopera.blogspot.fi](http://startupopera.blogspot.fi/).
 
 <br/>
 
