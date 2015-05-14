@@ -18,7 +18,7 @@ Itzam Zapata's piano work performed by Ristilä. Come hear also other Korvat Auk
 
 ### A trio goes kletzmer and other stories
 
-Ristilä's trio gets together for their last hurrah performing Paul Schoenfield's energetic work. And there's also a string quartett. Don't miss out!
+Ristilä's trio gets together for their last hurrah performing Paul Schoenfield's energetic work. Also other Sibelius Academy chamber ensembles performing. Don't miss out!
 
 - __29.5__ at 6 pm __studio N-K55__, Nervanderinkatu 13, Helsinki
 
@@ -30,20 +30,12 @@ Have you ever wanted to know how an opera is made from scratch? Ristilä and Itz
 
 <br/>
 
-### Songs and Spring
-
-Jenna Ristilä performs with soprano Leena Kanninen in two concerts. The first is a fundraising event for a choir Leena is conducting. The program includes songs and piano music by Sibelius, of course, to celebrate his 150th anniversary. The second concert is in preparation for Leena's master's recital. She will sing some fascinatingly strange, rarely performed Melartin songs, and some ever-glorious Strauss. Come hear!
-
-- __7.5__ at 7 pm __Kallio-Kuninkala__, Järvenpää
-- __12.5__ at 7pm __Tuusula church__, Kirkkotie 34, Tuusula
-
-<br/>
-
 ### Those who look back: Villa-Lobos, Shostakovich and Brahms
 
-Three entirely different composers who have been inspired by Baroque. Ristilä is currently rehearsing a solo concert program that she'll perform in August and September. Details about the locations and times will be updated during Spring.
+Three entirely different composers who have been inspired by Baroque. Ristilä is currently rehearsing a solo concert program that she'll perform in August and September. Details about the locations and times will be updated during the Summer.
 
 - __12.8__ at 6.30 pm __Hakavuori church__, Tolarintie 1, Helsinki
+- __13.9__ at 4 pm __Oulunkylä church__, Teinintie 10, Helsinki
 
 <br/>
 
