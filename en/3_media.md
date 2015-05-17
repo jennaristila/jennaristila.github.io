@@ -24,7 +24,9 @@ _Liisa Rousti, Itä-Savo 27.5.2012_
 <br/>
 
 __Hugo Alfvén: Skogen sover__
+
 <br/>
+
 	Johanna Lehesvuori, soprano & Jenna Ristilä, piano
 	studio recording, March 2015, Helsinki
 
@@ -35,7 +37,9 @@ __Hugo Alfvén: Skogen sover__
 <br/>
 
 __Richard Strauss: Als mir dein Lied erklang__
+
 <br/>
+
 	Johanna Lehesvuori, soprano & Jenna Ristilä, piano
 	studio recording, March 2015, Helsinki
 
