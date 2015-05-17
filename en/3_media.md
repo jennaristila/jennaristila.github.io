@@ -29,7 +29,7 @@ __Hugo Alfvén: Skogen sover__
 	studio recording, March 2015, Helsinki
 
 <br/>
-<iframe src="https://player.vimeo.com/video/128004094" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/128004094?byline=0&portrait=0" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 <br/>
 
@@ -39,7 +39,7 @@ __Richard Strauss: Als mir dein Lied erklang__
 	studio recording, March 2015, Helsinki
 
 <br/>
-<iframe src="https://player.vimeo.com/video/128004637" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/128004637?byline=0&portrait=0" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 <br/>
 
