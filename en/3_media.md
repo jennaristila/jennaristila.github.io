@@ -22,6 +22,29 @@ _Liisa Rousti, Itä-Savo 27.5.2012_
 
 ### Music
 <br/>
+
+__Hugo Alfvén: Skogen sover__
+<br/>
+	Johanna Lehesvuori, soprano & Jenna Ristilä, piano
+	studio recording, March 2015, Helsinki
+
+<br/>
+
+<iframe src="https://player.vimeo.com/video/128004094" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+<br/>
+
+__Richard Strauss: Als mir dein Lied erklang__
+<br/>
+	Johanna Lehesvuori, soprano & Jenna Ristilä, piano
+	studio recording, March 2015, Helsinki
+
+<br/>
+
+<iframe src="https://player.vimeo.com/video/128004637" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+<br/>
+
 __Matei Gheorghiu: Sonata no. 2 (2010)__  
 
 	Jenna Ristilä, piano  
@@ -57,19 +80,3 @@ __Jean Sibelius: 6 folk song arrangements for piano JS 81__
 </div>
 
 <br/>
-
-
-__Franz Schubert: Im Frühling D. 882__  
-
-	Iida Antola, soprano & Jenna Ristilä, piano  
-	Antola's bachelor's recital, February 2013, Helsinki
-
-<br/>
-
-<iframe src="//player.vimeo.com/video/105480562?byline=0&amp;portrait=0" width="500" height="375" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-
-<br/>
-
-
-
-
