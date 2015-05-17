@@ -25,7 +25,9 @@ _Liisa Rousti, Itä-Savo 27.5.2012_
 <br/>
 
 ### Musiikkia
+
 <br/>
+
 __Hugo Alfvén: Skogen sover__
 
 	Johanna Lehesvuori, sopraano & Jenna Ristilä, piano
