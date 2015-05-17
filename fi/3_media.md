@@ -7,9 +7,8 @@ lang: fi
 
 <h1>{{ page.title }}</h1>
 
-
 ### Arvostelut
-<br/>
+
 "Pianisti Jenna Ristilä on keskeinen tekijä [kamarioopperan esityksessä]. Hän heittäytyy jopa näyttelemään ja tuo esille kaikki säveltäjän oivallukset ja antaa laulajille vankan taustan laulaa ja näytellä sydämen kyllyydestä."
 
 _Riitta-Leena Lempinen-Vesa, Itä-Savo 8.11.2014_
@@ -26,16 +25,14 @@ _Liisa Rousti, Itä-Savo 27.5.2012_
 
 ### Musiikkia
 
-<br/>
-
 __Hugo Alfvén: Skogen sover__
+
 
 	Johanna Lehesvuori, sopraano & Jenna Ristilä, piano
 	studioäänite, maaliskuu 2015, Helsinki
 
 <br/>
-
-<iframe src="https://player.vimeo.com/video/128004094" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/128004094?byline=0&portrait=0" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 <br/>
 
@@ -46,7 +43,7 @@ __Richard Strauss: Als mir dein Lied erklang__
 
 <br/>
 
-<iframe src="https://player.vimeo.com/video/128004637" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/128004637?byline=0&portrait=0" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 <br/>
 
@@ -82,3 +79,4 @@ __Jean Sibelius: 6 kansanlaulusovitusta pianolle JS 81__
 <iframe width="100%" height="120" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/166484751%3Fsecret_token%3Ds-7le8O&amp;;auto_play=false&amp;hide_related=true&amp;show_comments=false&amp;show_user=false&amp;show_reposts=false&amp;visual=false&amp;sharing=false&amp;buying=false&amp;color=2F5966&amp;theme_color=009966&amp;show_playcount=false&amp;show_artwork=false"></iframe>
 </div>
 
+<br/>
