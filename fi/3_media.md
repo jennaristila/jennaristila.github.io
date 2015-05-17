@@ -26,6 +26,18 @@ _Liisa Rousti, Itä-Savo 27.5.2012_
 
 ### Musiikkia
 <br/>
+__Hugo Alfvén: Skogen sover__
+
+	Johanna Lehesvuori, sopraano & Jenna Ristilä, piano
+	studioäänite, maaliskuu 2015, Helsinki
+
+<br/>
+
+<div>
+<iframe src="https://player.vimeo.com/video/128004094" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+<br/>
+
 __Matei Gheorghiu: Sonata no. 2 (2010)__  
 
 	Jenna Ristilä, piano  
