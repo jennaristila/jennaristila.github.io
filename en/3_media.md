@@ -8,7 +8,7 @@ lang: en
 <h1>{{ page.title }}</h1>
 
 ### Reviews
-<br/>
+
 "Pianist Jenna Ristilä plays an important role [in the chamber opera performance]. She even acts and brings out all the composer's ideas and gives the singers a solid background so that they're free to sing and act to their hearts' content."
 
 _Riitta-Leena Lempinen-Vesa, Itä-Savo 8.11.2014_
@@ -21,30 +21,24 @@ _Liisa Rousti, Itä-Savo 27.5.2012_
 <br/>
 
 ### Music
-<br/>
 
 __Hugo Alfvén: Skogen sover__
 
-<br/>
 
 	Johanna Lehesvuori, soprano & Jenna Ristilä, piano
 	studio recording, March 2015, Helsinki
 
 <br/>
-
 <iframe src="https://player.vimeo.com/video/128004094" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 <br/>
 
 __Richard Strauss: Als mir dein Lied erklang__
 
-<br/>
-
 	Johanna Lehesvuori, soprano & Jenna Ristilä, piano
 	studio recording, March 2015, Helsinki
 
 <br/>
-
 <iframe src="https://player.vimeo.com/video/128004637" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 <br/>
