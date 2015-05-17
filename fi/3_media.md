@@ -39,6 +39,17 @@ __Hugo Alfvén: Skogen sover__
 
 <br/>
 
+__Richard Strauss: Als mir dein Lied erklang__
+
+	Johanna Lehesvuori, sopraano & Jenna Ristilä, piano
+	studioäänite, maaliskuu 2015, Helsinki
+
+<br/>
+
+<iframe src="https://player.vimeo.com/video/128004637" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+<br/>
+
 __Matei Gheorghiu: Sonata no. 2 (2010)__  
 
 	Jenna Ristilä, piano  
@@ -71,15 +82,3 @@ __Jean Sibelius: 6 kansanlaulusovitusta pianolle JS 81__
 <iframe width="100%" height="120" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/166484751%3Fsecret_token%3Ds-7le8O&amp;;auto_play=false&amp;hide_related=true&amp;show_comments=false&amp;show_user=false&amp;show_reposts=false&amp;visual=false&amp;sharing=false&amp;buying=false&amp;color=2F5966&amp;theme_color=009966&amp;show_playcount=false&amp;show_artwork=false"></iframe>
 </div>
 
-<br/>
-
-__Franz Schubert: Im Frühling D. 882__  
-
-	Iida Antola, sopraano & Jenna Ristilä, piano  
-	Antolan B-tutkinto, helmikuu 2013, Helsinki
-
-<br/>
-
-<iframe src="//player.vimeo.com/video/105480562?byline=0&amp;portrait=0" width="500" height="375" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-
-<br/>
