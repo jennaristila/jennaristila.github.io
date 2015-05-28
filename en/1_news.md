@@ -8,11 +8,20 @@ lang: en
 <!--<h1>{{ page.title }}</h1>-->
 <!--<img src="/images/jenna3.jpg" width="300px" alt="Jenna Ristilä" style="float: right; margin-left: 50px; margin-top: 25px;  ">-->
 
-### The fog also dreams
+### Lied for lunch
 
-Itzam Zapata's piano work performed by Ristilä. Come hear also other Korvat Auki -composers' music! and find out more about Itzam Zapata from his website [itzamzapata.com](http://itzamzapata.com/).
+Soprano Iida Antola and Ristilä are performing all sorts of things from Mozart to Turina and Bernstein. It's going to be a fresh, interesting concert. The concert also prepares them for the upcoming Mustakallio singing competition.
 
-- __25.5__ at 6 pm __Ackté-hall__, Töölönkatu 28, Helsinki
+- __9.6__ at 1 pm __Maunula church__, Metsäpurontie 15, Helsinki
+
+<br/>
+
+### Lied goes Eastern Finland
+
+Soprano Milla Mäkinen and Ristilä have combined their forces to create a spectacle of Finnish music such as Sibelius, Melartin and Kaski. The program includes vocal and piano music plus some poetry. Free entrance, program 5e.
+
+- __10.6__ at 6 pm __Tainionkoski church__, Kirkkokatu 2, Imatra
+- __11.6__ at 6 pm __Taidelukio hall__, Sotilaspojankatu 3, Savonlinna
 
 <br/>
 
