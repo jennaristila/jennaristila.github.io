@@ -10,11 +10,20 @@ lang: fi
 <h1>{{ page.title }}</h1>
 -->
 
-### Sumukin unelmoi
+### Lauluja lounaaksi
 
-Itzam Zapatan pianoteos 'The fog also dreams' Ristilän esittämänä. Tule kuuntelemaan muitakin Korvat Auki -säveltäjien töitä! ja lue lisää Itzam Zapatasta hänen nettisivuiltaan [itzamzapata.com](http://itzamzapata.com/).
+Sopraano Iida Antolan ja Ristilän raikas konserttikokonaisuus mm. Turinan, Bernsteinin ja Villa-Loboksen musiikkia. Konsertin myötä duo valmistautuu heinäkuun Mustakallio-laulukilpailuun.
 
-- __25.5__ klo 18 __Ackté-sali__, Töölönkatu 28, Helsinki
+- __9.6__ klo 13 __Maunulan kirkko__, Metsäpurontie 15, Helsinki
+
+<br/>
+
+### Suomalaisia säveliä Itä-Suomessa
+
+Ristilä ja sopraano Milla Mäkinen yhdistävät voimansa ja esittävät Sibeliuksen, Melartinin ja Kasken musiikkia. Luvassa laulua, pianonsoittoa ja lausuntaa. Konsertteihin on vapaa pääsy, ohjelma 5e. Tervetuloa!
+
+- __10.6__ klo 18 __Tainionkosken kirkko__, Kirkkokatu 2, Imatra
+- __11.6__ klo 18 __Taidelukion sali__, Sotilaspojankatu 3, Savonlinna
 
 <br/>
 
