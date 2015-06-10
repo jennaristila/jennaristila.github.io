@@ -10,14 +10,6 @@ lang: fi
 <h1>{{ page.title }}</h1>
 -->
 
-### Lauluja lounaaksi
-
-Sopraano Iida Antolan ja Ristilän raikas konserttikokonaisuus mm. Turinan, Bernsteinin ja Villa-Loboksen musiikkia. Konsertin myötä duo valmistautuu heinäkuun Mustakallio-laulukilpailuun.
-
-- __9.6__ klo 13 __Maunulan kirkko__, Metsäpurontie 15, Helsinki
-
-<br/>
-
 ### Suomalaisia säveliä Itä-Suomessa
 
 Ristilä ja sopraano Milla Mäkinen yhdistävät voimansa ja esittävät Sibeliuksen, Melartinin ja Kasken musiikkia. Luvassa laulua, pianonsoittoa ja lausuntaa. Konsertteihin on vapaa pääsy, ohjelma 5e. Tervetuloa!
@@ -27,11 +19,19 @@ Ristilä ja sopraano Milla Mäkinen yhdistävät voimansa ja esittävät Sibeliu
 
 <br/>
 
-### Perjantaikleztmer ja muita tarinoita
+### Kesän, kaihon ja kaipuun kukkia
 
-Ristilän trio kokoontuu viimeistä kertaa soittamaan Paul Schoenfieldin menevää teosta. Lavalla myös muita Sibelius-Akatemian kamarimusiikkikokoonpanoja. Tervetuloa! 
+Tuuli-Elina Kilpelä, sopraano, ja Ristilä esittävät Sibeliuksen, Kuulan ja Straussin lauluja. Luvassa suloisia säveliä ja suuria tunteita! Konsertti on osa Metrolla Musiikkiin -konserttisarjaa. Vapaa pääsy, ohjelma 7e.
 
-- __29.5__ klo 18 __studio N-K55__, Nervanderinkatu 13, Helsinki
+- __7.7__ klo 19 __Herttoniemen kirkko__, Hiihtomäentie 23, Helsinki
+
+<br/>
+
+### Hannu ja Kerttu
+
+Savonlinnassa kajahtaa, kun entiset Taidelukiolaiset kokoontuvat tekemään lyhennelmäversiota Humperdinckin satuoopperasta. Ristilä toimii produktion pianistina. Liput ennakkoon 15e, myös perhelippuja!
+
+- __29.7, 31.7 sekä 2.8__ klo 15, __Melartin-sali__, Sotilaspojankatu 2, Savonlinna
 
 <br/>
 
