@@ -8,13 +8,7 @@ lang: en
 <!--<h1>{{ page.title }}</h1>-->
 <!--<img src="/images/jenna3.jpg" width="300px" alt="Jenna Ristilä" style="float: right; margin-left: 50px; margin-top: 25px;  ">-->
 
-### Lied for lunch
 
-Soprano Iida Antola and Ristilä are performing all sorts of things from Mozart to Turina and Bernstein. It's going to be a fresh, interesting concert. The concert also prepares them for the upcoming Mustakallio singing competition.
-
-- __9.6__ at 1 pm __Maunula church__, Metsäpurontie 15, Helsinki
-
-<br/>
 
 ### Lied goes Eastern Finland
 
@@ -25,11 +19,19 @@ Soprano Milla Mäkinen and Ristilä have combined their forces to create a spect
 
 <br/>
 
-### A trio goes kletzmer and other stories
+### Flowers of summer, longing and desire
 
-Ristilä's trio gets together for their last hurrah performing Paul Schoenfield's energetic work. Also other Sibelius Academy chamber ensembles performing. Don't miss out!
+Tuuli-Elina Kilpelä, soprano, and Ristilä are performing songs by Sibelius, Kuula and Strauss. The evening will be full of beautiful harmonies and grand emotions! The concert is a part of the Metrolla Musiikkiin concert series. Free entrance, program 7e.
 
-- __29.5__ at 6 pm __studio N-K55__, Nervanderinkatu 13, Helsinki
+- __7.7__ at 7 pm __Herttoniemen kirkko__, Hiihtomäentie 23, Helsinki
+
+<br/>
+
+### Hansel and Gretel
+
+The fairytale opera by Humperdinck in short, child-friendly form. Old students of Savonlinna High School of Arts gather to create a spectacle of a production. Tickets bought in advance 15e, also family tickets available.
+
+- __29.7, 31.7 and 2.8__ at 3 pm __Melartin Hall__, Sotilaspojankatu 2, Savonlinna
 
 <br/>
 
