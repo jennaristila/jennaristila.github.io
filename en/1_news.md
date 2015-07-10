@@ -20,7 +20,7 @@ The fairytale opera by Humperdinck in short, child-friendly form. Old students o
 
 ### Those who look back: Villa-Lobos, Shostakovich and Brahms
 
-Three entirely different composers' piano works that have been inspired by baroque. Each composer has been fascinated by the musical past in his own way. Come 
+Three entirely different composers' piano works that have been inspired by baroque. Each composer has been fascinated by the musical past in his own way. Come hear!
 
 - __12.8__ at 6.30 pm __Hakavuori church__, Tolarintie 1, Helsinki
 - __3.9__ at 6 pm __Melartin Hall__, Sotilaspojankatu 1, Savonlinna
