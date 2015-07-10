@@ -10,21 +10,6 @@ lang: fi
 <h1>{{ page.title }}</h1>
 -->
 
-### Suomalaisia säveliä Itä-Suomessa
-
-Ristilä ja sopraano Milla Mäkinen yhdistävät voimansa ja esittävät Sibeliuksen, Melartinin ja Kasken musiikkia. Luvassa laulua, pianonsoittoa ja lausuntaa. Konsertteihin on vapaa pääsy, ohjelma 5e. Tervetuloa!
-
-- __10.6__ klo 18 __Tainionkosken kirkko__, Kirkkokatu 2, Imatra
-- __11.6__ klo 18 __Taidelukion sali__, Sotilaspojankatu 3, Savonlinna
-
-<br/>
-
-### Kesän, kaihon ja kaipuun kukkia
-
-Tuuli-Elina Kilpelä, sopraano, ja Ristilä esittävät Sibeliuksen, Kuulan ja Straussin lauluja. Luvassa suloisia säveliä ja suuria tunteita! Konsertti on osa Metrolla Musiikkiin -konserttisarjaa. Vapaa pääsy, ohjelma 7e.
-
-- __7.7__ klo 19 __Herttoniemen kirkko__, Hiihtomäentie 23, Helsinki
-
 <br/>
 
 ### Hannu ja Kerttu
@@ -35,18 +20,19 @@ Savonlinnassa kajahtaa, kun entiset Taidelukiolaiset kokoontuvat tekemään lyhe
 
 <br/>
 
-### Start-up Ooppera
+### Taakseenkatsojat: Villa-Lobos, Shostakovich ja Brahms
 
-Nyt voit seurata oopperan syntymistä aivan alusta saakka! Ristilä on perustanut säveltäjä Itzam Zapatan kanssa Start-up Ooppera -työryhmän, joka luo ja esittää uuden oopperateoksen. Tällä hetkellä kirjoitetaan librettoa. Ryhmän edistymistä voi seurata Ristilän kirjoittamasta blogista osoitteesta [startupopera.blogspot.fi](http://startupopera.blogspot.fi/).
+Kolmen täysin erilaisen säveltäjän pianomusiikkia, jota barokki on inspiroinut. Kaikkia näitä säveltäjiä on omalla tavallaan kiehtonut musiikin historia, ja se on vaikuttanut heidän työhönsä eri tavoin. Tule ihmettelemään! 
+
+- __12.8__ klo 18.30 __Hakavuoren kirkko__, Tolarintie 1, Helsinki
+- __3.9__ klo 18 __Melartin-sali__, Sotilaspojankatu 1, Savonlinna
+- __13.9__ klo 16 __Oulunkylän kirkko__, Teinintie 10, Helsinki
 
 <br/>
 
-### Taakseenkatsojat: Villa-Lobos, Shostakovich ja Brahms
+### Start-up Ooppera
 
-Kolme täysin erilaista säveltäjää, joiden teoksia barokki on inspiroinut. Ristilä valmistaa parhaillaan soolo-ohjelmaa, jota hän tulee esittämään loppukesästä. Esityspaikat ja -ajat tarkentuvat kevään mittaan.
-
-- __12.8__ klo 18.30 __Hakavuoren kirkko__, Tolarintie 1, Helsinki
-- __13.9__ klo 16 __Oulunkylän kirkko__, Teinintie 10, Helsinki
+Nyt voit seurata oopperan syntymistä aivan alusta saakka! Ristilä on perustanut säveltäjä Itzam Zapatan kanssa Start-up Ooppera -työryhmän, joka luo ja esittää uuden oopperateoksen. Tällä hetkellä kirjoitetaan librettoa. Ryhmän edistymistä voi seurata Ristilän kirjoittamasta blogista osoitteesta [startupopera.blogspot.fi](http://startupopera.blogspot.fi/).
 
 <br/>
 
