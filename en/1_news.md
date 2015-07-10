@@ -10,23 +10,6 @@ lang: en
 
 
 
-### Lied goes Eastern Finland
-
-Soprano Milla Mäkinen and Ristilä have combined their forces to create a spectacle of Finnish music such as Sibelius, Melartin and Kaski. The program includes vocal and piano music plus some poetry. Free entrance, program 5e.
-
-- __10.6__ at 6 pm __Tainionkoski church__, Kirkkokatu 2, Imatra
-- __11.6__ at 6 pm __Taidelukio hall__, Sotilaspojankatu 3, Savonlinna
-
-<br/>
-
-### Flowers of summer, longing and desire
-
-Tuuli-Elina Kilpelä, soprano, and Ristilä are performing songs by Sibelius, Kuula and Strauss. The evening will be full of beautiful harmonies and grand emotions! The concert is a part of the Metrolla Musiikkiin concert series. Free entrance, program 7e.
-
-- __7.7__ at 7 pm __Herttoniemen kirkko__, Hiihtomäentie 23, Helsinki
-
-<br/>
-
 ### Hansel and Gretel
 
 The fairytale opera by Humperdinck in short, child-friendly form. Old students of Savonlinna High School of Arts gather to create a spectacle of a production. Tickets bought in advance 15e, also family tickets available.
@@ -35,18 +18,19 @@ The fairytale opera by Humperdinck in short, child-friendly form. Old students o
 
 <br/>
 
-### Start-up Opera
+### Those who look back: Villa-Lobos, Shostakovich and Brahms
 
-Have you ever wanted to know how an opera is made from scratch? Ristilä and Itzam Zapata have founded the Start-up Opera group, who'se creating and performing a new operatic work. At the moment the group is working on the libretto. You can follow the group's progress from [startupopera.blogspot.fi](http://startupopera.blogspot.fi/).
+Three entirely different composers' piano works that have been inspired by baroque. Each composer has been fascinated by the musical past in his own way. Come 
+
+- __12.8__ at 6.30 pm __Hakavuori church__, Tolarintie 1, Helsinki
+- __3.9__ at 6 pm __Melartin Hall__, Sotilaspojankatu 1, Savonlinna
+- __13.9__ at 4 pm __Oulunkylä church__, Teinintie 10, Helsinki
 
 <br/>
 
-### Those who look back: Villa-Lobos, Shostakovich and Brahms
+### Start-up Opera
 
-Three entirely different composers who have been inspired by Baroque. Ristilä is currently rehearsing a solo concert program that she'll perform in August and September. Details about the locations and times will be updated during the Summer.
-
-- __12.8__ at 6.30 pm __Hakavuori church__, Tolarintie 1, Helsinki
-- __13.9__ at 4 pm __Oulunkylä church__, Teinintie 10, Helsinki
+Have you ever wanted to know how an opera is made from scratch? Ristilä and Itzam Zapata have founded the Start-up Opera group, who'se creating and performing a new operatic work. You can follow the group's progress from [startupopera.blogspot.fi](http://startupopera.blogspot.fi/).
 
 <br/>
 
