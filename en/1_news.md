@@ -1,14 +1,12 @@
 ---
-layout: news
-title: news
+layout: default
+title: News
 permalink: /en/news/
 lang: en
 ---
 
-<!--<h1>{{ page.title }}</h1>-->
-<!--<img src="/images/jenna3.jpg" width="300px" alt="Jenna Ristilä" style="float: right; margin-left: 50px; margin-top: 25px;  ">-->
 
-
+## 2015
 
 ### Hansel and Gretel
 
@@ -33,9 +31,3 @@ Three entirely different composers' piano works that have been inspired by baroq
 Have you ever wanted to know how an opera is made from scratch? Ristilä and Itzam Zapata have founded the Start-up Opera group, who'se creating and performing a new operatic work. You can follow the group's progress from [startupopera.blogspot.fi](http://startupopera.blogspot.fi/).
 
 <br/>
-
-### Christmas cd
-
-![Christmas cd](/images/christmas_cd.jpg)
-
-Soprano Johanna Lehesvuori and Jenna Ristilä's Christmas cd 'Joulun valo' was released in November 2014. The cd includes traditional Finnish Christmas songs and songs about Virgin Mary. You can buy it online from [bluemusicgroup.com](http://lightofchristmas.bluemusicgroup.com/).

@@ -1,9 +1,11 @@
 ---
-layout: bio
-title: biografia
+layout: default
+title: Biografia
 permalink: /fi/biography/
 lang: fi
 ---
+
+## Biografia
 
 Jenna Ristilä (s.1989) aloitti pianonsoiton 7-vuotiaana Savonlinnan Musiikkiopistossa Anja Ojanen-Forsbergin johdolla. Vuonna 2006 Ristilä pääsi Sibelius-Akatemian nuorisokoulutukseen ja 2007 esittävän säveltaiteen linjalle opettajinaan Hamsa Juris ja Teppo Koivisto. Ristilä suoritti A-tutkintonsa erinomaisin arvosanoin keväällä 2014 ja valmistui musiikin maisteriksi. Hän on kiitollinen Suomen Kulttuurirahastolle ja ProMusica-säätiölle musiikillisten pyrkimystensä tukemisesta.
 

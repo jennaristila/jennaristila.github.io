@@ -1,14 +1,12 @@
 ---
-layout: news
-title: uutisia
+layout: default
+title: Uutisia
 permalink: /fi/news/
 lang: fi
 ---
 
-<!--
-<img src="/images/jenna3.jpg" width="300px" alt="Jenna Ristilä" style="float: right; margin-left: 50px; margin-top: 25px;  ">
-<h1>{{ page.title }}</h1>
--->
+
+## 2015
 
 ### Hannu ja Kerttu
 
@@ -33,9 +31,3 @@ Kolmen täysin erilaisen säveltäjän pianomusiikkia, jota barokki on inspiroin
 Nyt voit seurata oopperan syntymistä aivan alusta saakka! Ristilä on perustanut säveltäjä Itzam Zapatan kanssa Start-up Ooppera -työryhmän, joka luo ja esittää uuden oopperateoksen. Ryhmän edistymistä voi seurata Ristilän kirjoittamasta blogista osoitteesta [startupopera.blogspot.fi](http://startupopera.blogspot.fi/).
 
 <br/>
-
-### Joululevy
-
-![Christmas cd](/images/christmas_cd.jpg)
-
-Sopraano Johanna Lehesvuoren ja Jenna Ristilän joululevy 'Joulun valo' julkaistiin marraskuussa 2014. Tunnelmallinen levy sisältää perinteisiä suomalaisia joululauluja ja lauluja neitsyt Mariasta. Levy on tilattavissa osoitteesta [bluemusicgroup.com](http://lightofchristmas.bluemusicgroup.com/). 

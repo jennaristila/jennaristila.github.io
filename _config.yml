@@ -1,8 +1,12 @@
 # Site settings
 title: Jenna Ristilä
-baseurl: ""
+baseurl: "http://www.jennaristila.com/"
 url: "http://jennaristila.com"
 
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+sass: 
+    sass_dir: _sass
+    style: :compressed

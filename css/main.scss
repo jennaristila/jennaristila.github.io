@@ -1,0 +1,89 @@
+---
+---
+@charset "utf-8";
+
+$brand_color:      #703820; 
+
+
+
+$base_font_family: 'Alegreya', sans-serif;
+
+$base_font_size:   16px;
+$small_font_size:  $base_font_size * 0.875;
+$base_line_height: 1.5;
+
+$spacing_unit:     30px;
+
+$text_color:       #111;
+
+$background_color: #ffffff - (hsl(hue(invert($brand_color)), 10, 5));
+
+
+
+$grey_color:       #828282;
+$grey_color_light: lighten($grey_color, 40%);
+$grey_color_dark:  darken($grey_color, 25%);
+
+/* header */
+$header_height: 6rem; 
+$title_font_size: 3rem; 
+$title_font_weight: 400;
+$title_font_spacing: -1px; 
+
+/* needed for topheader */
+$menuitems: 5; 
+
+
+
+// Width of the content area
+//$content_width:    800px;
+$content_width:    1200px;
+$content_width:    800px;
+
+//$small_mobile:     360px;
+$small_mobile:     400px;
+$on_palm:          600px;
+$on_laptop:        800px;
+
+$ipad:             768px;
+
+
+
+// Using media queries with like this:
+// @include media-query($on-palm) {
+//     .wrapper {
+//         padding-right: $spacing-unit / 2;
+//         padding-left: $spacing-unit / 2;
+//     }
+// }
+/*
+@mixin media-query($device) {
+    @media screen and (max-width: $device) {
+        @content;
+    }
+}
+*/
+
+@mixin max($device) {
+    @media screen and (max-width: $device) {
+        @content;
+    }
+}
+@mixin min($device) {
+    @media screen and (min-width: $device) {
+        @content;
+    }
+}
+
+
+$layout: def; 
+$layout: leftcol; 
+
+// Import partials from `sass_dir` (defaults to `_sass`)
+//div {border: 1px solid black; }
+@import
+		"normalize",
+		"common",
+		"custom",
+		"menu_mobile_top"
+;

@@ -1,13 +1,12 @@
 ---
 layout: default
-title: media
+title: Media
 permalink: /fi/media/
 lang: fi
 ---
 
-<h1>{{ page.title }}</h1>
 
-### Arvostelut
+## Arvostelut
 
 "Pianisti Jenna Ristilä on keskeinen tekijä [kamarioopperan esityksessä]. Hän heittäytyy jopa näyttelemään ja tuo esille kaikki säveltäjän oivallukset ja antaa laulajille vankan taustan laulaa ja näytellä sydämen kyllyydestä."
 
@@ -23,35 +22,39 @@ _Liisa Rousti, Itä-Savo 27.5.2012_
 
 <br/>
 
-### Musiikkia
+## Musiikkia
 
 __Hugo Alfvén: Skogen sover__
 
 
-	Johanna Lehesvuori, sopraano & Jenna Ristilä, piano
-	studioäänite, maaliskuu 2015, Helsinki
+Johanna Lehesvuori, sopraano & Jenna Ristilä, piano  
+studioäänite, maaliskuu 2015, Helsinki
 
 <br/>
 
+<div class="video-container">
 <iframe src="https://player.vimeo.com/video/128004094?byline=0&portrait=0" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+</div>
 
 <br/>
 
 __Richard Strauss: Als mir dein Lied erklang__
 
-	Johanna Lehesvuori, sopraano & Jenna Ristilä, piano
-	studioäänite, maaliskuu 2015, Helsinki
+Johanna Lehesvuori, sopraano & Jenna Ristilä, piano  
+studioäänite, maaliskuu 2015, Helsinki
 
 <br/>
 
+<div class="video-container">
 <iframe src="https://player.vimeo.com/video/128004637?byline=0&portrait=0" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+</div>
 
 <br/>
 
 __Matei Gheorghiu: Sonata no. 2 (2010)__  
 
-	Jenna Ristilä, piano  
-	konserttiäänite, lokakuu 2010, Cardiff
+Jenna Ristilä, piano  
+konserttiäänite, lokakuu 2010, Cardiff
 
 Lue lisää säveltäjästä osoitteesta [mateigheorghiu.com](http://www.mateigheorghiu.com/)
 
@@ -64,15 +67,15 @@ Lue lisää säveltäjästä osoitteesta [mateigheorghiu.com](http://www.mateigh
 
 __Jean Sibelius: 6 kansanlaulusovitusta pianolle JS 81__
 
-	1. Minun kultani 
-	2. Sydämestäni rakastan 
-	3. Ilta tulee, ehtoo joutuu 
-	4. Tuopa tyttö, kaunis tyttö kanteletta soittaa 
-	5. Velisurmaaja 
-	6. Häämuistelma
+1. Minun kultani 
+2. Sydämestäni rakastan 
+3. Ilta tulee, ehtoo joutuu 
+4. Tuopa tyttö, kaunis tyttö kanteletta soittaa 
+5. Velisurmaaja 
+6. Häämuistelma
 
-	Jenna Ristilä, piano  
-	konserttiäänite, helmikuu 2014, Helsinki
+Jenna Ristilä, piano  
+konserttiäänite, helmikuu 2014, Helsinki
 
 <br/>
 
@@ -81,3 +84,11 @@ __Jean Sibelius: 6 kansanlaulusovitusta pianolle JS 81__
 </div>
 
 <br/>
+
+## Diskografia
+
+### Joululevy
+
+[![Christmas cd](../../images/christmas_cd.jpg)](http://lightofchristmas.bluemusicgroup.com/)
+
+Sopraano Johanna Lehesvuoren ja Jenna Ristilän joululevy 'Joulun valo' julkaistiin marraskuussa 2014. Tunnelmallinen levy sisältää perinteisiä suomalaisia joululauluja ja lauluja neitsyt Mariasta. Levy on tilattavissa osoitteesta [bluemusicgroup.com](http://lightofchristmas.bluemusicgroup.com/). 

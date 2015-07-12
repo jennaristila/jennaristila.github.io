@@ -1,5 +1,25 @@
-{% include base_top.html %}
-    <div class="page" >
-      {{ content }}
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body>
+    <div id="leftcolumn"></div>
+    <div id="rightcolumn"></div>
+    <div class="wholewrapper">
+
+    {% include header.html %}
+    <div id="jumbotron"></div>
+    <div class="page-content">
+      <div class="wrapper">
+        {{ content }}
+      </div>
     </div>
-{% include base_bottom.html %}
+    {% comment %}
+    {% endcomment %}
+    {% include footer.html %}
+
+    </div>
+  </body>
+
+</html>

@@ -1,9 +1,11 @@
 ---
-layout: contact
-title: yhteystiedot
+layout: default
+title: Yhteystiedot
 permalink: /fi/contact/
 lang: fi
 ---
+
+## Yhteystiedot
 
 Jos haluat ottaa minuun yhteyttä, lähetä sähköpostia osoitteeseen  
 <j.ristilae@gmail.com>
