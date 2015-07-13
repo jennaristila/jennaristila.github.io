@@ -7,10 +7,12 @@ h4 { font-size: 2.0rem; line-height: 1.35; letter-spacing: -.08rem; }
 h5 { font-size: 1.8rem; line-height: 1.5;  letter-spacing: -.05rem; }
 h6 { font-size: 1.5rem; line-height: 1.6;  letter-spacing: 0; }
 
-h1, h2, h3 {
+h1, h2{
     font-weight: 500;
 }
-
+h3  {
+    font-weight: 600;
+}
 
 
 
@@ -51,6 +53,9 @@ iframe,
 }
 .wrapper {
 	padding: 0 4rem; 
+	@include max($small_mobile) {
+		padding: 0 2rem; 
+	}
 }
 $layout:  "leftcol"; 
 @if $layout == "leftcol" {
