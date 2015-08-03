@@ -8,14 +8,6 @@ lang: en
 
 ## 2015
 
-### Hansel and Gretel
-
-The fairytale opera by Humperdinck in short, child-friendly form. Old students of Savonlinna High School of Arts gather to create a spectacle of a production. Tickets bought in advance 15e, also family tickets available.
-
-- __29.7, 31.7 and 2.8__ at 3 pm __Melartin Hall__, Sotilaspojankatu 2, Savonlinna
-
-<br/>
-
 ### Those who look back: Villa-Lobos, Shostakovich and Brahms
 
 Three entirely different composers' piano works that have been inspired by baroque. Each composer has been fascinated by the musical past in his own way. Come hear!
@@ -23,6 +15,22 @@ Three entirely different composers' piano works that have been inspired by baroq
 - __12.8__ at 6.30 pm __Hakavuori church__, Tolarintie 1, Helsinki
 - __3.9__ at 6 pm __Melartin Hall__, Sotilaspojankatu 1, Savonlinna
 - __13.9__ at 4 pm __Oulunkylä church__, Teinintie 10, Helsinki
+
+<br/>
+
+### Finnish songs
+
+Soprano Milla Mäkinen and Ristilä are performing Finnish songs and piano music to brighten the darkening evenings of Autumn.
+
+- __11.10__ at 6 pm __Sammonlahti church__, Hietakallionkatu 7, Lappeenranta
+
+<br/>
+
+### Getting competitive
+
+Soprano Johanna Lehesvuori and Ristilä are taking part in the Helsinki Lied Competition in October. They will perform their competition program in this concert, including 6 Elisabethan songs by Argento and other exciting things.
+
+- __17.10__ at 6 pm __Oulunkylä church__, Teinintie 10, Helsinki
 
 <br/>
 
