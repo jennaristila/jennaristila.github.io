@@ -36,6 +36,6 @@ Soprano Johanna Lehesvuori and Ristilä are taking part in the Helsinki Lied Com
 
 ### Start-up Opera
 
-Have you ever wanted to know how an opera is made from scratch? Ristilä and Itzam Zapata have founded the Start-up Opera group, who'se creating and performing a new operatic work. You can follow the group's progress from [startupopera.blogspot.fi](http://startupopera.blogspot.fi/).
+Have you ever wanted to know how an opera is made from scratch? Ristilä and Itzam Zapata have founded the Start-up Opera group, who are creating and performing a new operatic work. You can follow the group's progress from [startupopera.blogspot.fi](http://startupopera.blogspot.fi/).
 
 <br/>
