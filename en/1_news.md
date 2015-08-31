@@ -28,9 +28,18 @@ Soprano Milla Mäkinen and Ristilä are performing Finnish songs and piano music
 
 ### Getting competitive
 
-Soprano Johanna Lehesvuori and Ristilä are taking part in the Helsinki Lied Competition in October. They will perform their competition program in this concert, including 6 Elisabethan songs by Argento and other exciting things.
+Soprano Johanna Lehesvuori and Ristilä are taking part in the Helsinki Lied Competition in October. You can hear their program already in advance in Oulunkylä. The program includes 6 Elisabethan songs by Argento and other exciting things. And why not come to follow the competition as well?
 
 - __17.10__ at 6 pm __Oulunkylä church__, Teinintie 10, Helsinki
+- __23 - 25.10 Helsingin Konservatorio__, Ruoholahdentori 6, Helsinki
+
+<br/>
+
+### The violin completely took me
+
+Jenna Ristilä is performing some Sibelius with violinist Emilia Karjunen, alongside other piano-violin -duos. The concert is a part of the Sibelius-Academy's celebration of the composer.
+
+- __30.10__ at 6 pm __Camerata hall__, Musiikkitalo, Helsinki
 
 <br/>
 
