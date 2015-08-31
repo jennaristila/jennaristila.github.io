@@ -16,7 +16,7 @@ Ristilä has done all kinds of musical things: participated in piano competition
 In 2010-2011 Ristilä was an exchange student at the Royal Welsh College of Music & Drama in Cardiff. Solo playing was momentarily cast aside as Ristilä collaborated intensely with the vocal music department. She studied lied with Michael Pollock, worked as an assisting opera coach in two opera productions, and accompanied numerous concerts, auditions and master classes.
 
 
-Currently Ristilä studies opera coaching at the Sibelius Academy and teaches at [Keski-Vantaa Music School](http://kevamo.com/) and Tuusulan Kansalaisopisto. This summer will bring opera performances in Savonlinna and some solo concerts. The most important goal, however, is to finish the pair of woollen socks she's been knitting since... a long time ago.
+Currently Ristilä studies opera coaching at the Sibelius Academy and teaches at [Keski-Vantaa Music School](http://kevamo.com/) and Tuusulan Kansalaisopisto. This autumn she is participating in Helsinki Lied Competition with Johanna Lehesvuori, leading the Start-up Opera group making a new operatic work, and preparing some chamber music projects for spring. She is also determined to buy Christmas presents on time.
 
 
 <br/>
