@@ -28,9 +28,18 @@ Sopraano Milla Mäkinen ja Ristilä esittävät suomalaista laulu- ja pianomusii
 
 ### Kilpailutunnelmissa
 
-Sopraano Johanna Lehesvuori ja Ristilä osallistuvat Helsingin lied-kilpailuun lokakuun lopussa, ja tässä konsertissa on mahdollisuus kuulla kilpailuohjelma etukäteen. Luvassa mm. Argenton 6 Elisabethan songs ja muuta jännittävää.
+Sopraano Johanna Lehesvuori ja Ristilä osallistuvat Helsingin lied-kilpailuun lokakuun lopussa, ja Oulunkylässä edellisellä viikolla pidettävässä konsertissa on mahdollisuus kuulla heidän ohjelmansa jo etukäteen. Luvassa mm. Argenton 6 Elisabethan songs ja muuta jännittävää. Tervetuloa myös seuraamaan itse kilpailua!
 
 - __17.10__ klo 18 __Oulunkylän kirkko__, Teinintie 10, Helsinki
+- __23 - 25.10 Helsingin konservatorio__, Ruoholahdentori 6, Helsinki 
+
+<br/>
+
+### Viulu otti minut kokonaan valtoihinsa
+
+Jenna Ristilä esittää viulisti Emilia Karjusen kanssa Sibeliusta muiden piano-viulu -duojen rinnalla. Konsertti on osa Sibelius-Akatemian Sibelius-juhlavuoden ohjelmaa.
+
+- __30.10__ klo 19 __Camerata-sali__, Musiikkitalo, Helsinki
 
 <br/>
 
