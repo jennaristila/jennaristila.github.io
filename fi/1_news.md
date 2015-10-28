@@ -8,43 +8,47 @@ lang: fi
 
 ## 2015
 
-### Taakseenkatsojat: Villa-Lobos, Shostakovich ja Brahms
-
-Kolmen täysin erilaisen säveltäjän pianomusiikkia, jota barokki on inspiroinut. Kaikkia näitä säveltäjiä on omalla tavallaan kiehtonut musiikin historia, ja se on vaikuttanut heidän työhönsä eri tavoin. Tule ihmettelemään! 
-
-- __12.8__ klo 18.30 __Hakavuoren kirkko__, Tolarintie 1, Helsinki
-- __3.9__ klo 18 __Melartin-sali__, Sotilaspojankatu 1, Savonlinna
-- __13.9__ klo 16 __Oulunkylän kirkko__, Teinintie 10, Helsinki
-
-<br/>
-
-### Suomalaisia säveliä
-
-Sopraano Milla Mäkinen ja Ristilä esittävät suomalaista laulu- ja pianomusiikkia pimenevän syksyn iloksi.
-
-- __11.10__ klo 18 __Sammonlahden kirkko__, Hietakallionkatu 7, Lappeenranta
-
-<br/>
-
-### Kilpailutunnelmissa
-
-Sopraano Johanna Lehesvuori ja Ristilä osallistuvat Helsingin lied-kilpailuun lokakuun lopussa, ja Oulunkylässä edellisellä viikolla pidettävässä konsertissa on mahdollisuus kuulla heidän ohjelmansa jo etukäteen. Luvassa mm. Argenton 6 Elisabethan songs ja muuta jännittävää. Tervetuloa myös seuraamaan itse kilpailua!
-
-- __17.10__ klo 18 __Oulunkylän kirkko__, Teinintie 10, Helsinki
-- __23 - 25.10 Helsingin konservatorio__, Ruoholahdentori 6, Helsinki 
-
 <br/>
 
 ### Viulu otti minut kokonaan valtoihinsa
 
-Jenna Ristilä esittää viulisti Emilia Karjusen kanssa Sibeliusta muiden piano-viulu -duojen rinnalla. Konsertti on osa Sibelius-Akatemian Sibelius-juhlavuoden ohjelmaa.
+Jenna Ristilä esittää viulisti Emilia Karjusen kanssa Sibeliusta muiden piano-viulu -duojen rinnalla. Konsertti on osa Sibelius-Akatemian Sibelius 150 -juhlavuoden ohjelmaa.
 
 - __30.10__ klo 19 __Camerata-sali__, Musiikkitalo, Helsinki
 
 <br/>
 
-### Start-up Ooppera
+### Sempre, Sempre!
+
+Sibelius-Akatemian uudet oopperakoulutuslaiset tulkitsevat aarioita ja kohtauksia eri oopperoista - luvassa mm. Wagneria sekä Rossinia. Pianisteina huhkivat Laura Kivikoski sekä Ristilä.
+
+- __28.11__ klo 19 __Sonore-sali__, Musiikkitalo, Helsinki
+- __30.11__ klo 19 __Sonore-sali__, Musiikkitalo, Helsinki
+- __2.12__ klo 19 __Sonore-sali__, Musiikkitalo, Helsinki
+
+<br/>
+
+### Sibelius Tukholmassa
+
+Ristilä ja viulisti Marielle Iivonen matkaavat Tukholmaan itsenäisyyspäiväksi esittämään Sibeliuksen viulu- ja pianomusiikkia. Luvassa säveltäjän rakastetuimpia teoksia sekä vähemmän tunnettuja helmiä!
+
+- __6.12__ klo 18 __Suomalainen kirkko__, Slottsbacken 2B-C, Tukholma
+
+<br/>
+
+### Joulun valoa idässä ja lännessä
+
+Koloratuurisopraano Johanna Lehesvuoren ja Ristilän joulukonsertit saavat jatkoa. Tervetuloa kuuntelemaan uutta ohjelmakokonaisuutta ja hengähtämään hetkeksi jouluvalmisteluiden parista.
+
+- __20.12__ klo 18 __Taidekappeli__, Seiskarinkatu 35, Turku
+- __21.12__ klo 18 __Imatrankosken kirkko__, Kanavakatu 2, Imatra
+
+<br/>
+
+### Start-up Ooppera esittää: Jääkausi
 
 Nyt voit seurata oopperan syntymistä aivan alusta saakka! Ristilä on perustanut säveltäjä Itzam Zapatan kanssa Start-up Ooppera -työryhmän, joka luo ja esittää uuden oopperateoksen. Ryhmän edistymistä voi seurata Ristilän kirjoittamasta blogista osoitteesta [startupopera.blogspot.fi](http://startupopera.blogspot.fi/).
+
+- Ensi-ilta __1.3.2016__ klo 19 __Camerata-sali__, Musiikkitalo, Helsinki
 
 <br/>
