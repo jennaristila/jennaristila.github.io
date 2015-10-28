@@ -8,33 +8,6 @@ lang: en
 
 ## 2015
 
-### Those who look back: Villa-Lobos, Shostakovich and Brahms
-
-Three entirely different composers' piano works that have been inspired by baroque. Each composer has been fascinated by the musical past in his own way. Come hear!
-
-- __12.8__ at 6.30 pm __Hakavuori church__, Tolarintie 1, Helsinki
-- __3.9__ at 6 pm __Melartin Hall__, Sotilaspojankatu 1, Savonlinna
-- __13.9__ at 4 pm __Oulunkylä church__, Teinintie 10, Helsinki
-
-<br/>
-
-### Finnish songs
-
-Soprano Milla Mäkinen and Ristilä are performing Finnish songs and piano music to brighten the darkening evenings of Autumn.
-
-- __11.10__ at 6 pm __Sammonlahti church__, Hietakallionkatu 7, Lappeenranta
-
-<br/>
-
-### Getting competitive
-
-Soprano Johanna Lehesvuori and Ristilä are taking part in the Helsinki Lied Competition in October. You can hear their program already in advance in Oulunkylä. The program includes 6 Elisabethan songs by Argento and other exciting things. And why not come to follow the competition as well?
-
-- __17.10__ at 6 pm __Oulunkylä church__, Teinintie 10, Helsinki
-- __23 - 25.10 Helsingin Konservatorio__, Ruoholahdentori 6, Helsinki
-
-<br/>
-
 ### The violin completely took me
 
 Jenna Ristilä is performing some Sibelius with violinist Emilia Karjunen, alongside other piano-violin -duos. The concert is a part of the Sibelius-Academy's celebration of the composer.
@@ -43,8 +16,37 @@ Jenna Ristilä is performing some Sibelius with violinist Emilia Karjunen, along
 
 <br/>
 
-### Start-up Opera
+### Sempre, Sempre!
+
+The new opera students from Sibelius Academy are performing arias and ensembles from various operas: there'll be Wagner, Rossini, ... Laura Kivikoski and Ristilä are the pianist-workhorses of the production.
+
+- __28.11__ at 7 pm __Camerata Hall__, Musiikkitalo, Helsinki
+- __30.11__ at 7 pm __Camerata Hall__, Musiikkitalo, Helsinki
+- __2.12__ at 7 pm __Camerata Hall__, Musiikkitalo, Helsinki
+
+<br/>
+
+### Sibelius goes Stockholm
+
+Violinist Marielle Iivonen and Ristilä are performing Sibelius to celebrate the Independence Day of Finland. The program includes some of the composer's most beloved violin and piano works alongside some more rarely performed gems.
+
+- __6.12__ at 6 pm __Finska Kyrkan__, Slottsbacken 2B-C, Stockholm
+
+<br/>
+
+### The light of Christmas - East and West
+
+Coloratura soprano Johanna Lehesvuori and Ristilä perform songs celebrating Christmas and winter. Come and have a break from all your Christmas preparations!
+
+- __20.12__ at 6 pm __The Art Chapel__, Seiskarinkatu 35, Turku
+- __21.12__ at 6 pm __Imatrankoski Church__, Kanavakatu 2, Imatra
+
+<br/>
+
+### Start-up Opera presents: Jääkausi
 
 Have you ever wanted to know how an opera is made from scratch? Ristilä and Itzam Zapata have founded the Start-up Opera group, who are creating and performing a new operatic work. You can follow the group's progress from [startupopera.blogspot.fi](http://startupopera.blogspot.fi/).
+
+- Premiere __1.3.2016__ at 7 pm __Camerata Hall__, Musiikkitalo, Helsinki
 
 <br/>
