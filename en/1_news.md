@@ -44,7 +44,7 @@ Coloratura soprano Johanna Lehesvuori and Ristilä perform songs celebrating Chr
 - __21.12__ at 6 pm __Imatrankoski church__, Kanavakatu 2, Imatra
 
 <br/>
-
+<br/>
 ## 2016
 
 ### Start-up Opera presents: Jääkausi
