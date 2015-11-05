@@ -10,14 +10,6 @@ lang: fi
 
 <br/>
 
-### Viulu otti minut kokonaan valtoihinsa
-
-Jenna Ristilä esittää viulisti Emilia Karjusen kanssa Sibeliusta muiden piano-viulu -duojen rinnalla. Konsertti on osa Sibelius-Akatemian Sibelius 150 -juhlavuoden ohjelmaa.
-
-- __30.10__ klo 19 __Camerata-sali__, Musiikkitalo, Helsinki
-
-<br/>
-
 ### Sempre, Sempre!
 
 Sibelius-Akatemian uudet oopperakoulutuslaiset tulkitsevat aarioita ja kohtauksia eri oopperoista - luvassa mm. Wagneria sekä Rossinia. Pianisteina huhkivat Laura Kivikoski sekä Ristilä.
@@ -28,10 +20,20 @@ Sibelius-Akatemian uudet oopperakoulutuslaiset tulkitsevat aarioita ja kohtauksi
 
 <br/>
 
+### Suomelle ja Joululle
+
+Ensimmäisenä adventtina Ristilä on mukana Nova Ensemble -pianotriossa, joka esittää Joonas Asikaisen ja Eilamaria Leskisen kanssa mm. Sibeliuksen musiikkia. Ilmaiskonsertin tarjoaa LähiTapiola.
+
+- __29.11__ klo 14 __Pitäjänkirkko__, Otavankatu 9, Mikkeli
+- __29.11__ klo 19 __Tuomiokirkko__, Pappilankatu 8, Savonlinna
+
+<br/>
+
 ### Sibelius Tukholmassa
 
 Ristilä ja viulisti Marielle Iivonen matkaavat Tukholmaan itsenäisyyspäiväksi esittämään Sibeliuksen viulu- ja pianomusiikkia. Luvassa säveltäjän rakastetuimpia teoksia sekä vähemmän tunnettuja helmiä!
 
+- __6.12__ klo 14 __Nackan kirkko__, Gamla Värmdövägen 14, Nacka
 - __6.12__ klo 18 __Suomalainen kirkko__, Slottsbacken 2B-C, Tukholma
 
 <br/>
