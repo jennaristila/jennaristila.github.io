@@ -8,8 +8,6 @@ lang: fi
 
 ## 2015
 
-<br/>
-
 ### Sempre, Sempre!
 
 Sibelius-Akatemian uudet oopperakoulutuslaiset tulkitsevat aarioita ja kohtauksia eri oopperoista - luvassa mm. Wagneria sekä Rossinia. Pianisteina huhkivat Laura Kivikoski sekä Ristilä.
