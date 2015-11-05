@@ -44,6 +44,9 @@ Koloratuurisopraano Johanna Lehesvuoren ja Ristilän joulukonsertit saavat jatko
 - __21.12__ klo 18 __Imatrankosken kirkko__, Kanavakatu 2, Imatra
 
 <br/>
+<br/>
+
+## 2016
 
 ### Start-up Ooppera esittää: Jääkausi
 
