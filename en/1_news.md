@@ -8,14 +8,6 @@ lang: en
 
 ## 2015
 
-### The violin completely took me
-
-Jenna Ristilä is performing some Sibelius with violinist Emilia Karjunen, alongside other piano-violin -duos. The concert is a part of the Sibelius-Academy's celebration of the composer.
-
-- __30.10__ at 6 pm __Camerata hall__, Musiikkitalo, Helsinki
-
-<br/>
-
 ### Sempre, Sempre!
 
 The new opera students from Sibelius Academy are performing arias and ensembles from various operas: there'll be Wagner, Rossini, ... Laura Kivikoski and Ristilä are the pianist-workhorses of the production.
@@ -26,11 +18,21 @@ The new opera students from Sibelius Academy are performing arias and ensembles 
 
 <br/>
 
+### For Finland and Christmas
+
+On the first Advent Sunday Ristilä is playing in Nova Ensemble piano trio. They're performing Sibelius and other Finnish songs with Joonas Asikainen and Eilamaria Leskinen. The concert is provided by LähiTapiola.
+
+- __29.11__ at 2 pm __Pitäjä church__, Otavankatu 9, Mikkeli
+- __29.11__ at 7 pm __Tuomiokirkko__, Pappilankatu 8, Savonlinna
+
+<br/>
+
 ### Sibelius goes Stockholm
 
 Violinist Marielle Iivonen and Ristilä are performing Sibelius to celebrate the Independence Day of Finland. The program includes some of the composer's most beloved violin and piano works alongside some more rarely performed gems.
 
-- __6.12__ at 6 pm __Finska Kyrkan__, Slottsbacken 2B-C, Stockholm
+- __6.12__ at 2 pm __Nacka church__, Gamla Värmdövägen 14, Nacka
+- __6.12__ at 6 pm __Finnish church__, Slottsbacken 2B-C, Stockholm
 
 <br/>
 
@@ -39,9 +41,11 @@ Violinist Marielle Iivonen and Ristilä are performing Sibelius to celebrate the
 Coloratura soprano Johanna Lehesvuori and Ristilä perform songs celebrating Christmas and winter. Come and have a break from all your Christmas preparations!
 
 - __20.12__ at 6 pm __The Art Chapel__, Seiskarinkatu 35, Turku
-- __21.12__ at 6 pm __Imatrankoski Church__, Kanavakatu 2, Imatra
+- __21.12__ at 6 pm __Imatrankoski church__, Kanavakatu 2, Imatra
 
 <br/>
+
+## 2016
 
 ### Start-up Opera presents: Jääkausi
 
