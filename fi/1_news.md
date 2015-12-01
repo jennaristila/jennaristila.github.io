@@ -8,23 +8,6 @@ lang: fi
 
 ## 2015
 
-### Sempre, Sempre!
-
-Sibelius-Akatemian uudet oopperakoulutuslaiset tulkitsevat aarioita ja kohtauksia eri oopperoista - luvassa mm. Wagneria sekä Rossinia. Pianisteina huhkivat Laura Kivikoski sekä Ristilä.
-
-- __28.11__ klo 19 __Sonore-sali__, Musiikkitalo, Helsinki
-- __30.11__ klo 19 __Sonore-sali__, Musiikkitalo, Helsinki
-- __2.12__ klo 19 __Sonore-sali__, Musiikkitalo, Helsinki
-
-<br/>
-
-### Suomelle ja Joululle
-
-Ensimmäisenä adventtina Ristilä on mukana Nova Ensemble -pianotriossa, joka esittää Joonas Asikaisen ja Eilamaria Leskisen kanssa mm. Sibeliuksen musiikkia. Ilmaiskonsertin tarjoaa LähiTapiola.
-
-- __29.11__ klo 14 __Pitäjänkirkko__, Otavankatu 9, Mikkeli
-- __29.11__ klo 19 __Tuomiokirkko__, Pappilankatu 8, Savonlinna
-
 <br/>
 
 ### Sibelius Tukholmassa
@@ -36,14 +19,23 @@ Ristilä ja viulisti Marielle Iivonen matkaavat Tukholmaan itsenäisyyspäiväks
 
 <br/>
 
-### Joulun valoa idässä ja lännessä
+### Tuuslaulajien joulu
 
-Koloratuurisopraano Johanna Lehesvuoren ja Ristilän joulukonsertit saavat jatkoa. Tervetuloa kuuntelemaan uutta ohjelmakokonaisuutta ja hengähtämään hetkeksi jouluvalmisteluiden parista.
+Ristilä esiintyy sopraano Leena Kannisen kanssa Tuuslaulajien joulukonsertissa. Tervetuloa kuuntelemaan joululauluja kuoron ja duon tulkitsemina!
 
-- __20.12__ klo 18 __Taidekappeli__, Seiskarinkatu 35, Turku
-- __21.12__ klo 18 __Imatrankosken kirkko__, Kanavakatu 2, Imatra
+- __12.12__ klo 18 __Paijalan kappeli__, Paijalannummentie 11, Tuusula
 
 <br/>
+
+### Joulun valoa idässä ja lännessä
+
+Koloratuurisopraano Johanna Lehesvuoren ja Ristilän joulukonsertit saavat jatkoa. Tervetuloa kuuntelemaan uutta ohjelmakokonaisuutta ja hengähtämään hetkeksi jouluvalmisteluiden parista - ja jos ennen joulua et ehdi, konsertti on kuultavissa myös loppiaisena Helsingissä.
+
+- __19.12__ klo 15 & 17 __Erkkola__, Rantatie 25, Tuusula 
+- __20.12__ klo 18 __Taidekappeli__, Seiskarinkatu 35, Turku
+- __21.12__ klo 18 __Imatrankosken kirkko__, Kanavakatu 2, Imatra
+- __6.1__ klo 15 __Huopalahden kirkko__, Vespertie 12, Helsinki
+
 <br/>
 
 ## 2016
