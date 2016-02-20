@@ -13,6 +13,6 @@ Lukuvuoden 2010-2011 Ristilä oli vaihto-opiskelijana Royal Welsh College of Mus
 
 Ristilä on kokenut esiintyjä ja konsertoi säännöllisesti solistina, säestäjänä ja kamarimuusikkona. Hänen intohimonsa on laulumusiikki; yhteistyö laulajien kanssa on synnyttänyt mitä erilaisimpia projekteja. Koloratuurisopraano Johanna Lehesvuoren kanssa Ristilä julkaisi joululevyn vuonna 2014 ja 2015 syksyllä he pääsivät finaaliin Helsinki Lied -kilpailussa. Joonas Asikaisen vetämän ESMO ry:n kanssa Ristilä on vienyt oopperaa Itä-Suomeen: 2014 Menottin Puhelin-ooppera sai ylistävät arvostelut, ja viime kesänä vuorossa oli lastenooppera Hannu ja Kerttu.
 
-Tällä hetkellä Ristilä täydentää opintojaan Sibelius-Akatemian korrepetitiokoulutuksessa, toimii Start-up Operan taiteellisena johtajana, sekä opettaa [Keski-Vantaan Musiikkiopistossa](http://kevamo.com/) ja Tuusulan Kansalaisopistossa. Talveen kuuluu myös kamarimusiikkia, oopperaa, joulukonsertteja sekä italian kielen opettelua. Tänä vuonna hän myös aikoo ostaa joululahjat ajoissa.
+Tällä hetkellä Ristilä täydentää opintojaan Sibelius-Akatemian korrepetitiokoulutuksessa, toimii Start-up Operan taiteellisena johtajana, sekä opettaa [Keski-Vantaan Musiikkiopistossa](http://kevamo.com/) ja Tuusulan Kansalaisopistossa. Kevääseen kuuluu myös kamarimusiikkia, kesän konserttien suunnittelua sekä täydellisen teeleipäreseptin metsästystä. 
 
 <br/>
