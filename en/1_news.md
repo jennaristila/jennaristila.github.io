@@ -42,3 +42,5 @@ ESMO ry with the Savonlinna Opera Festival is performing Red riding hood. Singer
 - __11.7__ at 6 pm __Savonlinna hall__, Savonlinna
 - __12.7__ at 3 pm __Savonlinna hall__, Savonlinna
 - __18.7__ at 3 pm __Savonlinna hall__, Savonlinna
+
+<br/>
