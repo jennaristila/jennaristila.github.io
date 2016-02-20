@@ -13,7 +13,7 @@ In 2010-2011 Ristilä was an exchange student at the Royal Welsh College of Musi
 
 Ristilä performs regularly as a soloist, accompanist and chamber musician. Her passion is vocal music, because the variety of possible projects with singers is so huge. In 2014 Ristilä released a Christmas cd with coloratura soprano Johanna Lehesvuori, and in 2015 they were finalists in Helsinki Lied -competition. With ESMO ry, lead by Joonas Asikainen, Ristilä has performed opera in Eastern Finland: 2014 Telephone opera by Menotti received praise, and last summer it was Humperdinck's Hensel and Gretel's turn.
 
-Currently Ristilä studies opera coaching at the Sibelius Academy, is the artistic director of Start-up Opera, and teaches at [Keski-Vantaa Music School](http://kevamo.com/) and Tuusulan Kansalaisopisto. The ongoing winter also includes chamber music, opera, Christmas concerts and studying Italian. Despite all this, she is determined to buy Christmas presents on time.
+Currently Ristilä studies opera coaching at the Sibelius Academy, is the artistic director of Start-up Opera, and teaches at [Keski-Vantaa Music School](http://kevamo.com/) and Tuusulan Kansalaisopisto. Spring also contains chamber music, planning concerts for the summer and hunting down the perfect recipe for bread.
 
 
 <br/>
