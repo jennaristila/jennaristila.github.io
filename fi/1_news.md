@@ -40,3 +40,5 @@ ESMO ry esittää yhteistyössä Savonlinnan Oopperajuhlien kanssa Punahilkka-la
 - __11.7__ klo 18 __Savonlinnasali__, Savonlinna
 - __12.7__ klo 15 __Savonlinnasali__, Savonlinna
 - __18.7__ klo 15 __Savonlinnasali__, Savonlinna
+
+<br/>
