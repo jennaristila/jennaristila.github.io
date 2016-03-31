@@ -9,27 +9,27 @@ lang: fi
 
 <br/>
 
-### Start-up Ooppera esittää: Jääkausi
+### Laulujen ilta
 
-Nyt voit seurata oopperan syntymistä aivan alusta saakka! Ristilä on perustanut säveltäjä Itzam Zapatan kanssa Start-up Ooppera -työryhmän, joka luo ja esittää uuden oopperateoksen. Ryhmän edistymistä voi seurata Ristilän kirjoittamasta blogista osoitteesta [startupopera.blogspot.fi](http://startupopera.blogspot.fi/).
+Mezzosopraano Elli Vallinoja ja Ristilä esiintyvät Liikesivistysrahaston yksityistilaisuudessa. Duo esittää sekä klassista että musikaalisävelmiä - sopisiko tällainen yhdistelmä sinunkin tilaisuuteesi?
 
-- Ensi-ilta __1.3.2016__ klo 19 __Camerata-sali__, Musiikkitalo, Helsinki
-
-<br/>
-
-### Kamarimusiikkia lounaaksi
-
-Ristilä, viulisti Marielle Iivonen ja käyrätorvisti Emilie Wendt esittävät Madsenin trion Sibelius-Akatemian matineassa. Teos on jazzahtava, vauhdikas ja vinkeä. Tervetuloa!
-
-- __22.3__ klo 12 __Camerata-sali__, Musiikkitalo, Helsinki
+- __6.4__ klo 21 __Palace-hotelli__, Helsinki
 
 <br/>
 
-### Laulava pianisti
+### Helsingissä Myrskyää
 
-Ristilä tuuraa Veli ja veljet -bändin laulajaa yksityisellä hääkeikalla. Tarvitsetko kokeneen bändin juhlaasi? Pyydä tarjous!
+Shakespeare täyttää 400 vuotta, ja sen kunniaksi laulaja Mikko Sateila ja Ristilä esittävät katkelman Sibeliuksen Myrskyä osana Helsingin Yliopiston juhlallisuuksia.
 
-- __7.5__ Suomenlinna
+- __21.4__ klo 16-18 __Helsingin Yliopiston juhlasali__, Unioninkatu 34, Helsinki
+
+<br/>
+
+### Opettajat lavalla
+
+Keski-Vantaan Musiikkiopiston opettajat esiintyvät yhteiskonsertissa. Ristilä soittaa Melartinin Lastuja ja kokeilee vähän myös runonlausuntaa. Lämpimästi tervetuloa!
+
+- __29.4__ klo 18 __Taidetalo Pessi__, Kielotie 12-14, Vantaa
 
 <br/>
 
@@ -42,3 +42,9 @@ ESMO ry esittää yhteistyössä Savonlinnan Oopperajuhlien kanssa Punahilkka-la
 - __18.7__ klo 15 __Savonlinnasali__, Savonlinna
 
 <br/>
+
+### Lauluja lounaaksi
+
+Ville Rusanen ja Jenna Ristilä esiintyvät Savonlinnan Soroptimistien oopperalounaalla. Yksityistilaisuus.
+
+- __17.7__ klo 12 __Ravintola Paviljonki__, Savonlinna
