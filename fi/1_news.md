@@ -48,3 +48,5 @@ ESMO ry esittää yhteistyössä Savonlinnan Oopperajuhlien kanssa Punahilkka-la
 Ville Rusanen ja Jenna Ristilä esiintyvät Savonlinnan Soroptimistien oopperalounaalla. Yksityistilaisuus.
 
 - __17.7__ klo 12 __Ravintola Paviljonki__, Savonlinna
+
+<br/>
