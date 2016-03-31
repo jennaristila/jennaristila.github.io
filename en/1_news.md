@@ -11,27 +11,27 @@ lang: en
 
 <br/>
 
-### Start-up Opera presents: Jääkausi
+### A night of songs
 
-Have you ever wanted to know how an opera is made from scratch? Ristilä and Itzam Zapata have founded the Start-up Opera group, who are creating and performing a new operatic work. You can follow the group's progress from [startupopera.blogspot.fi](http://startupopera.blogspot.fi/).
+Mezzosoprano Elli Vallinoja and Ristilä are performing classical songs as well as lighter numbers in a private event of the Finnish Liikesivistysrahasto. Would that kind of combo suit your event as well?
 
-- Premiere __1.3.2016__ at 7 pm __Camerata Hall__, Musiikkitalo, Helsinki
-
-<br/>
-
-### Chamber music for lunch
-
-Ristilä, violinist Marielle Iivonen and french horn player Emilie Wendt are performing the Madsen trio. Come hear this exciting, jazzy work!
-
-- __22.3__ at 12.00 __Camerata Hall__, Musiikkitalo, Helsinki
+- __6.4__ at 9 pm __Palace Hotel__, Helsinki
 
 <br/>
 
-### The pianist sings
+### A storm in Helsinki
 
-Ristilä is singing with the band Veli ja veljet on a private wedding gig. Do you need an experienced band for a party? They're what you need!
+To honour Shakespeare's 400th birthday, Mikko Sateila and Ristilä are performing an excerpt from The Storm by Sibelius. The performance is a part of the festivities of the University of Helsinki.
 
-- __7.5__ Suomenlinna, Helsinki
+- __21.4__ 4-6pm __University of Helsinki festival hall__, Unioninkatu 34, Helsinki
+
+<br/>
+
+### Teachers on stage
+
+The teachers of Keski-Vantaan Musiikkiopisto are performing! Ristilä is playing some pieces by Erkki Melartin, and she'll also recite some poetry. Exciting times.
+
+- __29.4__ 6 pm __Taidetalo Pessi__, Kielotie 12-14, Vantaa
 
 <br/>
 
@@ -42,5 +42,13 @@ ESMO ry with the Savonlinna Opera Festival is performing Red riding hood. Singer
 - __11.7__ at 6 pm __Savonlinna hall__, Savonlinna
 - __12.7__ at 3 pm __Savonlinna hall__, Savonlinna
 - __18.7__ at 3 pm __Savonlinna hall__, Savonlinna
+
+<br/>
+
+### Songs for lunch
+
+Ville Rusanen and Ristilä are performing on an opera lunch by Savonlinna Soroptimists. Private event.
+
+- __17.7__ at 12 pm __Paviljonki Restaurant__, Savonlinna
 
 <br/>
