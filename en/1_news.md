@@ -35,6 +35,14 @@ The teachers of Keski-Vantaan Musiikkiopisto are performing! Ristilä is playing
 
 <br/>
 
+### Women in a Museum
+
+Soprano Alina Koivula, mezzosoprano Elli Vallinoja and Ristilä are performing in Järvenpää Museum of Art, on the opening night of their summer exhibition. The performance includes charming duets and Sibelius!
+
+- __20.5__ at 6 pm __Järvenpää Museum of Art__, Kirjastokatu 8, Järvenpää
+
+<br/>
+
 ### Opera for children
 
 ESMO ry with the Savonlinna Opera Festival is performing Red riding hood. Singers include the Mustakallio winners Markus Suihkonen and Sanna Matinniemi, and Ristilä is the pianist of the production.
