@@ -33,6 +33,14 @@ Keski-Vantaan Musiikkiopiston opettajat esiintyvät yhteiskonsertissa. Ristilä 
 
 <br/>
 
+### Naiset museossa
+
+Sopraano Alina Koivula, mezzosopraano Elli Vallinoja sekä Ristilä esiintyvät Järvenpään Taidemuseon kesänäyttelyn avajaisissa. Luvassa mm. Sibeliusta ja hurmaavia duettoja!
+
+- __20.5__ klo 18 __Järvenpään Taidemuseo__, Kirjastokatu 8, Järvenpää
+
+<br/>
+
 ### Lastenoopperaa Savonlinnassa
 
 ESMO ry esittää yhteistyössä Savonlinnan Oopperajuhlien kanssa Punahilkka-lastenoopperan. Lavalla mm. Mustakallio-voittajat Markus Suihkonen ja Sanna Matinniemi, ja produktion pianistina taas urakoi allekirjoittanut.
