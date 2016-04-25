@@ -41,6 +41,14 @@ Sopraano Alina Koivula, mezzosopraano Elli Vallinoja sekä Ristilä esiintyvät 
 
 <br/>
 
+### Jääkauden paluu
+
+Start-up Operan spektaakkelimainen kamariooppera Jääkausi saa toisen esityksensä Töölö Soi -festivaaleilla. Lue lisää ryhmän [blogista](http://startupopera.blogspot.fi).
+
+- __31.5__ klo 19 __Hietsun Paviljonki__, Hiekkarannantie 9, Helsinki
+
+<br/>
+
 ### Lastenoopperaa Savonlinnassa
 
 ESMO ry esittää yhteistyössä Savonlinnan Oopperajuhlien kanssa Punahilkka-lastenoopperan. Lavalla mm. Mustakallio-voittajat Markus Suihkonen ja Sanna Matinniemi, ja produktion pianistina taas urakoi allekirjoittanut.
