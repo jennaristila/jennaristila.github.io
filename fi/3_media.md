@@ -11,7 +11,7 @@ lang: fi
 __Henri Duparc: Phidylé__
 
 
-Elli Vallinoja, mezzo-sopraano & Jenna Ristilä, piano
+Elli Vallinoja, mezzo-sopraano & Jenna Ristilä, piano <br/>
 studioäänite, huhtikuu 2016, Helsinki
 
 <br/>
