@@ -17,7 +17,7 @@ studioäänite, huhtikuu 2016, Helsinki
 <br/>
 
 <div class="video container">
-<iframe src="https://player.vimeo.com/video/164059137" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/164059137?byline=0&portrait=0" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </div>
 
 <br/>
