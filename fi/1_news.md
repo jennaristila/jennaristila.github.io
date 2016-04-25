@@ -9,14 +9,6 @@ lang: fi
 
 <br/>
 
-### Laulujen ilta
-
-Mezzosopraano Elli Vallinoja ja Ristilä esiintyvät Liikesivistysrahaston yksityistilaisuudessa. Duo esittää sekä klassista että musikaalisävelmiä - sopisiko tällainen yhdistelmä sinunkin tilaisuuteesi?
-
-- __6.4__ klo 21 __Palace-hotelli__, Helsinki
-
-<br/>
-
 ### Helsingissä Myrskyää
 
 Shakespeare täyttää 400 vuotta, ja sen kunniaksi laulaja Mikko Sateila ja Ristilä esittävät katkelman Sibeliuksen Myrskyä osana Helsingin Yliopiston juhlallisuuksia.
@@ -30,6 +22,14 @@ Shakespeare täyttää 400 vuotta, ja sen kunniaksi laulaja Mikko Sateila ja Ris
 Keski-Vantaan Musiikkiopiston opettajat esiintyvät yhteiskonsertissa. Ristilä soittaa Melartinin Lastuja ja kokeilee vähän myös runonlausuntaa. Lämpimästi tervetuloa!
 
 - __29.4__ klo 18 __Taidetalo Pessi__, Kielotie 12-14, Vantaa
+
+<br/>
+
+### Kuoron kevät
+
+Ristilä säestää Leena Kannisen johtaman Tuuslaulajat -kuoron perinteisen kevätkonsertin.
+
+- __19.5__ klo 19 __Mikkolan koulu__, Pähkinämäentie 215, Tuusula
 
 <br/>
 
@@ -56,5 +56,13 @@ ESMO ry esittää yhteistyössä Savonlinnan Oopperajuhlien kanssa Punahilkka-la
 Ville Rusanen ja Jenna Ristilä esiintyvät Savonlinnan Soroptimistien oopperalounaalla. Yksityistilaisuus.
 
 - __17.7__ klo 12 __Ravintola Paviljonki__, Savonlinna
+
+<br/>
+
+### Kesä ja crossover
+
+Sopraano Milla Mäkinen, nokkahuilisti Juho Myllylä sekä Ristilä yhdistävät voimansa luodakseen poikkitaiteellisen, hilpeän ohjelmakokonaisuuden. Konsertista löytyy kaikkea kansanlauluista jazziin - tervetuloa kuuntelemaan!
+
+- __24.7__ klo 18 __Kannelmäen kirkko__, Vanhaistentie 6, Helsinki
 
 <br/>
