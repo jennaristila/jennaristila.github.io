@@ -8,6 +8,20 @@ lang: fi
 
 ## Musiikkia
 
+__Henri Duparc: Phidylé__
+
+
+Elli Vallinoja, mezzo-sopraano & Jenna Ristilä, piano
+studioäänite, huhtikuu 2016, Helsinki
+
+<br/>
+
+<div class="video container">
+<iframe src="https://player.vimeo.com/video/164059137" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+</div>
+
+<br/>
+
 __Hugo Alfvén: Skogen sover__
 
 
