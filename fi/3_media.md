@@ -6,22 +6,6 @@ lang: fi
 ---
 
 
-## Arvostelut
-
-"Pianisti Jenna Ristilä on keskeinen tekijä [kamarioopperan esityksessä]. Hän heittäytyy jopa näyttelemään ja tuo esille kaikki säveltäjän oivallukset ja antaa laulajille vankan taustan laulaa ja näytellä sydämen kyllyydestä."
-
-_Riitta-Leena Lempinen-Vesa, Itä-Savo 8.11.2014_
-
-
-"Jenna Ristilä on päässyt soitossaan ammattilaistasolle. Voimaa ja teknistä taitoa sekä musikaalisuutta on
-kylliksi, tulkintatahtoa ja eläytymistä samoin. (–) [Rachmaninoffin Corelli-muunnelmat] on teknisesti erittäin
-vaativa ja laaja teos. Jenna Ristilä selvitti sen vaikeudet loisteliaasti ja vahvalla otteella. (–) Jenna vaikuttaa
-varmaotteiselta ja päämäärätietoisen vahvalta tulkitsijalta."
-
-_Liisa Rousti, Itä-Savo 27.5.2012_
-
-<br/>
-
 ## Musiikkia
 
 __Hugo Alfvén: Skogen sover__
@@ -82,6 +66,22 @@ konserttiäänite, helmikuu 2014, Helsinki
 <div>
 <iframe width="100%" height="120" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/166484751%3Fsecret_token%3Ds-7le8O&amp;;auto_play=false&amp;hide_related=true&amp;show_comments=false&amp;show_user=false&amp;show_reposts=false&amp;visual=false&amp;sharing=false&amp;buying=false&amp;color=2F5966&amp;theme_color=009966&amp;show_playcount=false&amp;show_artwork=false"></iframe>
 </div>
+
+<br/>
+
+## Arvostelut
+
+"Pianisti Jenna Ristilä on keskeinen tekijä [kamarioopperan esityksessä]. Hän heittäytyy jopa näyttelemään ja tuo esille kaikki säveltäjän oivallukset ja antaa laulajille vankan taustan laulaa ja näytellä sydämen kyllyydestä."
+
+_Riitta-Leena Lempinen-Vesa, Itä-Savo 8.11.2014_
+
+
+"Jenna Ristilä on päässyt soitossaan ammattilaistasolle. Voimaa ja teknistä taitoa sekä musikaalisuutta on
+kylliksi, tulkintatahtoa ja eläytymistä samoin. (–) [Rachmaninoffin Corelli-muunnelmat] on teknisesti erittäin
+vaativa ja laaja teos. Jenna Ristilä selvitti sen vaikeudet loisteliaasti ja vahvalla otteella. (–) Jenna vaikuttaa
+varmaotteiselta ja päämäärätietoisen vahvalta tulkitsijalta."
+
+_Liisa Rousti, Itä-Savo 27.5.2012_
 
 <br/>
 
