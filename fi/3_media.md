@@ -11,7 +11,7 @@ lang: fi
 __Henri Duparc: Phidylé__
 
 
-Elli Vallinoja, mezzo-sopraano & Jenna Ristilä, piano
+Elli Vallinoja, mezzo-sopraano & Jenna Ristilä, piano  
 studioäänite, huhtikuu 2016, Helsinki
 
 <br/>
@@ -25,7 +25,7 @@ studioäänite, huhtikuu 2016, Helsinki
 __Hugo Alfvén: Skogen sover__
 
 
-Johanna Lehesvuori, sopraano & Jenna Ristilä, piano  
+Johanna Lehesvuori, sopraano & Jenna Ristilä, piano   
 studioäänite, maaliskuu 2015, Helsinki
 
 <br/>
