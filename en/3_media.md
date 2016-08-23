@@ -22,6 +22,23 @@ studio recording, April 2016, Helsinki
 
 <br/>
 
+__Start-up Opera presents: Jääkausi__
+
+
+Anna-Maija Oka & Milla Mäkinen, soprano with Korwamato-ensemble
+
+Itzam Zapata, composer and conductor; Juho Gröndahl, libretto; ELjas Liinamaa, stage director; Eero Erkamo, visual design
+
+Premiere, March 2016, Helsinki
+
+<br/>
+
+<divclass="video container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MfDPcTp--wc" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+</div>
+
+<br/>
+
 __Hugo Alfvén: Skogen sover__
 
 
