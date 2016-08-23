@@ -22,6 +22,25 @@ studioäänite, huhtikuu 2016, Helsinki
 
 <br/>
 
+__Start-up Opera esittää: Jääkausi__
+
+
+Anna Maija Perttunen & Milla Mäkinen, sopraano
+Korwamato-ensemble
+
+Itzam Zapata, sävellys ja musiikinjohto
+Juho Gröndahl, libretto
+Eljas Liinamaa, ohjaus
+Eero Erkamo, visuaalinen suunnittelu
+
+<br/>
+
+<div class="video container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MfDPcTp--wc" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+</div>
+
+<br/>
+
 __Hugo Alfvén: Skogen sover__
 
 
