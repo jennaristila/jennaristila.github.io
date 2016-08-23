@@ -29,12 +29,11 @@ Anna Maija Perttunen & Milla Mäkinen, sopraano
 Korwamato-ensemble
 
 Itzam Zapata, sävellys ja musiikinjohto
-
 Juho Gröndahl, libretto
-
 Eljas Liinamaa, ohjaus
-
 Eero Erkamo, visuaalinen suunnittelu
+
+ensi-ilta, maaliskuu 2016
 
 <br/>
 
