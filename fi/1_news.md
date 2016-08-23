@@ -9,68 +9,30 @@ lang: fi
 
 <br/>
 
-### Helsingissä Myrskyää
+### Jäähyväiset Hakavuoren kirkolle
 
-Shakespeare täyttää 400 vuotta, ja sen kunniaksi laulaja Mikko Sateila ja Ristilä esittävät katkelman Sibeliuksen Myrskyä osana Helsingin Yliopiston juhlallisuuksia.
+Sopraano Johanna Lehesvuori ja Ristilä esittävät mm. Händelin, Rachmaninovin ja Merikannon musiikkia. Hakavuoren kirkko jää pois käytöstä, ja konserttimme on eräänlainen hyvästijättö sen kunniaksi. Lämpimästi tervetuloa!
 
-- __21.4__ klo 16-18 __Helsingin Yliopiston juhlasali__, Unioninkatu 34, Helsinki
-
-<br/>
-
-### Opettajat lavalla
-
-Keski-Vantaan Musiikkiopiston opettajat esiintyvät yhteiskonsertissa. Ristilä soittaa Melartinin Lastuja ja kokeilee vähän myös runonlausuntaa. Lämpimästi tervetuloa!
-
-- __29.4__ klo 18 __Taidetalo Pessi__, Kielotie 12-14, Vantaa
+- __25.9__ klo 18 __Hakavuoren kirkko__, Tolarintie 1, Helsinki
 
 <br/>
 
-### Kuoron kevät
+### Isänmaallinen joulukonsertti
 
-Ristilä säestää Leena Kannisen johtaman Tuuslaulajat -kuoron perinteisen kevätkonsertin.
+Baritoni Joonas Asikainen ja Ristilä esiintyvät perinteisessä joulukonsertissa Savonlinnassa itsenäisyyspäivän aattona. Kuultavissa yksinlaulun lisäksi myös kuoromusiikkia!
 
-- __19.5__ klo 19 __Mikkolan koulu__, Pähkinämäentie 215, Tuusula
-
-<br/>
-
-### Naiset museossa
-
-Sopraano Alina Koivula, mezzosopraano Elli Vallinoja sekä Ristilä esiintyvät Järvenpään Taidemuseon kesänäyttelyn avajaisissa. Luvassa mm. Sibeliusta ja hurmaavia duettoja!
-
-- __20.5__ klo 18 __Järvenpään Taidemuseo__, Kirjastokatu 8, Järvenpää
+- __5.12__ klo 18 __Tuomiokirkko__, Pappilankatu 8, Savonlinna
 
 <br/>
 
-### Jääkauden paluu
-
-Start-up Operan spektaakkelimainen kamariooppera Jääkausi saa toisen esityksensä Töölö Soi -festivaaleilla. Lue lisää ryhmän [blogista](http://startupopera.blogspot.fi).
-
-- __31.5__ klo 19 __Hietsun Paviljonki__, Hiekkarannantie 9, Helsinki
+## 2017
 
 <br/>
 
-### Lastenoopperaa Savonlinnassa
+### Gabriel, tule takaisin!
 
-ESMO ry esittää yhteistyössä Savonlinnan Oopperajuhlien kanssa Punahilkka-lastenoopperan. Lavalla mm. Mustakallio-voittajat Markus Suihkonen ja Sanna Matinniemi, ja produktion pianistina taas urakoi allekirjoittanut.
+Pieksämäellä kajahtaa kun Ilkka Kuusiston hulvattoman oopperan uusi ohjaus saa ensi-iltansa. Ristilä toimii produktion korrepetiittorina ja soittaa myös esityskokoonpanossa. Luvassa on vauhtia ja vaarallisia tilanteita!
 
-- __11.7__ klo 18 __Savonlinnasali__, Savonlinna
-- __12.7__ klo 15 __Savonlinnasali__, Savonlinna
-- __18.7__ klo 15 __Savonlinnasali__, Savonlinna
-
-<br/>
-
-### Lauluja lounaaksi
-
-Ville Rusanen ja Jenna Ristilä esiintyvät Savonlinnan Soroptimistien oopperalounaalla. Yksityistilaisuus.
-
-- __17.7__ klo 12 __Ravintola Paviljonki__, Savonlinna
-
-<br/>
-
-### Kesä ja crossover
-
-Sopraano Milla Mäkinen, nokkahuilisti Juho Myllylä sekä Ristilä yhdistävät voimansa luodakseen poikkitaiteellisen, hilpeän ohjelmakokonaisuuden. Konsertista löytyy kaikkea kansanlauluista jazziin - tervetuloa kuuntelemaan!
-
-- __24.7__ klo 18 __Kannelmäen kirkko__, Vanhaistentie 6, Helsinki
+- __tulossa helmikuussa Kulttuurikeskus Poleeniin__, Savontie 13, Pieksämäki 
 
 <br/>
