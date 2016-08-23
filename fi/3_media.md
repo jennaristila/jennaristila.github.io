@@ -25,15 +25,14 @@ studioäänite, huhtikuu 2016, Helsinki
 __Start-up Opera esittää: Jääkausi__
 
 
-Anna Maija Perttunen & Milla Mäkinen, sopraano
-Korwamato-ensemble
+Anna Maija Perttunen & Milla Mäkinen, sopraano sekä Korwamato-ensemble
 
-Itzam Zapata, sävellys ja musiikinjohto
-Juho Gröndahl, libretto
-Eljas Liinamaa, ohjaus
+Itzam Zapata, sävellys ja musiikinjohto;
+Juho Gröndahl, libretto;
+Eljas Liinamaa, ohjaus;
 Eero Erkamo, visuaalinen suunnittelu
 
-ensi-ilta, maaliskuu 2016
+ensi-ilta, maaliskuu 2016, Helsinki
 
 <br/>
 
