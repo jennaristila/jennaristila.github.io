@@ -9,11 +9,11 @@ lang: fi
 
 <br/>
 
-### Jäähyväiset Hakavuoren kirkolle
+### Triotunnelmissa
 
-Sopraano Johanna Lehesvuori ja Ristilä esittävät mm. Händelin, Rachmaninovin ja Merikannon musiikkia. Hakavuoren kirkko jää pois käytöstä, ja konserttimme on eräänlainen hyvästijättö sen kunniaksi. Lämpimästi tervetuloa!
+Ristilä esiintyy käyrätorvisti Emilie Wendtin sekä viulisti Marielle Iivosen kanssa Sibelius-Akatemian kamarimusiikkikonsertissa. Luvassa on amerikkalainen teos, joka tuo mieleen ainakin Riverdancen, seikkailuelokuvat ja ehkä romanttisen draamankin...
 
-- __25.9__ klo 18 __Hakavuoren kirkko__, Tolarintie 1, Helsinki
+- __21.11__ klo 12 __Camerata-sali__, Musiikkitalo, Helsinki
 
 <br/>
 
@@ -29,10 +29,19 @@ Baritoni Joonas Asikainen ja Ristilä esiintyvät perinteisessä joulukonsertiss
 
 <br/>
 
+### Punahilkan paluu
+
+Kesällä Savonlinnan Oopperajuhlilla esitetty Punahilkka-lastenooppera saapuu Aleksanterin teatteriin! Ristilä vastaa musiikin ohjauksesta tässä Ville Saukkosen ohjaamassa jännitysnäytelmässä, joka sopii myös perheen pienimmille. Kuinka käy mummon, ja entäs kilien? 
+
+- __10.-11.2 Aleksanterin teatterissa__, Albertinkatu 32, Helsinki
+
+<br/>
+
 ### Gabriel, tule takaisin!
 
 Pieksämäellä kajahtaa kun Ilkka Kuusiston hulvattoman oopperan uusi ohjaus saa ensi-iltansa. Ristilä toimii produktion korrepetiittorina ja soittaa myös esityskokoonpanossa. Luvassa on vauhtia ja vaarallisia tilanteita!
 
-- __tulossa helmikuussa Kulttuurikeskus Poleeniin__, Savontie 13, Pieksämäki 
+- __10.2__ klo 19 __Kulttuurikeskus Poleeni__, Savontie 13, Pieksämäki
+- __12.2__ klo 15 __Kulttuurikeskus Poleeni__ 
 
 <br/>
