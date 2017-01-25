@@ -7,34 +7,6 @@ lang: en
 
 <br/>
 
-## 2016
-
-<br/>
-
-### Trio atmosphere
-
-Ristilä is performing with Emilie Wendt, french horn, and Marielle Iivonen, violin, in a Sibelius Academy chamber music recital. The trio is playing an American work that takes the listener through Riverdance, adventure movies and maybe even some romantic drama...
-
-- __21.11__ at 12 __Camerata Hall__, Musiikkitalo, Helsinki
-
-<br/>
-
-### Patriotic Christmas Concert
-
-Baritone Joonas Asikainen and Ristilä are performing in a traditional Christmas concert in Savonlinna right before Finland's independence day. There's also a choir involved!
-
-- __5.12__ at 6 pm __Tuomiokirkko__, Pappilankatu 8, Savonlinna
-
-<br/>
-
-### A Christmas Choir
-
-Ristilä is accompanying the Tuuslaulaja-choir in their traditional Christmas concert. Welcome!
-
-- __16.12__ at 7 pm __Paijala chapel__, Paijalannummentie 11, Tuusula
-
-<br/>
-
 ##2017
 
 <br/>
@@ -49,6 +21,14 @@ The children's opera that was performed at the Savonlinna Opera Festival last Su
 
 <br/>
 
+### Harpsichord debut
+
+Ristilä is playing the harpsichord in public for the first time! Assi Karttunen has put together a wonderfully diverse concert, where Ristilä plays with her sister Hanna who plays the recorder.
+
+- __3.2__ at 6 pm __Ackté hall__, Töölönkatu 28, 4th floor, Helsinki
+
+<br/>
+
 ### Gabriel, come back!
 
 Ilkka Kuusisto's comic opera Gabriel, come back! gets a whole new makeover. Ristilä shares the musical leadership of the production with Matti Makkonen. Makkonen is also the producer of this hilarious work, and arranges the orchestra score for a smaller ensemble ready to tour Finland. Come and enjoy!
@@ -56,5 +36,13 @@ Ilkka Kuusisto's comic opera Gabriel, come back! gets a whole new makeover. Rist
 - __10.2__ at 7 pm __Culture center Poleeni__, Savontie 13, Pieksämäki
 - __12.2__ at 3 pm __Culture center Poleeni__
 - __5.4 Savonlinnasali__, Kylpylaitoksentie 4, Savonlinna
+
+<br/>
+
+### French horns and excitement
+
+Emilie Wendt is doing her A exam in the Sibelius-Academy, and there's plenty of passion and rapture in the air. The iconic Brahms trio for French horn, violin and piano will be played by Wendt, violinist Marielle Iivonen and Ristilä.
+
+- __2.5 Camerata hall__, Music Center, Helsinki (performance time to be announced later)
 
 <br/>
