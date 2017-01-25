@@ -5,34 +5,6 @@ permalink: /fi/news/
 lang: fi
 ---
 
-## 2016
-
-<br/>
-
-### Triotunnelmissa
-
-Ristilä esiintyy käyrätorvisti Emilie Wendtin sekä viulisti Marielle Iivosen kanssa Sibelius-Akatemian kamarimusiikkikonsertissa. Luvassa on amerikkalainen teos, joka tuo mieleen ainakin Riverdancen, seikkailuelokuvat ja ehkä romanttisen draamankin...
-
-- __21.11__ klo 12 __Camerata-sali__, Musiikkitalo, Helsinki
-
-<br/>
-
-### Isänmaallinen joulukonsertti
-
-Baritoni Joonas Asikainen ja Ristilä esiintyvät perinteisessä joulukonsertissa Savonlinnassa itsenäisyyspäivän aattona. Kuultavissa yksinlaulun lisäksi myös kuoromusiikkia!
-
-- __5.12__ klo 18 __Tuomiokirkko__, Pappilankatu 8, Savonlinna
-
-<br/>
-
-### Kuoron joulu
-
-Ristilä säestää jälleen Tuuslaulajien perinteistä joulukonserttia. Tunnelmallisia lauluja ja hilpeämpiäkin säveliä tulossa, tervetuloa!
-
-- __16.12__ klo 19 __Paijalan kappeli__, Paijalannummentie 11, Tuusula
-
-<br/>
-
 ## 2017
 
 <br/>
@@ -47,6 +19,14 @@ Kesällä Savonlinnan Oopperajuhlilla esitetty Punahilkka-lastenooppera saapuu A
 
 <br/>
 
+### Cembalodebyytti
+
+Ristilä esiintyy ensimmäistä kertaa elämässään cembalistina. Luvassa on monipuolinen konsertti Assi Karttusen ohjauksessa, jossa Ristilä soittaa mm. siskonsa, nokkahuilisti Hanna Ristilän kanssa.
+
+- __3.2__ klo 18 __Ackté-sali__, Töölönkatu 28, 4.krs, Helsinki
+
+<br/>
+
 ### Gabriel, tule takaisin!
 
 Pieksämäellä kajahtaa kun Ilkka Kuusiston hulvattoman oopperan uusi ohjaus saa ensi-iltansa. Ristilä toimii musiikin johtajana yhteistyössä Matti Makkosen kanssa. Makkonen ahkeroi myös kiertueproduktion tuottajana sekä orkesterisatsin sovittajana. Luvassa on vauhtia ja vaarallisia tilanteita!
@@ -55,5 +35,12 @@ Pieksämäellä kajahtaa kun Ilkka Kuusiston hulvattoman oopperan uusi ohjaus sa
 - __12.2__ klo 15 __Kulttuurikeskus Poleeni__
 - __5.4 Savonlinnasali__, Kylpylaitoksentie 4, Savonlinna
 
+<br/>
+
+### Käyrätorvia ja jännitystä
+
+Suuria tunteita ja musiikin hurmaa on luvassa kun käyrätorvisti Emilie Wendt suorittaa A-tutkintonsa Sibelius-Akatemiassa. Emilie Wendt, viulisti Marielle Iivonen sekä Ristilä esittävät Brahmsin ikonisen käyrätorvitrion.
+
+- __2.5 Camerata-sali__, Musiikkitalo, Helsinki (kellonaika tarkentuu myöhemmin)
 
 <br/>
