@@ -5,6 +5,8 @@ permalink: /fi/news/
 lang: fi
 ---
 
+<br/>
+
 ## 2017
 
 <br/>
