@@ -11,31 +11,19 @@ lang: fi
 
 <br/>
 
-### Punahilkan paluu
-
-Kesällä Savonlinnan Oopperajuhlilla esitetty Punahilkka-lastenooppera saapuu Aleksanterin teatteriin! Ristilä vastaa musiikin johdosta tässä Ville Saukkosen ohjaamassa jännitysnäytelmässä, joka sopii myös perheen pienimmille. Kuinka käy mummon, ja entäs kilien? 
-
-- __10.1__ klo 14 ja klo 18 __Aleksanterin teatteri__, Albertinkatu 32, Helsinki
-- __11.1__ klo 10 ja klo 18 __Aleksanterin teatteri__
-- __13.1__ klo 18 __Lieksan Kulttuurikeskuksen Brahe-sali__, Pielisentie 9-11, Lieksa
-
-<br/>
-
-### Cembalodebyytti
-
-Ristilä esiintyy ensimmäistä kertaa elämässään cembalistina. Luvassa on monipuolinen konsertti Assi Karttusen ohjauksessa, jossa Ristilä soittaa mm. siskonsa, nokkahuilisti Hanna Ristilän kanssa.
-
-- __3.2__ klo 18 __Ackté-sali__, Töölönkatu 28, 4.krs, Helsinki
-
-<br/>
-
 ### Gabriel, tule takaisin!
 
-Pieksämäellä kajahtaa kun Ilkka Kuusiston hulvattoman oopperan uusi ohjaus saa ensi-iltansa. Ristilä toimii musiikin johtajana yhteistyössä Matti Makkosen kanssa. Makkonen ahkeroi myös kiertueproduktion tuottajana sekä orkesterisatsin sovittajana. Luvassa on vauhtia ja vaarallisia tilanteita!
+Ilkka Kuusiston koominen oopperapläjäys saapuu Savonlinnaan. Ristilä toimii musiikin johtajana yhteistyössä Matti Makkosen kanssa, joka on myös sovittanut ja tuottanut oopperan. Luvassa on vauhtia ja vaarallisia tilanteita!
 
-- __10.2__ klo 19 __Kulttuurikeskus Poleeni__, Savontie 13, Pieksämäki
-- __12.2__ klo 15 __Kulttuurikeskus Poleeni__
 - __5.4 Savonlinnasali__, Kylpylaitoksentie 4, Savonlinna
+
+<br/>
+
+### Lounasbarokkia
+
+Ristilä soittaa cembaloa nokkahuilistisisarensa Hannan konsertissa. Tervetuloa!
+
+- __19.4__ klo 12 __Helsingin Konservatorion konserttisali__, Ruoholahdentori 6, Helsinki
 
 <br/>
 
@@ -44,5 +32,24 @@ Pieksämäellä kajahtaa kun Ilkka Kuusiston hulvattoman oopperan uusi ohjaus sa
 Suuria tunteita ja musiikin hurmaa on luvassa kun käyrätorvisti Emilie Wendt suorittaa A-tutkintonsa Sibelius-Akatemiassa. Emilie Wendt, viulisti Marielle Iivonen sekä Ristilä esittävät Brahmsin ikonisen käyrätorvitrion.
 
 - __2.5 Camerata-sali__, Musiikkitalo, Helsinki (kellonaika tarkentuu myöhemmin)
+
+<br/>
+
+### Kamarimusiikkia kesään
+
+Kesällä musiikinystävän kannattaa olla Savonlinnassa! Ristilä toimii harjoituspianistina kolmella Savonlinnan Musiikkiakatemian kurssilla yhdessä Robert Roozemanin ja Kristian Attilan kanssa. Konserttejakin taitaa olla luvassa!
+
+- __23-30.7__ Viulu, alttoviulu, sello ja kamarimusiikki
+- __28.7-4.8__ Klarinetti
+- __7-14.8__ Ooppera ja lied
+
+<br/>
+
+### Syksyllä suomalaista
+
+Suomi100 -juhlavuoden kunniaksi Lahden Oopperayhdistys esittää Oskar Merikannon Pohjanneiti-oopperan pianoversion. Ristilä toimii produktiossa musiikin johtajana ja esitysten pianistina. Joko tunnet tämän harvoin esitetyn helmen? Nyt äkkiä varaamaan lippuja!
+
+- Ensi-ilta __14.10__ klo 19 __Pikkuteatteri__, Loviisankatu 8, Lahti
+- Muut esitykset __17.10, 18.10, 20.10, 7.11, 8.11__
 
 <br/>
