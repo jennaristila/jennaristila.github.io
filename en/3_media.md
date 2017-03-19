@@ -8,6 +8,18 @@ lang: en
 
 ## Music
 
+__Richard Strauss: Als mir dein Lied erklang__
+
+Johanna Lehesvuori, soprano & Jenna Ristilä, piano
+studio recording, February 2017, Helsinki
+
+<br/>
+
+<iframe src="https://player.vimeo.com/video/209055896?byline=0&portrait=0" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+</div>
+
+<br/>
+
 __Henri Duparc: Phidylé__
 
 
@@ -27,7 +39,7 @@ __Start-up Opera presents: Jääkausi__
 
 Anna-Maija Oka & Milla Mäkinen, soprano with Korwamato-ensemble
 
-Itzam Zapata, composer and conductor; Juho Gröndahl, libretto; ELjas Liinamaa, stage director; Eero Erkamo, visual design
+Itzam Zapata, composer and conductor; Juho Gröndahl, libretto; ELjas Liinamaa, stage director; Eero Erkamo, visual design; Jenna Ristilä, artistic director
 
 Premiere, March 2016, Helsinki
 
@@ -35,20 +47,6 @@ Premiere, March 2016, Helsinki
 
 <div class="video container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MfDPcTp--wc" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-</div>
-
-<br/>
-
-__Hugo Alfvén: Skogen sover__
-
-
-Johanna Lehesvuori, soprano & Jenna Ristilä, piano  
-studio recording, March 2015, Helsinki
-
-<br/>
-
-<div class="video-container">
-<iframe src="https://player.vimeo.com/video/128004094?byline=0&portrait=0" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </div>
 
 <br/>
