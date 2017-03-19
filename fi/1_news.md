@@ -11,11 +11,19 @@ lang: fi
 
 <br/>
 
+### Lauluja lännestä
+
+Sopraano Johanna Lehesvuori ja Ristilä esiintyvät Koomisen Oopperan Liedkonserttisarjassa. Luvassa on kattaus yhdysvaltalaisten säveltäjien musiikkia englantilaisin maustein: Bernsteinia, Argentoa, Barberia... Tervetuloa!
+
+- __31.3__ klo 15 __Helsinki-sali__, Finlandiatalo, Helsinki
+
+<br/>
+
 ### Gabriel, tule takaisin!
 
 Ilkka Kuusiston koominen oopperapläjäys saapuu Savonlinnaan. Ristilä toimii musiikin johtajana yhteistyössä Matti Makkosen kanssa, joka on myös sovittanut ja tuottanut oopperan. Luvassa on vauhtia ja vaarallisia tilanteita!
 
-- __5.4 Savonlinnasali__, Kylpylaitoksentie 4, Savonlinna
+- __5.4__ klo 19 __Savonlinnasali__, Kylpylaitoksentie 4, Savonlinna
 
 <br/>
 
