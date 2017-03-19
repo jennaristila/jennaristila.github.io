@@ -8,6 +8,19 @@ lang: fi
 
 ## Musiikkia
 
+__Richard Strauss: Als mir dein Lied erklang__
+
+
+Johanna Lehesvuori, sopraano & Jenna Ristilä, piano
+studioäänite, helmikuu 2017, Helsinki
+
+<br/>
+
+<div class="video container">
+<iframe src="https://player.vimeo.com/video/209055896" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+<br/>
+
 __Henri Duparc: Phidylé__
 
 
@@ -31,6 +44,7 @@ Itzam Zapata, sävellys ja musiikinjohto;
 Juho Gröndahl, libretto;
 Eljas Liinamaa, ohjaus;
 Eero Erkamo, visuaalinen suunnittelu
+Jenna Ristilä, taiteellinen johto
 
 ensi-ilta, maaliskuu 2016, Helsinki
 
@@ -38,20 +52,6 @@ ensi-ilta, maaliskuu 2016, Helsinki
 
 <div class="video container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MfDPcTp--wc" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-</div>
-
-<br/>
-
-__Hugo Alfvén: Skogen sover__
-
-
-Johanna Lehesvuori, sopraano & Jenna Ristilä, piano   
-studioäänite, maaliskuu 2015, Helsinki
-
-<br/>
-
-<div class="video-container">
-<iframe src="https://player.vimeo.com/video/128004094?byline=0&portrait=0" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </div>
 
 <br/>
