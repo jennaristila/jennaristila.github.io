@@ -11,6 +11,14 @@ lang: en
 
 <br/>
 
+### Songs from the West
+
+Soprano Johanna Lehesvuori and Ristilä are giving a lied recital in the Koominen Ooppera recital series. Focusing on American composers with some English seasoning, their recital includes works from Bernstein, Argento, Barber... Welcome!
+
+- __31.3__ 5 pm __Helsinki Hall__, Finlandiatalo, Helsinki
+
+<br/>
+
 ### Gabriel, come back!
 
 Ilkka Kuusisto's comic opera Gabriel, come back! goes to Savonlinna. Ristilä shares the musical leadership of the production with Matti Makkonen. Makkonen is also the producer of this hilarious work, and has arranged the orchestra score for a smaller ensemble ready to tour Finland. Come and enjoy!
