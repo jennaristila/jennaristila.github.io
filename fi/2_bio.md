@@ -41,3 +41,4 @@ Ristilä on kokenut esiintyjä ja konsertoi säännöllisesti solistina, säest�
 - __Helsinki Lied -kilpailussa__ Sopraano Johanna Lehesvuori ja Ristilä ylsivät finaaliin.
 - __Hannu ja Kerttu -lastenooppera__ oli lyhennelmä Humperdinckin koko illan oopperasta, jota Esmo ry esitti kesällä Savonlinnassa. Ristilä vastasi musiikinjohdosta, Jenny Jumppanen ohjauksesta, ja lavallakin nähtiin tuttuja Savonlinnan seudulta; mm. Joonas Asikainen, Päivi Pylvänäinen, Anu Ontronen ja Maiju Vaahtoluoto.
 
+<br/>
