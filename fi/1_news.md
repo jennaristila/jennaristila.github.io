@@ -28,6 +28,22 @@ Kesällä musiikinystävän kannattaa olla Savonlinnassa! Ristilä toimii harjoi
 
 <br/>
 
+### Lehtosen sävelin
+
+Joel Lehtonen ja taiteilijaystävät -näyttelyn päättäjäisissä baritoni Joonas Asikainen ja Ristilä esittävät Lehtosen teksteihin sävellettyä musiikkia mm. Kyösti Haataiselta.
+
+- __3.9__ klo 14 __Savonlinnan maakuntamuseo__, Riihisaari, Savolinna
+
+<br/>
+
+### Amerikkalaiset Tampereella
+
+Sopraano Johanna Lehesvuori ja Ristilä esittävät konsertillisen amerikkalaista laulu- ja pianomusiikkia. Kokonaisuus kuultiin keväällä Koomisen Oopperan liedkonserttisarjassa, ja nyt se näyttäytyy vuorostaan Länsi-Suomessa. Tervetuloa!
+
+- __17.9__ klo 16 __Pyynikkisali__, F.E. Sillanpäänkatu 9, Tampere
+
+<br/>
+
 ### Syksyllä suomalaista
 
 Suomi100 -juhlavuoden kunniaksi Lahden Oopperayhdistys esittää Oskar Merikannon Pohjanneiti-oopperan pianoversion. Ristilä toimii produktiossa musiikin johtajana ja esitysten pianistina. Joko tunnet tämän harvoin esitetyn helmen? Nyt äkkiä varaamaan lippuja!
