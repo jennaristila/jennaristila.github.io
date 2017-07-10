@@ -22,7 +22,7 @@ Ristilä on kokenut esiintyjä ja konsertoi säännöllisesti solistina, säest�
 ### 2017
 
 - __Koomisen oopperan liedkonserttisarjassa__ sopraano Johanna Lehesvuori ja Ristilä esittivät amerikkalaista laulu- ja pianomusiikkia.
-- __Ilkka Kuusiston Gabriel, tule takaisin!__ -oopperan Itä-Suomen valloitus alkoi Pieksämäeltä ja Savonlinnasta. Oopperan on sovittanut neljälle soittajalle Matti Makkonen, joka vastaa myös musiikin johdosta yhteistyössä Ristilän kanssa. Ohjaus Ville Saukkonen, lavalla mm. Marjatta Airas, Joonas Asikainen, Maiju Vaahtoluoto...
+- __Ilkka Kuusiston Gabriel, tule takaisin! -oopperan__ Itä-Suomen valloitus alkoi Pieksämäeltä ja Savonlinnasta. Oopperan on sovittanut neljälle soittajalle Matti Makkonen, joka vastaa myös musiikin johdosta yhteistyössä Ristilän kanssa. Ohjaus Ville Saukkonen, lavalla mm. Marjatta Airas, Joonas Asikainen, Maiju Vaahtoluoto...
 - __Jiri Pauerin Punahilkka -lastenooppera__ nähtiin Aleksanterin Teatterissa sekä Lieksassa. Matti Makkosen sovituksen musiikinjohdosta vastasi Ristilä, ja ohjauksesta Ville Saukkonen. Teoksen näyttävät tanssinumerot suunnitteli koreografi Elina Orpana.
 
 <br/>
@@ -30,4 +30,14 @@ Ristilä on kokenut esiintyjä ja konsertoi säännöllisesti solistina, säest�
 ### 2016
 
 - __Jiri Pauerin Punahilkka -lastenoopperaa__ esitettiin Savonlinnan Oopperajuhlilla innokkaille pikkukatsojille.
-- __Jääkausi -kamariooppera__ valmistui Start-up Opera -ryhmän voimin, ja sitä esitettiin Sibelius-Akatemian konserttisarjassa sekä Hietsun Paviljongissa. Ristilä toimi ryhmän taiteellisena johtajana ja pianistina; oopperan sävelsi Itzam Zapata, libretosta vastasi Juho Gröndahl, Eljas Liinamaa ohjasi ja Eero Erkamo vastasi visuaalisesta suunnittelusta. Lavalla nähtiin sopraanot Milla Mäkinen ja Anna-Maija Oka. Ristilän kirjoittama blogi oopperan valmistumisesta: startupopera.blogspot.fi 
+- __Jääkausi -kamariooppera__ valmistui Start-up Opera -ryhmän voimin, ja sitä esitettiin Sibelius-Akatemian konserttisarjassa sekä Hietsun Paviljongissa. Ristilä toimi ryhmän taiteellisena johtajana ja pianistina; oopperan sävelsi Itzam Zapata, libretosta vastasi Juho Gröndahl, Eljas Liinamaa ohjasi ja Eero Erkamo vastasi visuaalisesta suunnittelusta. Lavalla nähtiin sopraanot Milla Mäkinen ja Anna-Maija Oka. Ristilän kirjoittama blogi oopperan valmistumisesta: [startupopera.blogspot.fi](http://startupopera.blogspot.fi).
+
+<br/>
+
+### 2015
+
+- __Itsenäisyyspäivän konsertit__ Tukholmassa viulisti Marielle Iivosen kanssa sisälsivät Sibeliuksen viulu- ja pianomusiikkia, sekä tietysti aina yhtä koskettavan Finlandia -hymnin.
+- __Sibelius-Akatemian oopperaluokan Sempre, sempre__ -esitys on kokoelma aarioita ja ensemble-kohtauksia eri oopperoista. Pianisteina siinä huhkivat tänä vuonna Ristilä sekä Laura Kivikoski. 
+- __Helsinki Lied -kilpailussa__ Sopraano Johanna Lehesvuori ja Ristilä ylsivät finaaliin.
+- __Hannu ja Kerttu -lastenooppera__ oli lyhennelmä Humperdinckin koko illan oopperasta, jota Esmo ry esitti kesällä Savonlinnassa. Ristilä vastasi musiikinjohdosta, Jenny Jumppanen ohjauksesta, ja lavallakin nähtiin tuttuja Savonlinnan seudulta; mm. Joonas Asikainen, Päivi Pylvänäinen, Anu Ontronen ja Maiju Vaahtoluoto.
+
