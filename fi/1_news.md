@@ -69,3 +69,13 @@ Mezzosopraano Ylva Gruen ja Ristilä esittävät ruotsalaista laulumusiikkia Sib
 - __29.10__ klo 16 __Taidekoti Kirpilä__, Pohjoinen Hesperiankatu 7, Helsinki
 
 <br/>
+
+### Gabriel hurmaa jälleen
+
+Ilkka Kuusiston ooppera Gabriel, tule takaisin! jatkaa matkaansa Itä-Suomessa. Hulvattoman kiertueversion musiikinjohdosta vastaavat Ristilä sekä Matti Makkonen. Tule nauramaan, svengaamaan ja viihtymään!
+
+- __25.11__ klo 19 __Brahe-sali__, Pielisentie 9-11, Lieksa
+- __1.12__ klo 19 __Kiteesali__, Koulutie 3, Kitee
+
+<br/>
+
