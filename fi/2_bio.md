@@ -11,7 +11,7 @@ Jenna Ristilä (s.1989) aloitti pianonsoiton 7-vuotiaana Savonlinnan Musiikkiopi
 
 Lukuvuoden 2010-2011 Ristilä oli vaihto-opiskelijana Royal Welsh College of Music & Drama'ssa Cardiffissa. Soolopianismi jäi hetkeksi syrjään Ristilän tehdessä tiivistä yhteistyötä laulumusiikin osaston kanssa. Hän opiskeli liediä Michael Pollockin johdolla, toimi avustavana korrepetiittorina kahdessa oopperassa sekä säesti lukuisia konsertteja, koelauluja ja mestarikursseja.
 
-Ristilä on kokenut esiintyjä ja konsertoi säännöllisesti solistina, säestäjänä ja kamarimuusikkona. Tällä hetkellä hän täydentää opintojaan Sibelius-Akatemian korrepetitiokoulutuksessa ja opettaa [Keski-Vantaan Musiikkiopistossa](http://kevamo.com/). Ristilän kesä täyttyy kamarimusiikista sekä Pohjanneiti -oopperaan valmistautumisesta, mutta kotipaikkakunnallaan Savonlinnassa vieraillessaan hän varmistaa, että aikaa riittää myös lörtsyjen ja muikkujen syöntiin sekä uimiseen.
+Ristilä on kokenut esiintyjä ja konsertoi säännöllisesti solistina ja säestäjänä. Tällä hetkellä hän täydentää opintojaan Sibelius-Akatemian korrepetitiokoulutuksessa ja opettaa [Keski-Vantaan Musiikkiopistossa](http://kevamo.com/). Ristilän kesä täyttyy kamarimusiikista sekä Pohjanneiti -oopperaan valmistautumisesta, mutta kotipaikkakunnallaan Savonlinnassa vieraillessaan hän varmistaa, että aikaa riittää myös lörtsyjen ja muikkujen syöntiin sekä uimiseen.
 
 <br/>
 
@@ -30,15 +30,17 @@ Ristilä on kokenut esiintyjä ja konsertoi säännöllisesti solistina, säest�
 ### 2016
 
 - __Jiri Pauerin Punahilkka -lastenoopperaa__ esitettiin Savonlinnan Oopperajuhlilla innokkaille pikkukatsojille.
+- __Sopraanon, nokkahuilun ja pianon__ eri yhdistelmillä ja sovituksilla leikiteltiin kesällä Kannelmäessä; sopraano Milla Mäkinen, nokkahuilisti Juho Myllylä ja Ristilä valmistivat kokeellisen konsertin jossa siirryttiin sujuvasti kansanlaulusta Puccinin kautta jazziin.
 - __Jääkausi -kamariooppera__ valmistui Start-up Opera -ryhmän voimin, ja sitä esitettiin Sibelius-Akatemian konserttisarjassa sekä Hietsun Paviljongissa. Ristilä toimi ryhmän taiteellisena johtajana ja pianistina; oopperan sävelsi Itzam Zapata, libretosta vastasi Juho Gröndahl, Eljas Liinamaa ohjasi ja Eero Erkamo vastasi visuaalisesta suunnittelusta. Lavalla nähtiin sopraanot Milla Mäkinen ja Anna-Maija Oka. Ristilän kirjoittama blogi oopperan valmistumisesta: [startupopera.blogspot.fi](http://startupopera.blogspot.fi).
+- __Joulun valo -levyn__ julkaisemisen jälkeen sopraano Johanna Lehesvuori ja Ristilä ovat esittäneet levyn kappaleita konserteissa eri puolilla Suomea. Levyn voi ostaa verkkokaupasta [bluemusicgroup.com](http://bluemusicgroup.com).
 
 <br/>
 
 ### 2015
 
 - __Itsenäisyyspäivän konsertit__ Tukholmassa viulisti Marielle Iivosen kanssa sisälsivät Sibeliuksen viulu- ja pianomusiikkia, sekä tietysti aina yhtä koskettavan Finlandia -hymnin.
-- __Sibelius-Akatemian oopperaluokan Sempre, sempre__ -esitys on kokoelma aarioita ja ensemble-kohtauksia eri oopperoista. Pianisteina siinä huhkivat tänä vuonna Ristilä sekä Laura Kivikoski. 
 - __Helsinki Lied -kilpailussa__ Sopraano Johanna Lehesvuori ja Ristilä ylsivät finaaliin.
+- __Taakseenkatsojat__ -soolokonserteissa Ristilä esitti Villa-Lobosin, Shostakovitsin sekä Brahmsin musiikkia. Ristilä rakastui Brahmsin Händel-variaatioihin ja suunnitteli niiden ympärille ohjelman, jossa kuultiin barokin sävellysmuotoja käyttäviä teoksia. 
 - __Hannu ja Kerttu -lastenooppera__ oli lyhennelmä Humperdinckin koko illan oopperasta, jota Esmo ry esitti kesällä Savonlinnassa. Ristilä vastasi musiikinjohdosta, Jenny Jumppanen ohjauksesta, ja lavallakin nähtiin tuttuja Savonlinnan seudulta; mm. Joonas Asikainen, Päivi Pylvänäinen, Anu Ontronen ja Maiju Vaahtoluoto.
 
 <br/>
