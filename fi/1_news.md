@@ -44,11 +44,20 @@ Sopraano Johanna Lehesvuori ja Ristilä esittävät konsertillisen amerikkalaist
 
 <br/>
 
-### Syksyllä suomalaista
+### Kalevalassa tapahtuu
 
-Suomi100 -juhlavuoden kunniaksi Lahden Oopperayhdistys esittää Oskar Merikannon Pohjanneiti-oopperan pianoversion. Ristilä toimii produktiossa musiikin johtajana ja esitysten pianistina. Joko tunnet tämän harvoin esitetyn helmen? Nyt äkkiä varaamaan lippuja!
+Suomi100 -juhlavuoden kunniaksi Lahden Oopperayhdistys esittää Oskar Merikannon Pohjanneiti-oopperan pianoversion. Ooppera kertoo Väinämöisen retkistä Pohjolaan: luvassa vauhtia ja vaarallisia tilanteita! Kuka takoo Sammon ja kelpaako se Louhelle palkaksi? Entä kuka nai ovelan Pohjanneidin, jolle kuka tahansa ei kelpaakaan?
+Ristilä toimii produktiossa musiikin johtajana ja esitysten pianistina.
 
 - Ensi-ilta __14.10__ klo 19 __Pikkuteatteri__, Loviisankatu 8, Lahti
 - Muut esitykset __17.10, 18.10, 20.10, 7.11, 8.11__
+
+<br/>
+
+### Musiikkiopiston synttärit
+
+Savonlinnan Musiikkiopisto täyttää 60 vuotta, ja Ristilä esiintyy muiden entisten opiskelijoiden ohella juhlistaakseen keski-iän jo ohittanutta entistä opistoaan.
+
+- __19.10__ __Melartin-sali__, Sotilaspojankatu 1, Savonlinna
 
 <br/>
