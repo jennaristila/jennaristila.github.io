@@ -58,6 +58,14 @@ Ristilä toimii produktiossa musiikin johtajana ja esitysten pianistina.
 
 Savonlinnan Musiikkiopisto täyttää 60 vuotta, ja Ristilä esiintyy muiden entisten opiskelijoiden ohella juhlistaakseen keski-iän jo ohittanutta entistä opistoaan.
 
-- __19.10__ __Melartin-sali__, Sotilaspojankatu 1, Savonlinna
+- __19.10 Melartin-sali__, Sotilaspojankatu 1, Savonlinna
+
+<br/>
+
+### Naisia ruotsista
+
+Mezzosopraano Ylva Gruen ja Ristilä esittävät ruotsalaista laulumusiikkia Sibelius-Akatemian konserttisarjassa. Ohjelma sisältää perinteisten Stenhammarin ja Frumerien lisäksi modernien naissäveltäjien musiikkia, sekä konserttiin varta vasten sävelletyn laulusarjan.
+
+- __29.10__ klo 16 __Taidekoti Kirpilä__, Pohjoinen Hesperiankatu 7, Helsinki
 
 <br/>
