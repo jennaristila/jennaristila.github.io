@@ -6,11 +6,11 @@ lang: fi
 ---
 
 ## Yhteystiedot
+  
+Puhelin: +358 (0)40 7065 787
 
-Jos haluat ottaa minuun yhteyttä, lähetä sähköpostia osoitteeseen  
-<j.ristilae@gmail.com>
+Sähköposti: <j.ristilae@gmail.com>
 
-&mdash; vastaan sinulle mahdollisimman pian!
 
 
 
