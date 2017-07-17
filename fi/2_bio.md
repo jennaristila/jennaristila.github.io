@@ -15,7 +15,7 @@ Ristilä on kokenut esiintyjä ja konsertoi säännöllisesti solistina ja säes
 
 <br/>
 
-## Menneitä esiintymisiä
+## Joitain menneitä esiintymisiä
 
 <br/>
 
