@@ -88,14 +88,4 @@ concert recording, February 2014, Helsinki
 
 <br/>
 
-## Discography
-
-### Christmas cd
-
-[![Christmas cd](../../images/christmas_cd.jpg)](http://lightofchristmas.bluemusicgroup.com/)
-
-Soprano Johanna Lehesvuori and Jenna Ristilä's Christmas cd 'Joulun valo' was released in November 2014. The cd includes traditional Finnish Christmas songs and songs about Virgin Mary. You can buy it online from [bluemusicgroup.com](http://lightofchristmas.bluemusicgroup.com/).
-
-
-<br/>
 
