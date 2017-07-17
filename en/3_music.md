@@ -11,7 +11,7 @@ lang: en
 __Richard Strauss: Als mir dein Lied erklang__
 
 Johanna Lehesvuori, soprano & Jenna Ristilä, piano  
-studio recording, February 2017, Helsinki
+Studio recording, February 2017, Helsinki
 
 <br/>
 
@@ -25,7 +25,7 @@ __Henri Duparc: Phidylé__
 
 
 Elli Vallinoja, mezzo-soprano & Jenna Ristilä, piano  
-studio recording, April 2016, Helsinki
+Studio recording, April 2016, Helsinki
 
 <br/>
 
@@ -55,7 +55,7 @@ Premiere, March 2016, Helsinki
 __Itzam Zapata: The Fog Also Dreams__  
 
 Jenna Ristilä, piano  
-concert recording, May 2015, Helsinki
+Concert recording, May 2015, Helsinki
 
 Find out more about the composer from [itzamzapata.com](http://www.itzamzapata.com/)
 
@@ -78,7 +78,7 @@ __Jean Sibelius: 6 folk song arrangements for piano JS 81__
 6. Wedding remembrance  
 
 Jenna Ristilä, piano  
-concert recording, February 2014, Helsinki
+Concert recording, February 2014, Helsinki
 
 <br/>
 
