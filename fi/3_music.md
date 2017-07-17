@@ -12,7 +12,7 @@ __Richard Strauss: Als mir dein Lied erklang__
 
 
 Johanna Lehesvuori, sopraano & Jenna Ristilä, piano  
-studioäänite, helmikuu 2017, Helsinki
+Studioäänite, helmikuu 2017, Helsinki
 
 <br/>
 
@@ -26,7 +26,7 @@ __Henri Duparc: Phidylé__
 
 
 Elli Vallinoja, mezzo-sopraano & Jenna Ristilä, piano  
-studioäänite, huhtikuu 2016, Helsinki
+Studioäänite, huhtikuu 2016, Helsinki
 
 <br/>
 
@@ -47,7 +47,7 @@ Eljas Liinamaa, ohjaus;
 Eero Erkamo, visuaalinen suunnittelu;
 Jenna Ristilä, taiteellinen johto
 
-ensi-ilta, maaliskuu 2016, Helsinki
+Ensi-ilta, maaliskuu 2016, Helsinki
 
 <br/>
 
@@ -60,7 +60,7 @@ ensi-ilta, maaliskuu 2016, Helsinki
 __Itzam Zapata: The Fog Also Dreams__  
 
 Jenna Ristilä, piano  
-konserttiäänite, toukokuu 2015, Helsinki
+Konserttiäänite, toukokuu 2015, Helsinki
 
 Lue lisää säveltäjästä osoitteesta [itzamzapata.com](http://www.itzamzapata.com/)
 
@@ -82,7 +82,7 @@ __Jean Sibelius: 6 kansanlaulusovitusta pianolle JS 81__
 6. Häämuistelma
 
 Jenna Ristilä, piano  
-konserttiäänite, helmikuu 2014, Helsinki
+Konserttiäänite, helmikuu 2014, Helsinki
 
 <br/>
 
