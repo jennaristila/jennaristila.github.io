@@ -7,10 +7,9 @@ lang: en
 
 ## Contact
 
-If you want to contact me, please write me an email to  
-<j.ristilae@gmail.com>
+Phone: +358 (0)40 7065 787
 
-&mdash; I will answer you as soon as I can!
+E-mail: <j.ristilae@gmail.com>
 
 
 
