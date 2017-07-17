@@ -10,12 +10,13 @@ lang: en
 
 __Richard Strauss: Als mir dein Lied erklang__
 
-Johanna Lehesvuori, soprano & Jenna Ristilä, piano
+Johanna Lehesvuori, soprano & Jenna Ristilä, piano  
 studio recording, February 2017, Helsinki
 
 <br/>
 
-<iframe src="https://player.vimeo.com/video/209055896?byline=0&portrait=0" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<div class="video container">
+<iframe src="https://player.vimeo.com/video/209055896?byline=0&portrait=0" width="560" height="315" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </div>
 
 <br/>
@@ -29,7 +30,7 @@ studio recording, April 2016, Helsinki
 <br/>
 
 <div class="video container">
-<iframe src="https://player.vimeo.com/video/164059137?byline=0&portrait=0" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/164059137?byline=0&portrait=0" width="560" height="315" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </div>
 
 <br/>
