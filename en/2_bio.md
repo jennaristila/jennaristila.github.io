@@ -15,7 +15,7 @@ Ristilä performs regularly as a soloist and accompanist. Currently she studies 
 
 <br/>
 
-## Past performances
+## A selection of past performances
 
 <br/>
 
