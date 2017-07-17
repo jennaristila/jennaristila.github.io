@@ -1,22 +1,20 @@
 ---
 layout: default
-title: Media
-permalink: /fi/media/
-lang: fi
+title: Music
+permalink: /en/music/
+lang: en
 ---
 
 
-## Musiikkia
+## Music
 
 __Richard Strauss: Als mir dein Lied erklang__
 
-
-Johanna Lehesvuori, sopraano & Jenna Ristilä, piano
-studioäänite, helmikuu 2017, Helsinki
+Johanna Lehesvuori, soprano & Jenna Ristilä, piano
+studio recording, February 2017, Helsinki
 
 <br/>
 
-<div class="video container">
 <iframe src="https://player.vimeo.com/video/209055896?byline=0&portrait=0" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </div>
 
@@ -25,8 +23,8 @@ studioäänite, helmikuu 2017, Helsinki
 __Henri Duparc: Phidylé__
 
 
-Elli Vallinoja, mezzo-sopraano & Jenna Ristilä, piano  
-studioäänite, huhtikuu 2016, Helsinki
+Elli Vallinoja, mezzo-soprano & Jenna Ristilä, piano  
+studio recording, April 2016, Helsinki
 
 <br/>
 
@@ -36,18 +34,14 @@ studioäänite, huhtikuu 2016, Helsinki
 
 <br/>
 
-__Start-up Opera esittää: Jääkausi__
+__Start-up Opera presents: Jääkausi__
 
 
-Anna Maija Perttunen & Milla Mäkinen, sopraano sekä Korwamato-ensemble
+Anna-Maija Oka & Milla Mäkinen, soprano with Korwamato-ensemble
 
-Itzam Zapata, sävellys ja musiikinjohto;
-Juho Gröndahl, libretto;
-Eljas Liinamaa, ohjaus;
-Eero Erkamo, visuaalinen suunnittelu;
-Jenna Ristilä, taiteellinen johto
+Itzam Zapata, composer and conductor; Juho Gröndahl, libretto; ELjas Liinamaa, stage director; Eero Erkamo, visual design; Jenna Ristilä, artistic director
 
-ensi-ilta, maaliskuu 2016, Helsinki
+Premiere, March 2016, Helsinki
 
 <br/>
 
@@ -60,9 +54,9 @@ ensi-ilta, maaliskuu 2016, Helsinki
 __Itzam Zapata: The Fog Also Dreams__  
 
 Jenna Ristilä, piano  
-konserttiäänite, toukokuu 2015, Helsinki
+concert recording, May 2015, Helsinki
 
-Lue lisää säveltäjästä osoitteesta [itzamzapata.com](http://www.itzamzapata.com/)
+Find out more about the composer from [itzamzapata.com](http://www.itzamzapata.com/)
 
 <br/>
 
@@ -70,19 +64,20 @@ Lue lisää säveltäjästä osoitteesta [itzamzapata.com](http://www.itzamzapat
 <iframe width="100%" height="120" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/220369170&amp;auto_play=false&amp;hide_related=true&amp;show_comments=false&amp;show_user=false&amp;show_reposts=false&amp;visual=false&amp;sharing=false&amp;buying=false&amp;color=2F5966&amp;theme_color=009966&amp;show_playcount=false&amp;show_artwork=false"></iframe>
 </div>
 
+<!--1. My darling 2. With all my heart I love 3. Evening is coming 4. The beautiful maiden is playing the kantele 5. Fratricide 6. Wedding remembrance  -->
 <br/>
 
-__Jean Sibelius: 6 kansanlaulusovitusta pianolle JS 81__
+__Jean Sibelius: 6 folk song arrangements for piano JS 81__  
 
-1. Minun kultani 
-2. Sydämestäni rakastan 
-3. Ilta tulee, ehtoo joutuu 
-4. Tuopa tyttö, kaunis tyttö kanteletta soittaa 
-5. Velisurmaaja 
-6. Häämuistelma
+1. My darling 
+2. With all my heart I love 
+3. Evening is coming 
+4. The beautiful maiden is playing the kantele 
+5. Fratricide 
+6. Wedding remembrance  
 
 Jenna Ristilä, piano  
-konserttiäänite, helmikuu 2014, Helsinki
+concert recording, February 2014, Helsinki
 
 <br/>
 
@@ -92,10 +87,14 @@ konserttiäänite, helmikuu 2014, Helsinki
 
 <br/>
 
-## Diskografia
+## Discography
 
-### Joululevy
+### Christmas cd
 
 [![Christmas cd](../../images/christmas_cd.jpg)](http://lightofchristmas.bluemusicgroup.com/)
 
-Sopraano Johanna Lehesvuoren ja Jenna Ristilän joululevy 'Joulun valo' julkaistiin marraskuussa 2014. Tunnelmallinen levy sisältää perinteisiä suomalaisia joululauluja ja lauluja neitsyt Mariasta. Levy on tilattavissa osoitteesta [bluemusicgroup.com](http://lightofchristmas.bluemusicgroup.com/). 
+Soprano Johanna Lehesvuori and Jenna Ristilä's Christmas cd 'Joulun valo' was released in November 2014. The cd includes traditional Finnish Christmas songs and songs about Virgin Mary. You can buy it online from [bluemusicgroup.com](http://lightofchristmas.bluemusicgroup.com/).
+
+
+<br/>
+

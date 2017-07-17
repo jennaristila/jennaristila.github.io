@@ -1,7 +1,7 @@
 ---
 layout: default
-title: News
-permalink: /en/news/
+title: Concerts
+permalink: /en/concerts/
 lang: en
 ---
 

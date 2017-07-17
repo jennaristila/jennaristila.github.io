@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Uutisia
-permalink: /fi/news/
+title: Konsertit
+permalink: /fi/concerts/
 lang: fi
 ---
 
