@@ -11,7 +11,7 @@ Jenna Ristilä (b. 1989) began her piano studies at the age of 7 in Savonlinna M
 
 In 2010-2011 Ristilä was an exchange student at the Royal Welsh College of Music & Drama in Cardiff. Solo playing was momentarily cast aside as Ristilä collaborated intensely with the vocal music department. She studied lied with Michael Pollock, worked as an assisting opera coach in two opera productions, and accompanied numerous concerts, auditions and master classes.
 
-Ristilä performs regularly as a soloist and accompanist. Currently she studies opera coaching at the Sibelius Academy and teaches at [Keski-Vantaa Music School](http://kevamo.com/). Her summer is filled with chamber music and preparation for Merikanto's opera Pohjanneiti, but whenever visiting her hometown Savonlinna, Ristilä makes sure she has time to eat the local delicacies - vendace and "lörtsy" - and to swim.
+Ristilä performs regularly as a soloist and accompanist. Currently she studies opera coaching at the Sibelius Academy and teaches at [Keski-Vantaa Music School](http://kevamo.com/). Ristilä's autumn is full of opera: the performances of Merikanto's Pohjanneiti, where she's the musical director and pianist, begin in October - and warming up Kuusisto's Gabriel, come back! follows right after. In addition to opera, there's plenty of lied to be played, and an ever growing pile of must-reads reminding of the importance of some free time.
 
 <br/>
 
@@ -21,9 +21,11 @@ Ristilä performs regularly as a soloist and accompanist. Currently she studies 
 
 ### 2017
 
+__Savonlinna Music Academy__ master classes in chamber music and lied & opera were a new experience. The work of a rehearsal pianist was tough and wonderful.
+
 __Comic Opera Helsinki lied concert series__ had soprano Johanna Lehesvuori and Ristilä perform a program of American vocal and piano music.
 
-__Ilkka Kuusisto's opera Gabriel, come back!__ began its tour in Eastern Finland from Pieksämäki and Savonlinna. Matti Makkonen has arranged the opera for four musicians, and he also directs the music in co-operation with Ristilä. Stage direction by Ville Saukkonen; on stage Marjatta Airas, Joonas Asikainen, Maiju Vaahtoluoto...
+__Ilkka Kuusisto's opera Gabriel, come back!__ began its tour in Eastern Finland from Pieksämäki and Savonlinna. Matti Makkonen has arranged the opera for four musicians, and he also directs the music in co-operation with Ristilä. Stage direction by Ville Saukkonen; on stage Marjatta Airas, Joonas Asikainen, Päivi Pylvänäinen, Maiju Vaahtoluoto...
 
 ![Concert photo](../../images/gabriel.jpg)
 
