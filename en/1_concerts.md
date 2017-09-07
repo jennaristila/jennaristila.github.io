@@ -11,31 +11,6 @@ lang: en
 
 <br/>
 
-### Songs in Suojala
-
-An evening full of Finnish vocal music with singers Marjatta Airas, Joonas Asikainen, Talvi-Maaria and Timo Turunen; Ristilä is working hard behind the piano. Coffee and pastries are also available - get your tickets now!
-
-- __21.7__ 7 pm __Suojala__, Puistotie 8, Pielavesi
-
-<br/>
-
-### Chamber music Summer
-
-In summer a music lover should be in Savonlinna. Ristilä will be there as a rehearsal pianist in three of Savonlinna Music Academy's courses, alongside Robert Roozeman and Kristian Attila.
-
-- __23-30.7__ Violin, viola, cello and chamber music
-- __7-14.8__ Opera and lied
-
-<br/>
-
-### Lehtonen and lied
-
-Closing ceremonies of the Joel Lehtonen and his artist friends -exhibition include baritone Joonas Asikainen and Ristilä performing songs composed to the texts of Mr. Lehtonen himself. Come hear Kyösti Haatainen's new song cycle!
-
-- __3.9__ 2 pm __Savonlinnan maakuntamuseo__, Riihisaari, Savonlinna
-
-<br/>
-
 ### Americans in Tampere
 
 Soprano Johanna Lehesvuori and Ristilä are performing together again as they bring a bit of America to Tampere. The program of American vocal and piano music was last heard in the Comic Opera Helsinki lied concert series in Spring, and now it's travelling to western Finland. Welcome!
