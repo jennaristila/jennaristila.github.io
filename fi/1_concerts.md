@@ -11,31 +11,6 @@ lang: fi
 
 <br/>
 
-### Suojalassa soi
-
-Pielavedelle tuodaan pian aimo annos suomalaisen yksinlaulun helmiä, kun Marjatta Airas, Joonas Asikainen sekä Talvi-Maaria ja Timo Turunen konsertoivat Ristilän kanssa Suojalassa. Luvassa kaihoa ja kaipuuta, kahvia ja pullaa!
-
-- __21.7__ klo 19 __Suojala__, Puistotie 8, Pielavesi
-
-<br/>
-
-### Kamarimusiikkia kesään
-
-Kesällä musiikinystävän kannattaa olla Savonlinnassa! Ristilä toimii harjoituspianistina kolmella Savonlinnan Musiikkiakatemian kurssilla yhdessä Robert Roozemanin ja Kristian Attilan kanssa. Konserttejakin taitaa olla luvassa!
-
-- __23-30.7__ Viulu, alttoviulu, sello ja kamarimusiikki
-- __7-14.8__ Ooppera ja lied
-
-<br/>
-
-### Lehtosen sävelin
-
-Joel Lehtonen ja taiteilijaystävät -näyttelyn päättäjäisissä baritoni Joonas Asikainen ja Ristilä esittävät Lehtosen teksteihin sävellettyä musiikkia mm. Kyösti Haataiselta.
-
-- __3.9__ klo 14 __Savonlinnan maakuntamuseo__, Riihisaari, Savolinna
-
-<br/>
-
 ### Amerikkalaiset Tampereella
 
 Sopraano Johanna Lehesvuori ja Ristilä esittävät konsertillisen amerikkalaista laulu- ja pianomusiikkia. Kokonaisuus kuultiin keväällä Koomisen Oopperan liedkonserttisarjassa, ja nyt se näyttäytyy vuorostaan Länsi-Suomessa. Tervetuloa!
@@ -64,7 +39,7 @@ Savonlinnan Musiikkiopisto täyttää 60 vuotta, ja Ristilä esiintyy muiden ent
 
 ### Naisia ruotsista
 
-Mezzosopraano Ylva Gruen ja Ristilä esittävät ruotsalaista laulumusiikkia Sibelius-Akatemian konserttisarjassa. Ohjelma sisältää perinteisten Stenhammarin ja Frumerien lisäksi modernien naissäveltäjien musiikkia, sekä konserttiin varta vasten sävelletyn laulusarjan.
+Mezzosopraano Ylva Gruen ja Ristilä esittävät ruotsalaista laulumusiikkia Sibelius-Akatemian konserttisarjassa. Ohjelma sisältää perinteisten Stenhammarin ja Frumerien lisäksi mm. modernien naissäveltäjien musiikkia, sekä konserttiin varta vasten sävelletyn laulusarjan.
 
 - __29.10__ klo 16 __Taidekoti Kirpilä__, Pohjoinen Hesperiankatu 7, Helsinki
 
