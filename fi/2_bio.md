@@ -11,7 +11,7 @@ Jenna Ristilä (s.1989) aloitti pianonsoiton 7-vuotiaana Savonlinnan Musiikkiopi
 
 Lukuvuoden 2010-2011 Ristilä oli vaihto-opiskelijana Royal Welsh College of Music & Drama'ssa Cardiffissa. Soolopianismi jäi hetkeksi syrjään Ristilän tehdessä tiivistä yhteistyötä laulumusiikin osaston kanssa. Hän opiskeli liediä Michael Pollockin johdolla, toimi avustavana korrepetiittorina kahdessa oopperassa sekä säesti lukuisia konsertteja, koelauluja ja mestarikursseja.
 
-Ristilä on kokenut esiintyjä ja konsertoi säännöllisesti solistina ja säestäjänä. Tällä hetkellä hän täydentää opintojaan Sibelius-Akatemian korrepetitiokoulutuksessa ja opettaa [Keski-Vantaan Musiikkiopistossa](http://kevamo.com/). Ristilän kesä täyttyy kamarimusiikista sekä Pohjanneiti -oopperaan valmistautumisesta, mutta kotipaikkakunnallaan Savonlinnassa vieraillessaan hän varmistaa, että aikaa riittää myös lörtsyjen ja muikkujen syöntiin sekä uimiseen.
+Ristilä on kokenut esiintyjä ja konsertoi säännöllisesti solistina ja säestäjänä. Tällä hetkellä hän täydentää opintojaan Sibelius-Akatemian korrepetitiokoulutuksessa ja opettaa [Keski-Vantaan Musiikkiopistossa](http://kevamo.com/). Kuluva syksy on Ristilälle oopperantäyteinen: hän toimii pianistina ja musiikin johtajana Merikannon Pohjanneidissä, joka saa ensi-iltansa lokakuussa - ja tekeepä paluun myös keväällä jo esitetty Gabriel, tule takaisin! Oopperan lomaan mahtuu myös aimo annos liediä, sekä alati kasvava pino kirjoja jotka pitäisi ehtiä lukea.
 
 <br/>
 
@@ -21,9 +21,11 @@ Ristilä on kokenut esiintyjä ja konsertoi säännöllisesti solistina ja säes
 
 ### 2017
 
+__Savonlinnan Musiikkiakatemian__ kamarimusiikki- ja ooppera ja lied- kurssien harjoituspianistina työskentely oli haastavaa ja ihanaa.
+
 __Koomisen oopperan liedkonserttisarjassa__ sopraano Johanna Lehesvuori ja Ristilä esittivät amerikkalaista laulu- ja pianomusiikkia.
 
-__Ilkka Kuusiston Gabriel, tule takaisin! -oopperan__ Itä-Suomen valloitus alkoi Pieksämäeltä ja Savonlinnasta. Oopperan on sovittanut neljälle soittajalle Matti Makkonen, joka vastaa myös musiikin johdosta yhteistyössä Ristilän kanssa. Ohjaus Ville Saukkonen, lavalla mm. Marjatta Airas, Joonas Asikainen, Maiju Vaahtoluoto...
+__Ilkka Kuusiston Gabriel, tule takaisin! -oopperan__ Itä-Suomen valloitus alkoi Pieksämäeltä ja Savonlinnasta. Oopperan on sovittanut neljälle soittajalle Matti Makkonen, joka vastaa myös musiikin johdosta yhteistyössä Ristilän kanssa. Ohjaus Ville Saukkonen, lavalla mm. Marjatta Airas, Joonas Asikainen, Päivi Pylvänäinen, Maiju Vaahtoluoto...
 
 ![Concert photo](../../images/gabriel.jpg)
 
