@@ -11,14 +11,6 @@ lang: fi
 
 <br/>
 
-### Amerikkalaiset Tampereella
-
-Sopraano Johanna Lehesvuori ja Ristilä esittävät konsertillisen amerikkalaista laulu- ja pianomusiikkia. Kokonaisuus kuultiin keväällä Koomisen Oopperan liedkonserttisarjassa, ja nyt se näyttäytyy vuorostaan Länsi-Suomessa. Tervetuloa!
-
-- __17.9__ klo 16 __Pyynikkisali__, F.E. Sillanpäänkatu 9, Tampere
-
-<br/>
-
 ### Kalevalassa tapahtuu
 
 Suomi100 -juhlavuoden kunniaksi Lahden Oopperayhdistys esittää Oskar Merikannon Pohjanneiti-oopperan pianoversion. Ooppera kertoo Väinämöisen retkistä Pohjolaan: luvassa vauhtia ja vaarallisia tilanteita! Kuka takoo Sammon ja kelpaako se Louhelle palkaksi? Entä kuka nai ovelan Pohjanneidin, jolle kuka tahansa ei kelpaakaan?
@@ -26,14 +18,6 @@ Ristilä toimii produktiossa musiikin johtajana ja esitysten pianistina.
 
 - Ensi-ilta __14.10__ klo 19 __Pikkuteatteri__, Loviisankatu 8, Lahti
 - Muut esitykset __17.10, 18.10, 20.10, 7.11, 8.11__
-
-<br/>
-
-### Musiikkiopiston synttärit
-
-Savonlinnan Musiikkiopisto täyttää 60 vuotta, ja Ristilä esiintyy muiden entisten opiskelijoiden ohella juhlistaakseen keski-iän jo ohittanutta entistä opistoaan.
-
-- __19.10 Melartin-sali__, Sotilaspojankatu 1, Savonlinna
 
 <br/>
 
@@ -54,3 +38,10 @@ Ilkka Kuusiston ooppera Gabriel, tule takaisin! jatkaa matkaansa Itä-Suomessa. 
 
 <br/>
 
+### Kirpilän joulu
+
+Mezzosopraano Ylva Gruen ja Ristilä esiintyvät Taidekoti Kirpilän perinteisessä joulukonsertissa kahden muun duon ohella. Varaa lippusi ajoissa!
+
+- __10.12__ klo 16 __Taidekoti Kirpilä__, Pohjoinen Hesperiankatu 7, Helsinki
+
+<br/>
