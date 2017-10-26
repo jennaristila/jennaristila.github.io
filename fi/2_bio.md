@@ -11,7 +11,7 @@ Jenna Ristilä (s.1989) aloitti pianonsoiton 7-vuotiaana Savonlinnan Musiikkiopi
 
 Lukuvuoden 2010-2011 Ristilä oli vaihto-opiskelijana Royal Welsh College of Music & Drama'ssa Cardiffissa. Soolopianismi jäi hetkeksi syrjään Ristilän tehdessä tiivistä yhteistyötä laulumusiikin osaston kanssa. Hän opiskeli liediä Michael Pollockin johdolla, toimi avustavana korrepetiittorina kahdessa oopperassa sekä säesti lukuisia konsertteja, koelauluja ja mestarikursseja.
 
-Ristilä on kokenut esiintyjä ja konsertoi säännöllisesti solistina ja säestäjänä. Tällä hetkellä hän täydentää opintojaan Sibelius-Akatemian korrepetitiokoulutuksessa ja opettaa [Keski-Vantaan Musiikkiopistossa](http://kevamo.com/). Kuluva syksy on Ristilälle oopperantäyteinen: hän toimii pianistina ja musiikin johtajana Merikannon Pohjanneidissä, joka saa ensi-iltansa lokakuussa - ja tekeepä paluun myös keväällä jo esitetty Gabriel, tule takaisin! Oopperan lomaan mahtuu myös aimo annos liediä, sekä alati kasvava pino kirjoja jotka pitäisi ehtiä lukea.
+Ristilä on kokenut esiintyjä ja konsertoi nykyisin erityisesti laulumusiikin parissa. Tällä hetkellä hän täydentää opintojaan Sibelius-Akatemian korrepetitiokoulutuksessa ja opettaa [Keski-Vantaan Musiikkiopistossa](http://kevamo.com/). Kuluva syksy on Ristilälle oopperantäyteinen: hän toimii pianistina ja musiikin johtajana Merikannon Pohjanneidissä, joka saa ensi-iltansa lokakuussa - ja tekeepä paluun myös keväällä jo esitetty Gabriel, tule takaisin! Oopperan lomaan mahtuu myös aimo annos liediä, sekä alati kasvava pino kirjoja jotka pitäisi ehtiä lukea.
 
 <br/>
 
