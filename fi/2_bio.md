@@ -21,7 +21,9 @@ Ristilä on kokenut esiintyjä ja konsertoi nykyisin erityisesti laulumusiikin p
 
 ### 2017
 
-__Savonlinnan Musiikkiakatemian__ kamarimusiikki- ja ooppera ja lied- kurssien harjoituspianistina työskentely oli haastavaa ja ihanaa.
+__Oskar Merikannon Pohjan neiti -ooppera__ esitettiin Lahden Oopperayhdistyksen voimin pianon säestyksellä. Produktion musiikin johtajana ja pianistina toiminut Ristilä sai erinomaiset arviot sekä Helsingin Sanomissa että Etelä-Suomen Sanomissa.
+
+"Oopperan orkesteriosuutta on moitittu tavan takaa. Nyt sitä ei voinut arvioida, sillä Jenna Ristilä hoiti pianon ääressä koko säestyksen niin upeasti, ettei orkesterin puuttumista joutunut harmittelemaan." (Veijo Murtomäki, HS 15.10)
 
 __Koomisen oopperan liedkonserttisarjassa__ sopraano Johanna Lehesvuori ja Ristilä esittivät amerikkalaista laulu- ja pianomusiikkia.
 
@@ -39,8 +41,6 @@ __Jiri Pauerin Punahilkka -lastenoopperaa__ esitettiin Savonlinnan Oopperajuhlil
 
 ![Concert photo](../../images/punahilkka.jpg)
 
-__Sopraanon, nokkahuilun ja pianon__ eri yhdistelmillä ja sovituksilla leikiteltiin kesällä Kannelmäessä; sopraano Milla Mäkinen, nokkahuilisti Juho Myllylä ja Ristilä valmistivat kokeellisen konsertin jossa siirryttiin sujuvasti kansanlaulusta Puccinin kautta jazziin.
-
 __Jääkausi -kamariooppera__ valmistui Start-up Opera -ryhmän voimin, ja sitä esitettiin Sibelius-Akatemian konserttisarjassa sekä Hietsun Paviljongissa. Ristilä toimi ryhmän taiteellisena johtajana ja pianistina; oopperan sävelsi Itzam Zapata, libretosta vastasi Juho Gröndahl, Eljas Liinamaa ohjasi ja Eero Erkamo vastasi visuaalisesta suunnittelusta. Lavalla nähtiin sopraanot Milla Mäkinen ja Anna-Maija Oka. Ristilän kirjoittama blogi oopperan valmistumisesta: [startupopera.blogspot.fi](http://startupopera.blogspot.fi).
 
 ![Concert photo](../../images/jaakausi.jpg)
@@ -50,8 +50,6 @@ __Joulun valo -levyn__ julkaisemisen jälkeen sopraano Johanna Lehesvuori ja Ris
 <br/>
 
 ### 2015
-
-__Itsenäisyyspäivän konsertit__ Tukholmassa viulisti Marielle Iivosen kanssa sisälsivät Sibeliuksen viulu- ja pianomusiikkia, sekä tietysti aina yhtä koskettavan Finlandia -hymnin.
 
 __Helsinki Lied -kilpailussa__ Sopraano Johanna Lehesvuori ja Ristilä ylsivät finaaliin.
 
