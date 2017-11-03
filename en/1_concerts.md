@@ -21,14 +21,6 @@ Ristilä is the director of music and the performance pianist in the production.
 
 <br/>
 
-### Women from Sweden
-
-Mezzosoprano Ylva Gruen and Ristilä perform swedish vocal music in the Sibelius Academy concert series. In addition to the traditional Frumerie and Stenhammar, their program also includes works from contemporary female composers - and a song cycle commissioned just for this recital.
-
-- __29.10__ 4 pm __Taidekoti Kirpilä__, Pohjoinen Hesperiankatu 7, Helsinki
-
-<br/>
-
 ### Gabriel strikes again
 
 Ilkka Kuusisto's opera Gabriel, come back! keeps travelling in the eastern Finland. Directors of music Ristilä and Matti Makkonen take you through tangos, walzes, and passionate beguines. Don't let this comic gem get past you!
@@ -43,5 +35,24 @@ Ilkka Kuusisto's opera Gabriel, come back! keeps travelling in the eastern Finla
 Mezzosoprano Ylva Gruen and Ristilä are performing in Kirpilä's traditional Christmas concert with two other duos. Get your tickets in advance - it's usually sold out!
 
 - __10.12__ 4 pm __Taidekoti Kirpilä__, Pohjoinen Hesperiankatu 7, Helsinki
+
+<br/>
+
+## 2018
+
+<br/>
+
+### Gabriel continues his journey
+
+Ilkka Kuusisto's opera Gabriel, come back! keeps going from town to town. To celebrate the winter holidays, he arrives to Helsinki as well. Which performance are you going to come to?
+
+- __2-3.2 Pielavesi__
+- __16-17.2 Helsingin konservatorio__, Ruoholahdenkatu 6, Helsinki
+
+<br/>
+
+### Finnish-Swedish co-operation
+
+Mezzosoprano Ylva Gruen and Ristilä are organizing a series of concerts in Finland and Sweden. The program consists of Finnish songs to Swedish texts, and Swedish songs to Finnish texts. There'll be Edith Södergran, Runeberg, a newly commissioned song cycle by Johannes Pollak, and other very interesting music. Happening durin spring/summer, the exact dates and places will be specified shortly! 
 
 <br/>
