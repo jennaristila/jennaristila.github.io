@@ -21,14 +21,6 @@ Ristilä toimii produktiossa musiikin johtajana ja esitysten pianistina.
 
 <br/>
 
-### Naisia ruotsista
-
-Mezzosopraano Ylva Gruen ja Ristilä esittävät ruotsalaista laulumusiikkia Sibelius-Akatemian konserttisarjassa. Ohjelma sisältää perinteisten Stenhammarin ja Frumerien lisäksi mm. modernien naissäveltäjien musiikkia, sekä konserttiin varta vasten sävelletyn laulusarjan.
-
-- __29.10__ klo 16 __Taidekoti Kirpilä__, Pohjoinen Hesperiankatu 7, Helsinki
-
-<br/>
-
 ### Gabriel hurmaa jälleen
 
 Ilkka Kuusiston ooppera Gabriel, tule takaisin! jatkaa matkaansa Itä-Suomessa. Hulvattoman kiertueversion musiikinjohdosta vastaavat Ristilä sekä Matti Makkonen. Tule nauramaan, svengaamaan ja viihtymään!
@@ -42,7 +34,7 @@ Ilkka Kuusiston ooppera Gabriel, tule takaisin! jatkaa matkaansa Itä-Suomessa. 
 
 Mezzosopraano Ylva Gruen ja Ristilä esiintyvät Taidekoti Kirpilän perinteisessä joulukonsertissa kahden muun duon ohella. Varaa lippusi ajoissa!
 
-- __10.12__ klo 16 __Taidekoti Kirpilä__, Pohjoinen Hesperiankatu 7, Helsinki
+- __10.12__ klo 16 ja klo 17 __Taidekoti Kirpilä__, Pohjoinen Hesperiankatu 7, Helsinki
 
 <br/>
 
@@ -56,5 +48,11 @@ Ilkka Kuusiston ooppera Gabriel, tule takaisin! jatkaa Suomen valloitustaan. Hii
 
 - __3-4.2 Pielavesi__
 - __16-17.2 Helsingin konservatorio__, Ruoholahdenkatu 6, Helsinki
+
+<br/>
+
+### Pohjanlahden tuolta puolen
+
+Mezzosopraano Ylva Gruen ja Ristilä järjestelevät konserttien sarjaa Suomessa ja Ruotsissa. Ohjelmassa on suomalaisia sävellyksiä ruotsalaisiin runoihin ja vastaavasti ruotsalaisia sävellyksiä suomalaisiin runoihin. Luvassa on Edith Södergrania, Runebergia, tilausteos Johannes Pollakilta sekä kaikkea muuta jännittävää. Kevään ja kesän konserttiajat ja -paikat tarkentuvat piakkoin!
 
 <br/>
