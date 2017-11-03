@@ -45,3 +45,16 @@ Mezzosopraano Ylva Gruen ja Ristilä esiintyvät Taidekoti Kirpilän perinteises
 - __10.12__ klo 16 __Taidekoti Kirpilä__, Pohjoinen Hesperiankatu 7, Helsinki
 
 <br/>
+
+## 2018
+
+<br/>
+
+### Gabriel jatkaa matkaa
+
+Ilkka Kuusiston ooppera Gabriel, tule takaisin! jatkaa Suomen valloitustaan. Hiihtoloman kunniaksi se nähdään jopa pääkaupunkimme pyörteissä! Minne sinä tulet sitä katsomaan?
+
+- __3-4.2 Pielavesi__
+- __16-17.2 Helsingin konservatorio__, Ruoholahdenkatu 6, Helsinki
+
+<br/>
