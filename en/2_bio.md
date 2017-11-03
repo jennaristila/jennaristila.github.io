@@ -21,7 +21,9 @@ Ristilä performs regularly as a soloist and accompanist. Currently she studies 
 
 ### 2017
 
-__Savonlinna Music Academy__ master classes in chamber music and lied & opera were a new experience. The work of a rehearsal pianist was tough and wonderful.
+__Oskar Merikanto's opera Pohjan neiti__ was performed by Lahti Opera Association as a piano version. Ristilä was the production's musical director and pianist, and got great reviews for her work.
+
+"The orchestration of the opera has been often criticised. Now it couldn't be judged, because Jenna Ristilä at the piano played the whole accompaniment so magnificiently, that one didn't have to feel sorry for not having an orchestra present." (Veijo Murtomäki, HS 15.10)
 
 __Comic Opera Helsinki lied concert series__ had soprano Johanna Lehesvuori and Ristilä perform a program of American vocal and piano music.
 
@@ -40,8 +42,6 @@ __Jiri Pauer's Little Red Riding Hood__ was performed in the Savonlinna Opera Fe
 
 ![Concert photo](../../images/punahilkka.jpg)
 
-__Soprano, recorder and piano__ in various combinations and arrangements was heard in Kannelmäki during the summer. Soprano Milla Mäkinen, recorder player Juho Myllylä and Ristilä created an experimental program that took you smoothly from folk songs through Puccini to jazz.
-
 __Jääkausi -chamber opera__ was a joint effort of the Start-up Opera Group, and it was performed in the Sibelius Academy concert series and in Hietsun Paviljonki. Ristilä was the artistic leader and the pianist of the group; the opera was composed and conducted by Itzam Zapata, libretto written by Juho Gröndahl, stage director Eljas Liinamaa and visual designer Eero Erkamo taking charge of the visuals; and on stage performing the sopranos Milla Mäkinen and Anna-Maija Oka. Ristilä wrote a blog about the creative process: [startupopera.blogspot.fi](http://startupopera.blogspot.fi).  
 
 
@@ -52,8 +52,6 @@ __The Light of Christmas CD__ by soprano Johanna Lehesvuori and Ristilä has had
 <br/>
 
 ### 2015
-
-__Finnish Independence Day concerts__ in Stockholm with violinist Marielle Iivonen included Sibelius' most loved violin and piano pieces, and also the heart-stopping Finlandia hymn.
 
 __Helsinki Lied Competition__ was held for the first time in October, and Johanna Lehesvuori and Ristilä made it to the finals.
 
