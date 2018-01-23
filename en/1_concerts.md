@@ -25,9 +25,9 @@ Ilkka Kuusisto's opera Gabriel, come back! keeps going from town to town. To cel
 
 Mezzosoprano Ylva Gruen and Ristilä are performing with Finnish and Swedish co-operational spirit. The program consists of songs by Finnish composers with Swedish poems, and Swedish songs with Finnish poems. Confused? Don't worry, it's good old Sibelius, Stenhammar and Kilpinen, spiced up with a brand new jazzy cycle of songs from Johannes Pollak.
 
-__18.3__ 3 pm __Villa Gyllenberg__, Kuusisaarentie 11, Helsinki
-__21.3__ 7.30 pm __Musikhögskolans aula__, Piteå, Sweden
-__8.4__ 6 pm __Rödön church__, Krokom, Sweden
+- __18.3__ 3 pm __Villa Gyllenberg__, Kuusisaarentie 11, Helsinki
+- __21.3__ 7.30 pm __Musikhögskolans aula__, Piteå, Sweden
+- __8.4__ 6 pm __Rödön church__, Krokom, Sweden
 
 <br/>
 
@@ -35,7 +35,7 @@ __8.4__ 6 pm __Rödön church__, Krokom, Sweden
 
 In her final recital, baroque recorder player Hanna Ristilä performs a dance suite with her sister Jenna. There will be plenty of dance indeed, thrills and laments, as baroque goes.
 
--__18.4 Helsinki conservatory of music__, Ruoholahdenkatu 6, Helsinki
+- __18.4 Helsinki conservatory of music__, Ruoholahdenkatu 6, Helsinki
 
 <br/>
 
