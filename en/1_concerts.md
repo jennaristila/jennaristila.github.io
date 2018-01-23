@@ -7,37 +7,6 @@ lang: en
 
 <br/>
 
-## 2017
-
-<br/>
-
-### Once upon a time in Kalevala
-
-To celebrate Finland's 100th anniversary, the Lahti Opera Association is producing a piano version Pohjanneiti, an opera by Oskar Merikanto. Based on the Finnish national epoch, Kalevala, the opera is an adventure story of two conflicting nations; one woman torn between two suitors; and, of course, true love.
-Ristilä is the director of music and the performance pianist in the production.
-
-- Premiere __14.10__ 7 pm __Pikkuteatteri__, Loviisankatu 8, Lahti
-- Other performances __17.10, 18.10, 20.10, 7.11, 8.11__
-
-<br/>
-
-### Gabriel strikes again
-
-Ilkka Kuusisto's opera Gabriel, come back! keeps travelling in the eastern Finland. Directors of music Ristilä and Matti Makkonen take you through tangos, walzes, and passionate beguines. Don't let this comic gem get past you!
-
-- __25.11__ 7 pm __Brahe hall__, Pielisentie 9-11, Lieksa
-- __1.12__ 7 pm __Kitee hall__, Koulutie 3, Kitee
-
-<br/>
-
-### Christmas in Kirpilä
-
-Mezzosoprano Ylva Gruen and Ristilä are performing in Kirpilä's traditional Christmas concert with two other duos. Get your tickets in advance - it's usually sold out!
-
-- __10.12__ 4 pm __Taidekoti Kirpilä__, Pohjoinen Hesperiankatu 7, Helsinki
-
-<br/>
-
 ## 2018
 
 <br/>
@@ -46,13 +15,34 @@ Mezzosoprano Ylva Gruen and Ristilä are performing in Kirpilä's traditional Ch
 
 Ilkka Kuusisto's opera Gabriel, come back! keeps going from town to town. To celebrate the winter holidays, he arrives to Helsinki as well. Which performance are you going to come to?
 
-- __2-3.2 Pielavesi__
-- __16-17.2 Helsingin konservatorio__, Ruoholahdenkatu 6, Helsinki
+- __3.2__ 3 pm __Puustelli school__, Laurinpurontie 23, Pielavesi__
+- __16.2__ 7 pm __Helsinki conservatory of music__, Ruoholahdenkatu 6, Helsinki
+- __17.2__ 7 pm __Helsinki conservatory of music__
 
 <br/>
 
-### Finnish-Swedish co-operation
+### From both sides of the Gulf of Bothnia
 
-Mezzosoprano Ylva Gruen and Ristilä are organizing a series of concerts in Finland and Sweden. The program consists of Finnish songs to Swedish texts, and Swedish songs to Finnish texts. There'll be Edith Södergran, Runeberg, a newly commissioned song cycle by Johannes Pollak, and other very interesting music. Happening durin spring/summer, the exact dates and places will be specified shortly! 
+Mezzosoprano Ylva Gruen and Ristilä are performing with Finnish and Swedish co-operational spirit. The program consists of songs by Finnish composers with Swedish poems, and Swedish songs with Finnish poems. Confused? Don't worry, it's good old Sibelius, Stenhammar and Kilpinen, spiced up with a brand new jazzy cycle of songs from Johannes Pollak.
+
+__18.3__ 3 pm __Villa Gyllenberg__, Kuusisaarentie 11, Helsinki
+__21.3__ 7.30 pm __Musikhögskolans aula__, Piteå, Sweden
+__8.4__ 6 pm __Rödön church__, Krokom, Sweden
+
+<br/>
+
+### Sisters take the stage
+
+In her final recital, baroque recorder player Hanna Ristilä performs a dance suite with her sister Jenna. There will be plenty of dance indeed, thrills and laments, as baroque goes.
+
+-__18.4 Helsinki conservatory of music__, Ruoholahdenkatu 6, Helsinki
+
+<br/>
+
+### Night and dream
+
+Soprano Anna-Maija Oka and Ristilä have created a world of night and dreams. Through the music of Purcell, Barber and others - not forgetting hits from musicals - they tell stories of the empress of the night, moon; dying soldiers, lovers seeking a place to hide,... Slipped between the songs there is all kinds of information on the same topics. But how?
+
+- __22.4__ 2 pm __Järvenpää museum of art__, Kirjastokatu 8, Järvenpää
 
 <br/>
