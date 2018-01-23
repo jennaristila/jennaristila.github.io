@@ -11,7 +11,7 @@ Jenna Ristilä (b. 1989) began her piano studies at the age of 7 in Savonlinna M
 
 In 2010-2011 Ristilä was an exchange student at the Royal Welsh College of Music & Drama in Cardiff. Solo playing was momentarily cast aside as Ristilä collaborated intensely with the vocal music department. She studied lied with Michael Pollock, worked as an assisting opera coach in two opera productions, and accompanied numerous concerts, auditions and master classes.
 
-Ristilä performs regularly as a soloist and accompanist. Currently she studies opera coaching at the Sibelius Academy and teaches at [Keski-Vantaa Music School](http://kevamo.com/). Ristilä's autumn is full of opera: the performances of Merikanto's Pohjanneiti, where she's the musical director and pianist, begin in October - and warming up Kuusisto's Gabriel, come back! follows right after. In addition to opera, there's plenty of lied to be played, and an ever growing pile of must-reads reminding of the importance of some free time.
+Ristilä performs regularly as a soloist and accompanist. Currently she studies opera coaching at the Sibelius Academy and teaches at [Keski-Vantaa Music School](http://kevamo.com/). This spring is filled with lied, but there's also time to study a bit of phonetics. However, Ristilä's most important job now is to follow the first weeks of her newborn goddaughter.
 
 <br/>
 
