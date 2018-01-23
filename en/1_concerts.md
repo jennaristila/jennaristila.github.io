@@ -15,7 +15,7 @@ lang: en
 
 Ilkka Kuusisto's opera Gabriel, come back! keeps going from town to town. To celebrate the winter holidays, he arrives to Helsinki as well. Which performance are you going to come to?
 
-- __3.2__ 3 pm __Puustelli school__, Laurinpurontie 23, Pielavesi__
+- __3.2__ 3 pm __Puustelli school__, Laurinpurontie 23, Pielavesi
 - __16.2__ 7 pm __Helsinki conservatory of music__, Ruoholahdenkatu 6, Helsinki
 - __17.2__ 7 pm __Helsinki conservatory of music__
 
