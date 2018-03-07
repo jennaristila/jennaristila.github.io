@@ -31,6 +31,14 @@ Mezzosoprano Ylva Gruen and Ristilä are performing with Finnish and Swedish co-
 
 <br/>
 
+### ESMO Easter
+
+The greatest opera company in Eastern Finland, ESMO ry, are having a fundraising concert for Easter. There will be plenty of music from really serious Easter composers such as Bach and Händel, but we will have joyful music, too. Because that's what Easter is about.
+
+- __2.4__ 3 pm __Savonlinna church__, Pappilankatu 8, Savonlinna
+
+<br/>
+
 ### Sisters take the stage
 
 In her final recital, baroque recorder player Hanna Ristilä performs a dance suite with her sister Jenna. There will be plenty of dance indeed, thrills and laments, as baroque goes.
