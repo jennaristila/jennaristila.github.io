@@ -31,6 +31,14 @@ Mezzosopraano Ylva Gruen ja Ristilä konsertoivat Suomen ja Ruotsin yhteistyön 
 
 <br/>
 
+### ESMOn pääsiäinen
+
+Itä-Suomen hilpein oopperayhdistys ESMO ry kokoaa voimansa varainkeruukonserttia varten, jotta ihmeelliset oopperatuotannot olisivat mahdollisia myös jatkossa. Luvassa on ESMOn aktiivisia jäseniä lavalla, sekä harrasta että riemullista laulumusiikkia, ja Ristilä pianon takana huhkimassa. Tervetuloa!
+
+- __2.4__ klo 15 __Savonlinnan Tuomiokirkko__, Pappilankatu 8, Savonlinna
+
+<br/>
+
 ### Siskokset lavalla
 
 Nokkahuilisti Hanna Ristilä soittaa tutkintokonsertissaan barokkisarjan siskonsa Jennan kanssa. Luvassa on barokin hurmaa, vauhtia ja vaarallisia tilanteita.
