@@ -35,7 +35,7 @@ Mezzosopraano Ylva Gruen ja Ristilä konsertoivat Suomen ja Ruotsin yhteistyön 
 
 Nokkahuilisti Hanna Ristilä soittaa tutkintokonsertissaan barokkisarjan siskonsa Jennan kanssa. Luvassa on barokin hurmaa, vauhtia ja vaarallisia tilanteita.
 
-- __18.4 Helsingin konservatorio__, Ruoholahdenkatu 6, Helsinki
+- __19.4__ klo 12 __Helsingin konservatorio__, Ruoholahdenkatu 6, Helsinki
 
 <br/>
 
@@ -43,6 +43,8 @@ Nokkahuilisti Hanna Ristilä soittaa tutkintokonsertissaan barokkisarjan siskons
 
 Sopraano Anna-Maija Oka ja Ristilä tuovat teille tarinoita yöstä ja unesta. Mm. Purcellin ja Barberin laulut ja musikaalisävelmätkin kertovat yön eri puolista. Se tarjoaa rakastavaisille turvaa - sitä hallitsee taivaan kuningatar kuu - sade kastelee kuolevan sotilaan - monenlaiset tarinat heräävät henkiin näissä sävellyksissä. Laulujen lomaan on ujutettu tietoa yöstä ja unesta. Mutta miten?
 
+- __14.4__ klo 16 __Lauttasaaren kirkko__, Myllykallionrinne 1, Helsinki
 - __22.4__ klo 14 __Järvenpään taidemuseo__, Kirjastokatu 8, Järvenpää
+- __24.5__ klo 18.30 __Huopalahden kirkko__, Vespertie 12, Helsinki
 
 <br/>
