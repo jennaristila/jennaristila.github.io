@@ -35,7 +35,7 @@ Mezzosoprano Ylva Gruen and Ristilä are performing with Finnish and Swedish co-
 
 In her final recital, baroque recorder player Hanna Ristilä performs a dance suite with her sister Jenna. There will be plenty of dance indeed, thrills and laments, as baroque goes.
 
-- __18.4 Helsinki conservatory of music__, Ruoholahdenkatu 6, Helsinki
+- __19.4__ 12 am __Helsinki conservatory of music__, Ruoholahdenkatu 6, Helsinki
 
 <br/>
 
@@ -43,6 +43,8 @@ In her final recital, baroque recorder player Hanna Ristilä performs a dance su
 
 Soprano Anna-Maija Oka and Ristilä have created a world of night and dreams. Through the music of Purcell, Barber and others - not forgetting hits from musicals - they tell stories of the empress of the night, moon; dying soldiers, lovers seeking a place to hide,... Slipped between the songs there is all kinds of information on the same topics. But how?
 
+- __14.4__ 4 pm __Lauttasaari church__, Myllykallionrinne 1, Helsinki
 - __22.4__ 2 pm __Järvenpää museum of art__, Kirjastokatu 8, Järvenpää
+- __24.5__ 6.30 pm __Huopalahti church__, Vespertie 12, Helsinki
 
 <br/>
