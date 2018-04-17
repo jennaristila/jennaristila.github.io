@@ -11,39 +11,11 @@ lang: fi
 
 <br/>
 
-### Gabriel jatkaa matkaa
-
-Ilkka Kuusiston ooppera Gabriel, tule takaisin! jatkaa Suomen valloitustaan. Hiihtoloman kunniaksi se nähdään jopa pääkaupunkimme pyörteissä! Minne sinä tulet sitä katsomaan?
-
-- __4.2__ klo 15 __Puustellin koulu,__ Laurinpurontie 23, Pielavesi
-- __16.2__ klo 19 __Helsingin konservatorio__, Ruoholahdenkatu 6, Helsinki
-- __17.2__ klo 19 __Helsingin konservatorio__
-
-<br/>
-
-### Pohjanlahden molemmilta puolilta
-
-Mezzosopraano Ylva Gruen ja Ristilä konsertoivat Suomen ja Ruotsin yhteistyön hengessä. Ohjelmassa on suomalaisten säveltäjien lauluja ruotsalaisiin runoihin, sekä ruotsalaisten lauluja suomalaisiin runoihin. Sibelius, Kilpinen ja Stenhammar saavat konsertissa rinnalleen mm. svengaavan tilausteoksen Johannes Pollakilta.
-
-- __18.3__ klo 15 __Villa Gyllenberg__, Kuusisaarenpolku 11, Helsinki
-- __21.3__ klo 19.30 __Musikhögskolans aula__, Piteå, Ruotsi
-- __8.4__ klo 18 __Rödön Kyrka__, Krokom, Ruotsi
-
-<br/>
-
-### ESMOn pääsiäinen
-
-Itä-Suomen hilpein oopperayhdistys ESMO ry kokoaa voimansa varainkeruukonserttia varten, jotta ihmeelliset oopperatuotannot olisivat mahdollisia myös jatkossa. Luvassa on ESMOn aktiivisia jäseniä lavalla, sekä harrasta että riemullista laulumusiikkia, ja Ristilä pianon takana huhkimassa. Tervetuloa!
-
-- __2.4__ klo 15 __Savonlinnan Tuomiokirkko__, Pappilankatu 8, Savonlinna
-
-<br/>
-
 ### Siskokset lavalla
 
 Nokkahuilisti Hanna Ristilä soittaa tutkintokonsertissaan barokkisarjan siskonsa Jennan kanssa. Luvassa on barokin hurmaa, vauhtia ja vaarallisia tilanteita.
 
-- __19.4__ klo 12 __Helsingin konservatorio__, Ruoholahdenkatu 6, Helsinki
+- __19.4__ klo 13 __Helsingin konservatorio__, Ruoholahdenkatu 6, Helsinki
 
 <br/>
 
@@ -51,8 +23,51 @@ Nokkahuilisti Hanna Ristilä soittaa tutkintokonsertissaan barokkisarjan siskons
 
 Sopraano Anna-Maija Oka ja Ristilä tuovat teille tarinoita yöstä ja unesta. Mm. Purcellin ja Barberin laulut ja musikaalisävelmätkin kertovat yön eri puolista. Se tarjoaa rakastavaisille turvaa - sitä hallitsee taivaan kuningatar kuu - sade kastelee kuolevan sotilaan - monenlaiset tarinat heräävät henkiin näissä sävellyksissä. Laulujen lomaan on ujutettu tietoa yöstä ja unesta. Mutta miten?
 
-- __14.4__ klo 16 __Lauttasaaren kirkko__, Myllykallionrinne 1, Helsinki
 - __22.4__ klo 14 __Järvenpään taidemuseo__, Kirjastokatu 8, Järvenpää
 - __24.5__ klo 18.30 __Huopalahden kirkko__, Vespertie 12, Helsinki
+
+<br/>
+
+### Kuoron kevät
+
+Ristilä soittaa jälleen Tuuslaulajien aina yhtä keväisessä konsertissa. Tervetuloa nauttimaan kuoromusiikista!
+
+- __17.5__ klo 19 __Mikkolan koulu__, Pähkinämäentie 215, Tuusula
+
+<br/>
+
+### Oopperan hurmaa lapsille
+
+Kesäkuun alkupuolella on luvassa uuden lastenoopperan kantaesitys, joka vielä hetken on suuri salaisuus! Kaikki paljastuu toukokuuhun mennessä...
+
+<br/>
+
+### Pohjanlahden molemmilta puolilta
+
+Mezzosopraano Ylva Gruen ja Ristilä konsertoivat Suomen ja Ruotsin yhteistyön hengessä. Ohjelmassa on suomalaisten säveltäjien lauluja ruotsalaisiin runoihin, sekä ruotsalaisten lauluja suomalaisiin runoihin. Sibelius, Kilpinen ja Stenhammar saavat konsertissa rinnalleen mm. svengaavan tilausteoksen Johannes Pollakilta.
+
+- __4.7__ klo 12 __Finska kyrkan__, Slottsbacken 2B-C, Tukholma
+- __5.7__ klo 19 __Överluleå kyrka__, Kyrkgatan 34, Boden
+
+<br/>
+
+### Matkustan ympäri maailmaa
+
+Sopraano Sanna Matinniemi ja Ristilä konsertoivat Suomen joka nurkassa kesäisissä tunnelmissa. Luvassa on suomalaisten säveltäjien rakastetuimpia lauluja ja kansansävelmiä, sekä Sibeliuksen pianomusiikkia. Konserttien ajat ja paikat tarkentuvat kevään mittaan.
+
+- __28.6 Nilsiä__
+- __6.7 Pyhäjärvi__
+- __14.7 Kiuruvesi__
+- __24.7 Jyväskylä__
+- __18.8 Kaarina__
+- __25.8 Ilomantsi__
+
+<br/>
+
+### Kamarimusiikin ihmeitä
+
+Ristilä toimii yhtenä harjoituspianistina Savonlinnan Musiikkiatakemian kamarimusiikkikurssilla. Luvassa on konsertteja Melartin-salissa sekä gallerioissa viulistien, alttoviulistien, sellistien ja klarinetistien kanssa. Ja tietysti kesäisen Savonlinnan lumo.
+
+- __14-21.7 Savonlinnassa__, konserttien ajat varmistuvat heinäkuussa
 
 <br/>
