@@ -22,6 +22,5 @@ Chordus Artist Management
 +358 40 0806 869
 
 
-
 <br/>
 
