@@ -7,18 +7,22 @@ lang: fi
 
 ## Yhteystiedot
   
-__Jenna Ristilä__
+Jenna Ristilä
 
 <j.ristilae@gmail.com>
+
 +358 40 7065 787
 
 <br/>
 
-__Pete Vuorio__
+Pete Vuorio
+
 Chordus Artist Management
 
 <pete.vuorio@chordus.fi>
+
 +358 20 7959 110
+
 +358 40 0806 869
 
 
