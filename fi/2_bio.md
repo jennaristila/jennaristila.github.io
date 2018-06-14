@@ -7,7 +7,7 @@ lang: fi
 
 ## Biografia
 
-Jenna Ristilä (s.1989) aloitti pianonsoiton 7-vuotiaana Savonlinnan Musiikkiopistossa Anja Ojanen-Forsbergin johdolla. Vuonna 2006 Ristilä pääsi Sibelius-Akatemian nuorisokoulutukseen ja 2007 esittävän säveltaiteen linjalle opettajinaan Hamsa Juris ja Teppo Koivisto. Keväällä 2014 Ristilä suoritti A-tutkintonsa erinomaisin arvosanoin ja valmistui musiikin maisteriksi. Ristilää ovat tukeneet Suomen Kulttuurirahasto sekä ProMusica-säätiö.
+Jenna Ristilä (s.1989) aloitti pianonsoiton 7-vuotiaana Savonlinnan Musiikkiopistossa Anja Ojanen-Forsbergin johdolla. Vuonna 2006 Ristilä pääsi Sibelius-Akatemian nuorisokoulutukseen ja 2007 esittävän säveltaiteen linjalle opettajinaan Hamsa Juris ja Teppo Koivisto. Keväällä 2014 Ristilä suoritti A-tutkintonsa erinomaisin arvosanoin ja valmistui musiikin maisteriksi.
 
 Lukuvuoden 2010-2011 Ristilä oli vaihto-opiskelijana Royal Welsh College of Music & Drama'ssa Cardiffissa. Soolopianismi jäi hetkeksi syrjään Ristilän tehdessä tiivistä yhteistyötä laulumusiikin osaston kanssa. Hän opiskeli liediä Michael Pollockin johdolla, toimi avustavana korrepetiittorina kahdessa oopperassa sekä säesti lukuisia konsertteja, koelauluja ja mestarikursseja.
 
@@ -16,6 +16,16 @@ Ristilä on kokenut esiintyjä ja konsertoi nykyisin erityisesti laulumusiikin p
 <br/>
 
 ## Joitain menneitä esiintymisiä
+
+<br/>
+
+### 2018
+
+__Topelius Nyt! -lastenooppera__ sai kantaesityksensä Annantalossa kesäkuussa. Ala-asteikäisille suunnattu pläjäys tuo Topeliuksen satuja nykypäivään ja hauskuuttaa niin lapsia kuin aikuisiakin. Oopperassa laulavat sopraano Mari Karjalainen sekä baritoni Joonas Asikainen. Ristilä toimii esityksen pianistina, ja on sovittanut teoksen musiikin. Topelius Nyt! kiertää syksyllä pääkaupunkiseudun ja Itä-Suomen kouluissa.
+
+__Pohjanlahden molemmilta puolilta__-liedkonserttisarjan Ristilä toteutti mezzosopraano Ylva Gruenin kanssa Suomalais-Ruotsalaisen kulttuurirahaston tuella. Gruen ja Ristilä järjestivät konsertteja Ruotsissa ja Suomessa, ja tilasivat säveltäjä Johannes Pollakilta laulusarjan konsertteja varten.
+
+__Yö|Uni__-konserteissa Ristilä esitti sopraano Anna-Maija Okan kanssa öisiä lauluja englantilaisilta ja amerikkalaisilta säveltäjiltä. Raukean kokonaisuuden lomassa kertoiltiin taruja ja tietoa yöllisistä ilmiöistä.
 
 <br/>
 
