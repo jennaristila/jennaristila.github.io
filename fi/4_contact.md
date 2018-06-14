@@ -7,7 +7,7 @@ lang: fi
 
 ## Yhteystiedot
   
-Jenna Ristilä
+__Jenna Ristilä__
 
 <j.ristilae@gmail.com>
 
@@ -15,7 +15,7 @@ Jenna Ristilä
 
 <br/>
 
-Pete Vuorio
+__Pete Vuorio__
 
 Chordus Artist Management
 
