@@ -25,7 +25,7 @@ __Topelius Nyt! -lastenooppera__ sai kantaesityksensä Annantalossa kesäkuussa.
 
 __Pohjanlahden molemmilta puolilta__-liedkonserttisarjan Ristilä toteutti mezzosopraano Ylva Gruenin kanssa Suomalais-Ruotsalaisen kulttuurirahaston tuella. Gruen ja Ristilä järjestivät konsertteja Ruotsissa ja Suomessa, ja tilasivat säveltäjä Johannes Pollakilta laulusarjan konsertteja varten.
 
-__Yö|Uni__-konserteissa Ristilä esitti sopraano Anna-Maija Okan kanssa öisiä lauluja englantilaisilta ja amerikkalaisilta säveltäjiltä. Raukean kokonaisuuden lomassa kertoiltiin taruja ja tietoa yöllisistä ilmiöistä.
+__YöUni__-konserteissa Ristilä esitti sopraano Anna-Maija Okan kanssa öisiä lauluja englantilaisilta ja amerikkalaisilta säveltäjiltä. Raukean kokonaisuuden lomassa kertoiltiin taruja ja tietoa yöllisistä ilmiöistä.
 
 <br/>
 
