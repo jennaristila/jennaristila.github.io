@@ -15,12 +15,11 @@ lang: en
 
 Soprano Sanna Matinniemi and Ristilä are travelling here and there in Finland during the summer. They're performing some of the most loved songs by Finnish composers with folk songs on the side, and a bit of Sibelius piano music. What's not to love? The exact times and places will be announced during spring.
 
-- __28.6 Nilsiä__
-- __6.7 Pyhäjärvi__
-- __14.7 Kiuruvesi__
-- __24.7 Jyväskylä__
-- __18.8 Kaarina__
-- __25.8 Ilomantsi__
+- __28.6__ 7 pm __Nilsiä church__, Kirkonmäentie 1, Nilsiä
+- __6.7__ 8 pm __Pyhäjärvi church__, Oikotie 6, Pyhäjärvi
+- __14.7__ 2 pm __Kulttuuritalo, Kiuru-Hall__ Lähteentie 10, Kiuruvesi
+- __24.7__ 6 pm __Lounaispuisto__, Jyväskylä
+- __18.8__ 6 pm __Kuusisto church__, Linnanrauniontie, Kaarina
 
 <br/>
 
