@@ -7,11 +7,9 @@ lang: en
 
 ## Biography
 
-Jenna Ristilä (b. 1989) began her piano studies at the age of 7 in Savonlinna Music School, where her teacher was Anja Ojanen-Forsberg. In 2006 she was accepted to the Sibelius Academy Youth Department, and a year later to the Department of Performing Arts, with Hamsa Juris and Teppo Koivisto as her teachers. In spring 2014 Ristilä graduated as a master of music, receiving the highest grade from her master's recital. She is grateful to the Finnish Cultural Foundation and the ProMusica Foundation for their support.  
+Jenna Ristilä (b. 1989) is a Finnish pianist. She mostly works with singers, but also performs chamber music and solo repertoire. Ristilä has worked as a music director and pianist in several operas for both adults and children, and she always gets excited about planning lied programs – but she’s just as comfortable while coaching singers, recording or competing. Ristilä is fascinated by contemporary music and she has premiered several works, including the song cycle Guldgrävarens tårar by Johannes Pollak (with mezzosoprano Ylva Gruen), and the chamber opera Jääkausi by Itzam Zapata (with the Start-up Opera group she founded). In addition to her artistic work, Ristilä teaches in [Keski-Vantaa Music School](http://kevamo.com).
 
-In 2010-2011 Ristilä was an exchange student at the Royal Welsh College of Music & Drama in Cardiff. Solo playing was momentarily cast aside as Ristilä collaborated intensely with the vocal music department. She studied lied with Michael Pollock, worked as an assisting opera coach in two opera productions, and accompanied numerous concerts, auditions and master classes.
-
-Ristilä performs regularly as a soloist and accompanist. Currently she studies opera coaching at the Sibelius Academy and teaches at [Keski-Vantaa Music School](http://kevamo.com/). This spring is filled with lied, but there's also time to study a bit of phonetics. However, Ristilä's most important job now is to follow the first weeks of her newborn goddaughter.
+In 2014 Ristilä graduated as a master of music from the Department of Performing Arts at the Sibelius Academy, and in 2018 she completed her second masters degree at the same university, this time with vocal coaching as her major. 2010-2011 Ristilä was an exchange student at the Royal Welsh College of Music & Drama in Cardiff. Her most significant teachers include Teppo Koivisto, Ilmo Ranta and Anja Ojanen-Forsberg, and she has studied classical singing and harpsichord as well as piano.
 
 <br/>
 
