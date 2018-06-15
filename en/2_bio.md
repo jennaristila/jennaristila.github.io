@@ -17,6 +17,16 @@ In 2014 Ristilä graduated as a master of music from the Department of Performin
 
 <br/>
 
+### 2018
+
+__Topelus Now! -children's opera__ was premiered in Annantalo in June. A hilarious take of some of Finland's storytelling genious' finest works, the opera is a collage of famous classical excerpts and new music by Mika Siekkinen. Music is arranged by Ristilä, and she performs the lot with two singers, Mari Karjalainen and Joonas Asikainen. The opera will tour schools in Southern and Eastern Finland during autumn.
+
+__From both sides of the Gulf of Bothnia__ is a series of lied concerts that sent Ristilä and mezzosoprano Ylva Gruen touring Sweden and Finland, funded by the Swedish-Finnish Cultural Foundation. The program includes a commissioned song cycle Guldgrävarens tårar by Johannes Pollak, as well as other exciting music from Nordic masters.
+
+__NightDream__ lied recitals with soprano Anna-Maija Oka are a spectacle of music inspired of all things nightly. English and American songs take turns with stories and facts of the darkest order.
+
+<br/>
+
 ### 2017
 
 __Oskar Merikanto's opera Pohjan neiti__ was performed by Lahti Opera Association as a piano version. Ristilä was the production's musical director and pianist, and got great reviews for her work.
