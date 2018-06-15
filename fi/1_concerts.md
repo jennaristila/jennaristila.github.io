@@ -11,37 +11,6 @@ lang: fi
 
 <br/>
 
-### Siskokset lavalla
-
-Nokkahuilisti Hanna Ristilä soittaa tutkintokonsertissaan barokkisarjan siskonsa Jennan kanssa. Luvassa on barokin hurmaa, vauhtia ja vaarallisia tilanteita.
-
-- __19.4__ klo 13 __Helsingin konservatorio__, Ruoholahdenkatu 6, Helsinki
-
-<br/>
-
-### Yö ja uni
-
-Sopraano Anna-Maija Oka ja Ristilä tuovat teille tarinoita yöstä ja unesta. Mm. Purcellin ja Barberin laulut ja musikaalisävelmätkin kertovat yön eri puolista. Se tarjoaa rakastavaisille turvaa - sitä hallitsee taivaan kuningatar kuu - sade kastelee kuolevan sotilaan - monenlaiset tarinat heräävät henkiin näissä sävellyksissä. Laulujen lomaan on ujutettu tietoa yöstä ja unesta. Mutta miten?
-
-- __22.4__ klo 14 __Järvenpään taidemuseo__, Kirjastokatu 8, Järvenpää
-- __24.5__ klo 18.30 __Huopalahden kirkko__, Vespertie 12, Helsinki
-
-<br/>
-
-### Kuoron kevät
-
-Ristilä soittaa jälleen Tuuslaulajien aina yhtä keväisessä konsertissa. Tervetuloa nauttimaan kuoromusiikista!
-
-- __17.5__ klo 19 __Mikkolan koulu__, Pähkinämäentie 215, Tuusula
-
-<br/>
-
-### Oopperan hurmaa lapsille
-
-Kesäkuun alkupuolella on luvassa uuden lastenoopperan kantaesitys, joka vielä hetken on suuri salaisuus! Kaikki paljastuu toukokuuhun mennessä...
-
-<br/>
-
 ### Pohjanlahden molemmilta puolilta
 
 Mezzosopraano Ylva Gruen ja Ristilä konsertoivat Suomen ja Ruotsin yhteistyön hengessä. Ohjelmassa on suomalaisten säveltäjien lauluja ruotsalaisiin runoihin, sekä ruotsalaisten lauluja suomalaisiin runoihin. Sibelius, Kilpinen ja Stenhammar saavat konsertissa rinnalleen mm. svengaavan tilausteoksen Johannes Pollakilta.
@@ -55,12 +24,11 @@ Mezzosopraano Ylva Gruen ja Ristilä konsertoivat Suomen ja Ruotsin yhteistyön 
 
 Sopraano Sanna Matinniemi ja Ristilä konsertoivat Suomen joka nurkassa kesäisissä tunnelmissa. Luvassa on suomalaisten säveltäjien rakastetuimpia lauluja ja kansansävelmiä, sekä Sibeliuksen pianomusiikkia. Konserttien ajat ja paikat tarkentuvat kevään mittaan.
 
-- __28.6 Nilsiä__
-- __6.7 Pyhäjärvi__
-- __14.7 Kiuruvesi__
-- __24.7 Jyväskylä__
-- __18.8 Kaarina__
-- __25.8 Ilomantsi__
+- __28.6__ klo 19 __Nilsiän kirkko__, Kirkonmäentie 1, Nilsiä
+- __6.7__ klo 20 __Pyhäjärven kirkko__, Oikotie 6, Pyhäjärvi
+- __14.7__ klo 14 __Kulttuuritalon Kiuru-sali__, Lähteentie 10, Kiuruvesi
+- __24.7__ klo 18 __Lounaispuisto__, Jyväskylä
+- __18.8__ klo 18 __Kuusiston kirkko__, Linnanrauniontie, Kaarina
 
 <br/>
 
@@ -69,5 +37,19 @@ Sopraano Sanna Matinniemi ja Ristilä konsertoivat Suomen joka nurkassa kesäisi
 Ristilä toimii yhtenä harjoituspianistina Savonlinnan Musiikkiatakemian kamarimusiikkikurssilla. Luvassa on konsertteja Melartin-salissa sekä gallerioissa viulistien, alttoviulistien, sellistien ja klarinetistien kanssa. Ja tietysti kesäisen Savonlinnan lumo.
 
 - __14-21.7 Savonlinnassa__, konserttien ajat varmistuvat heinäkuussa
+
+<br/>
+
+### Topelius Nyt!
+
+Lastenooppera Topeliuksen satujen pohjalta riemastuttaa koululaisia syksyllä pääkaupunkiseudulla sekä Itä-Suomessa. Lavalla hauskuuttavat sopraano Mari Karjalainen ja baritoni Joonas Asikainen, kun Ristilä syö pianon takana popcornia (oikeasti. Tule katsomaan!) Mika Siekkisen sävellyksen lomassa kuullaan tuttuja klassisen musiikin säveliä, jotka on kokonaisuudeksi sommitellut ja sovittanut Ristilä.
+
+<br/>
+
+### Helsinki Lied
+
+Mezzosopraano Ylva Gruen ja Ristilä etsivät alati uusia kiinnostavia projekteja, ja nyt heillä on tähtäimessä Helsinki Lied -kilpailut. Ohjelmistovalinnan vapaus inspiroi kaivelemaan lied-arkistoja ja etsimään uusia, jännittäviä kappaleita. Mikä ihana tekosyy harjoitella läpi kesän!
+
+- __26-28.10 Helsingin konservatorio__, Ruoholahdentori 6, Helsinki
 
 <br/>
