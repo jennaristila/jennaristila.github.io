@@ -7,11 +7,9 @@ lang: fi
 
 ## Biografia
 
-Jenna Ristilä (s.1989) aloitti pianonsoiton 7-vuotiaana Savonlinnan Musiikkiopistossa Anja Ojanen-Forsbergin johdolla. Vuonna 2006 Ristilä pääsi Sibelius-Akatemian nuorisokoulutukseen ja 2007 esittävän säveltaiteen linjalle opettajinaan Hamsa Juris ja Teppo Koivisto. Keväällä 2014 Ristilä suoritti A-tutkintonsa erinomaisin arvosanoin ja valmistui musiikin maisteriksi.
+Jenna Ristilä (s.1989) on savonlinnalaislähtöinen pianisti. Hän työskentelee enimmäkseen laulajien kanssa, mutta esittää myös kamarimusiikkia ja soolo-ohjelmistoa. Ristiä on toiminut musiikin johtajana ja pianistina niin aikuisten kuin lastenkin oopperoissa ja innostuu aina lied-ohjelmien suunnittelusta – mutta viihtyy hyvin myös säestystunneilla, äänityksissä ja kilpailuissa. Nykymusiikki kiehtoo Ristilää ja hän on kantaesittänyt useita teoksia, mm. Johannes Pollakin laulusarjan Guldgrävarens tårar mezzosopraano Ylva Gruenin kanssa, sekä Itzam Zapatan kamarioopperan Jääkausi perustamansa Start-up Opera -työryhmän voimin. Taiteellisen työnsä ohella Ristilä opettaa pianonsoittoa [Keski-Vantaan Musiikkiopistossa](http://kevamo.com/).
 
-Lukuvuoden 2010-2011 Ristilä oli vaihto-opiskelijana Royal Welsh College of Music & Drama'ssa Cardiffissa. Soolopianismi jäi hetkeksi syrjään Ristilän tehdessä tiivistä yhteistyötä laulumusiikin osaston kanssa. Hän opiskeli liediä Michael Pollockin johdolla, toimi avustavana korrepetiittorina kahdessa oopperassa sekä säesti lukuisia konsertteja, koelauluja ja mestarikursseja.
-
-Ristilä on kokenut esiintyjä ja konsertoi nykyisin erityisesti laulumusiikin parissa. Tällä hetkellä hän täydentää opintojaan Sibelius-Akatemian korrepetitiokoulutuksessa ja opettaa [Keski-Vantaan Musiikkiopistossa](http://kevamo.com/). Tämä kevät on Ristilälle liedintäyteinen, ja hän ehtii myös opiskella vähän eri kielten fonetiikkaa. Tärkein tehtävä nyt kuitenkin on kummilapsen elämän ensiviikkojen ihmettely.
+Ristilä valmistui musiikin maisteriksi Sibelius-Akatemiasta esittävän säveltaiteen linjalta vuonna 2014, ja suoritti 2018 toisen maisterintutkintonsa samassa oppilaitoksessa pääaineenaan korrepetitio. Lukuvuoden 2010-11 hän oli vaihto-opiskelijana Royal Welsh College of Music & Drama’ssa Cardiffissa. Ristilän tärkeimpiä opettajia ovat olleet Teppo Koivisto, Ilmo Ranta sekä Anja Ojanen-Forsberg, ja hän on ehtinyt opiskella pianonsoiton lisäksi myös mm. klassista laulua sekä cembalonsoittoa.
 
 <br/>
 
